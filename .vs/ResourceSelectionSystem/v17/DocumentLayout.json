@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\resourceselectionsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:resourceselectionsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\resourceselectionsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:resourceselectionsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\data\\empskillnormalize.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:data\\empskillnormalize.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\services\\matchingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:services\\matchingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\models\\matchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:models\\matchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\models\\matchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:models\\matchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|e:\\projects 2025\\vsprojects\\resourceselectionsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D493C4-0A4D-4682-93B9-A6E63E45BC96}|ResourceSelectionSystem.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1784,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpSkillNormalize.csv",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Data\\EmpSkillNormalize.csv",
+              "RelativeDocumentMoniker": "Data\\EmpSkillNormalize.csv",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Data\\EmpSkillNormalize.csv",
+              "RelativeToolTip": "Data\\EmpSkillNormalize.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-25T19:12:46.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResourceSelectionSystem",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\ResourceSelectionSystem.csproj",
+              "RelativeDocumentMoniker": "ResourceSelectionSystem.csproj",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\ResourceSelectionSystem.csproj",
+              "RelativeToolTip": "ResourceSelectionSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T18:57:12.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:51:04.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:48:51.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatchingService.cs",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Services\\MatchingService.cs",
+              "RelativeDocumentMoniker": "Services\\MatchingService.cs",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Services\\MatchingService.cs",
+              "RelativeToolTip": "Services\\MatchingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:47:02.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResourceSelectionSystem.csproj",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\ResourceSelectionSystem.csproj",
+              "RelativeDocumentMoniker": "ResourceSelectionSystem.csproj",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\ResourceSelectionSystem.csproj",
+              "RelativeToolTip": "ResourceSelectionSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T16:46:22.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:45:46.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatchResult.cs",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Models\\MatchResult.cs",
+              "RelativeDocumentMoniker": "Models\\MatchResult.cs",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Models\\MatchResult.cs",
+              "RelativeToolTip": "Models\\MatchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:44:49.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MatchRequest.cs",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Models\\MatchRequest.cs",
+              "RelativeDocumentMoniker": "Models\\MatchRequest.cs",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Models\\MatchRequest.cs",
+              "RelativeToolTip": "Models\\MatchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:44:34.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:44:17.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchController.cs",
+              "DocumentMoniker": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Controllers\\MatchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MatchController.cs",
+              "ToolTip": "E:\\Projects 2025\\VsProjects\\ResourceSelectionSystem\\Controllers\\MatchController.cs",
+              "RelativeToolTip": "Controllers\\MatchController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:43:09.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

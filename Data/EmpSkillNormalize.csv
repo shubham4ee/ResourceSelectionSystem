@@ -1,0 +1,1001 @@
+Employee ID,Name,Role,Department,Experience Level,Years of Experience,AutoCAD,Autodesk Inventor,OpenCascade,Three.js,Eyeshot,HOOPS,JavaScript,C#,Python,React,Node.js,ASP.NET,Unity,Unreal Engine,Revit,Navisworks,Current Project,Client,Availability Status,Next Availability Date
+EMP0001,Michael Ramos,Designer,BIM,Junior,14,0,3,3,1,2,2,3,2,0,3,1,2,3,1,3,3,Reinvent E-Business Markets,Siemens,Unavailable,2025-05-28
+EMP0002,Nicole Alvarez,Tester,BIM,Junior,9,3,1,2,2,2,1,3,1,3,0,2,0,3,0,2,1,Incubate Leading-Edge Eyeballs,Autodesk,Available,2025-06-22
+EMP0003,Margaret Davis,Tester,BIM,Senior,16,3,3,2,2,2,2,2,1,2,0,3,1,2,2,2,2,Unleash Plug-And-Play Experiences,Roblox,Available,2025-06-24
+EMP0004,Rachel Burch,Tester,Game Testing,Junior,6,3,3,2,3,0,3,3,2,3,3,2,1,0,0,1,3,Strategize Strategic Experiences,Epic Games,Unavailable,2025-07-19
+EMP0005,Jennifer Smith,Tester,BIM,Mid,20,2,3,3,3,3,2,3,2,2,3,0,1,3,1,2,3,Transition Wireless Portals,Roblox,Available,2025-08-22
+EMP0006,Lauren Hickman,Designer,CAD,Senior,8,3,3,3,2,1,2,0,3,3,3,2,1,3,2,3,2,Syndicate User-Centric Niches,Autodesk,Available,2025-07-19
+EMP0007,Duane Brown,Developer,Game Testing,Mid,20,2,2,2,1,2,1,3,2,3,3,2,1,2,3,1,1,Cultivate Cross-Platform Functionalities,Siemens,Unavailable,2025-08-03
+EMP0008,Jo Camacho,Designer,CAD,Junior,11,3,1,3,1,2,3,1,2,2,2,3,3,2,3,3,2,Incentivize Ubiquitous Markets,Autodesk,Partially Available,2025-08-04
+EMP0009,Jose Cohen,Tester,Game Testing,Junior,19,2,1,3,1,2,2,2,3,3,0,1,0,2,2,2,1,Syndicate Proactive Relationships,Dassault,Available,2025-07-29
+EMP0010,Benjamin Chung,Tester,BIM,Junior,16,0,0,1,3,2,3,3,0,3,3,0,2,2,3,1,3,Re-Contextualize Clicks-And-Mortar Solutions,Epic Games,Available,2025-07-05
+EMP0011,Sarah Robinson,Developer,CAD,Mid,3,3,2,0,3,0,2,3,3,1,3,1,2,1,2,2,2,Evolve Leading-Edge Users,Dassault,Unavailable,2025-07-28
+EMP0012,Chloe Sweeney,Tester,Game Testing,Senior,7,3,3,1,1,2,2,1,3,0,2,2,3,3,0,3,1,Transition Rich Schemas,Roblox,Unavailable,2025-06-30
+EMP0013,Erica Huerta,Tester,BIM,Senior,18,3,3,3,2,2,1,3,2,3,1,2,3,2,3,2,3,Enhance Collaborative Synergies,Siemens,Partially Available,2025-08-05
+EMP0014,Jason Poole,Developer,Game Testing,Mid,11,3,3,2,3,1,3,1,3,3,2,2,2,2,1,2,3,Whiteboard Revolutionary Bandwidth,Siemens,Partially Available,2025-06-15
+EMP0015,Christine Hill,Tester,CAD,Junior,18,1,1,2,3,2,2,1,3,2,2,3,2,3,2,3,2,Empower Interactive Mindshare,Roblox,Unavailable,2025-08-11
+EMP0016,Kelsey Graham,Tester,Game Testing,Senior,12,3,1,3,0,1,3,2,0,2,1,3,1,3,3,1,3,Re-Intermediate Visionary Architectures,Autodesk,Available,2025-05-28
+EMP0017,Courtney Stanley,Tester,CAD,Junior,2,1,1,3,2,2,1,3,2,2,3,2,1,0,3,3,1,Re-Intermediate Synergistic Networks,Dassault,Unavailable,2025-07-29
+EMP0018,Andrew Harris,Designer,Game Testing,Senior,16,3,0,2,3,3,2,2,2,1,1,3,2,3,0,1,3,Empower Ubiquitous Info-Mediaries,Siemens,Partially Available,2025-05-27
+EMP0019,Adrienne Fuller,Developer,BIM,Mid,3,1,2,0,3,3,2,1,3,3,3,3,2,3,3,2,1,Strategize Plug-And-Play Action-Items,Dassault,Unavailable,2025-06-11
+EMP0020,John Rogers,Developer,BIM,Junior,7,3,2,1,3,2,3,2,3,2,2,1,2,2,2,3,2,Iterate One-To-One E-Tailers,Epic Games,Unavailable,2025-07-14
+EMP0021,Autumn Moran,Tester,Game Testing,Junior,14,1,0,3,1,3,2,1,3,3,3,3,1,1,3,3,2,Evolve Innovative Bandwidth,Epic Games,Partially Available,2025-06-15
+EMP0022,Rita Wolfe,Tester,Game Testing,Mid,20,3,3,3,2,2,2,2,3,2,3,3,1,3,2,2,3,Scale Collaborative Interfaces,Epic Games,Available,2025-07-25
+EMP0023,Amber Miller,Tester,CAD,Senior,11,2,3,3,3,0,1,1,3,3,2,2,3,2,3,3,2,Productize Innovative Solutions,Dassault,Partially Available,2025-06-03
+EMP0024,Jessica Hall,Developer,Game Testing,Senior,12,3,3,2,3,1,0,3,3,3,1,2,1,3,2,2,2,Productize B2B Interfaces,Autodesk,Available,2025-07-14
+EMP0025,Melissa Green,Tester,CAD,Senior,14,2,3,3,3,3,1,2,2,1,2,3,0,3,2,3,1,Incentivize Viral Markets,Autodesk,Unavailable,2025-07-23
+EMP0026,Ashley Cisneros,Developer,CAD,Junior,4,3,3,3,0,3,3,3,0,2,0,3,3,3,1,2,1,Scale E-Business Relationships,Roblox,Partially Available,2025-06-19
+EMP0027,Barbara Thompson,Tester,Game Testing,Mid,3,3,2,3,1,1,2,2,3,3,3,2,3,3,2,2,0,Embrace Compelling Markets,Dassault,Unavailable,2025-07-19
+EMP0028,Pamela Rowland,Designer,CAD,Mid,11,2,3,3,0,0,0,3,2,1,3,3,2,2,3,2,1,Unleash Enterprise Roi,Roblox,Available,2025-07-13
+EMP0029,Joseph Mathis,Developer,CAD,Senior,5,3,1,1,3,3,2,2,3,1,3,2,2,0,3,3,0,Transform One-To-One Convergence,Siemens,Unavailable,2025-05-27
+EMP0030,Kristin Prince,Developer,Game Testing,Senior,18,0,2,1,2,3,3,3,3,2,2,2,3,2,3,1,3,E-Enable Open-Source Networks,Autodesk,Partially Available,2025-07-20
+EMP0031,Ms. Krystal Gomez MD,Developer,BIM,Junior,6,1,2,3,3,1,3,2,3,2,2,1,1,1,2,3,2,Syndicate Scalable Solutions,Epic Games,Available,2025-08-17
+EMP0032,Amy Pittman,Designer,Game Testing,Mid,1,3,3,1,3,3,3,1,3,2,1,2,2,3,0,3,3,Optimize Back-End E-Markets,Autodesk,Partially Available,2025-07-30
+EMP0033,Jennifer Simpson,Developer,BIM,Senior,5,1,0,3,3,2,2,2,2,2,2,2,2,3,1,1,3,Seize Rich E-Services,Dassault,Unavailable,2025-06-12
+EMP0034,John Kirby,Designer,BIM,Mid,4,2,2,3,3,1,2,3,3,3,1,3,2,0,3,3,1,Scale Cross-Platform Info-Mediaries,Epic Games,Unavailable,2025-06-26
+EMP0035,Jessica Riley,Designer,Game Testing,Junior,8,1,0,3,2,2,2,1,3,3,3,2,3,3,3,1,3,Evolve Best-Of-Breed Mindshare,Autodesk,Unavailable,2025-06-18
+EMP0036,Caleb Dominguez,Developer,BIM,Senior,1,3,3,3,2,3,2,3,2,2,3,2,1,3,1,2,3,Enable Distributed Web-Readiness,Siemens,Unavailable,2025-06-26
+EMP0037,Donna Martinez,Designer,Game Testing,Mid,17,0,2,1,3,2,3,2,3,3,2,2,1,3,1,2,2,Incubate Plug-And-Play Models,Roblox,Available,2025-08-05
+EMP0038,Brad Cox,Tester,Game Testing,Senior,14,3,2,1,3,1,2,1,3,1,1,0,3,2,3,3,3,Redefine Back-End Vortals,Dassault,Unavailable,2025-07-17
+EMP0039,Nicole Bowen,Designer,CAD,Senior,16,3,0,2,0,3,1,3,1,2,3,2,3,1,2,3,2,Synthesize Value-Added Vortals,Dassault,Partially Available,2025-06-23
+EMP0040,Alexandria Williams,Designer,Game Testing,Junior,3,1,1,2,2,0,2,3,3,2,3,1,3,1,1,2,1,Monetize Magnetic Portals,Dassault,Available,2025-07-06
+EMP0041,Jonathan White,Developer,BIM,Junior,5,0,2,3,3,2,0,2,2,1,3,3,2,3,3,3,3,Exploit Virtual Portals,Siemens,Partially Available,2025-07-26
+EMP0042,Michael Hart,Developer,CAD,Senior,10,3,3,2,2,3,3,3,2,3,3,2,2,3,2,1,2,Engineer Integrated Initiatives,Autodesk,Partially Available,2025-08-21
+EMP0043,Caroline Green,Developer,CAD,Junior,17,3,1,0,1,1,1,2,3,1,1,2,3,2,3,3,2,Enable Real-Time Models,Dassault,Partially Available,2025-06-26
+EMP0044,Elizabeth Thomas,Tester,BIM,Mid,2,3,3,0,2,3,1,2,0,3,3,3,3,0,3,3,3,Synthesize B2B Platforms,Epic Games,Unavailable,2025-06-10
+EMP0045,Brooke Anderson,Developer,CAD,Mid,8,3,3,3,2,2,3,3,2,2,3,1,0,3,2,2,1,Brand Visionary Markets,Dassault,Partially Available,2025-07-16
+EMP0046,Lee Torres,Designer,Game Testing,Junior,15,2,3,3,1,2,1,3,0,0,0,0,2,2,2,3,2,Morph User-Centric Technologies,Dassault,Partially Available,2025-06-16
+EMP0047,Karen Alexander,Tester,CAD,Junior,19,3,0,3,3,3,1,3,0,2,3,1,2,2,1,1,2,Benchmark Killer Eyeballs,Epic Games,Partially Available,2025-06-12
+EMP0048,Ryan Stephens,Developer,Game Testing,Mid,19,1,1,3,0,3,2,2,3,2,2,3,1,3,3,2,3,Re-Contextualize Virtual Communities,Dassault,Partially Available,2025-08-17
+EMP0049,Andrew Joseph,Developer,BIM,Mid,5,1,3,2,2,3,3,1,1,1,2,3,1,1,2,1,2,Enhance Enterprise E-Markets,Dassault,Unavailable,2025-05-31
+EMP0050,Janice Ruiz,Developer,Game Testing,Senior,13,1,2,0,0,3,2,2,3,2,1,3,0,1,0,1,3,Integrate Transparent Convergence,Dassault,Unavailable,2025-08-10
+EMP0051,Melissa Hernandez,Designer,CAD,Mid,9,2,1,2,2,3,3,3,1,3,3,1,2,1,3,2,1,Transform World-Class Relationships,Autodesk,Partially Available,2025-07-24
+EMP0052,Jeff Williams,Designer,Game Testing,Senior,1,2,3,2,3,2,1,3,2,3,2,3,0,3,1,3,1,Revolutionize Efficient Infrastructures,Autodesk,Partially Available,2025-05-27
+EMP0053,Meghan Ramsey,Developer,CAD,Junior,8,2,3,2,3,1,2,2,3,2,2,0,0,2,3,0,3,Transform Integrated Networks,Dassault,Unavailable,2025-06-13
+EMP0054,Jesse Gilbert,Designer,CAD,Mid,4,2,2,3,3,2,2,3,2,2,1,3,3,2,3,2,3,Evolve Mission-Critical Web-Readiness,Siemens,Partially Available,2025-06-10
+EMP0055,Lori Hill,Designer,BIM,Junior,7,3,1,3,3,3,3,0,1,3,3,3,2,0,1,1,2,Incubate Integrated Info-Mediaries,Siemens,Unavailable,2025-06-11
+EMP0056,Leslie Grimes,Designer,CAD,Senior,18,3,0,1,3,0,0,3,2,3,1,1,2,1,3,3,2,E-Enable Holistic Synergies,Autodesk,Unavailable,2025-06-05
+EMP0057,William Weaver,Tester,BIM,Senior,12,3,0,1,3,3,1,1,3,3,2,2,3,2,2,3,3,Re-Intermediate Mission-Critical Initiatives,Siemens,Available,2025-07-09
+EMP0058,Dana Smith,Developer,Game Testing,Mid,2,3,3,2,3,1,3,2,3,1,1,1,1,1,3,3,3,Integrate Vertical Niches,Epic Games,Unavailable,2025-07-05
+EMP0059,Sandra Morrow,Tester,CAD,Mid,4,3,1,1,2,3,2,3,3,3,3,2,1,3,0,2,3,Deliver 24/365 E-Tailers,Siemens,Partially Available,2025-06-24
+EMP0060,Victoria Guerrero,Tester,Game Testing,Senior,19,2,1,3,0,1,3,3,3,0,1,3,3,1,1,2,1,Morph Virtual Vortals,Autodesk,Unavailable,2025-07-03
+EMP0061,Alexander Torres,Developer,CAD,Junior,4,3,3,2,1,1,2,2,2,2,2,2,2,3,3,0,2,Visualize Robust Portals,Siemens,Unavailable,2025-06-04
+EMP0062,Joshua Rodriguez,Developer,Game Testing,Mid,20,3,0,3,3,1,2,1,2,2,2,3,3,3,2,2,2,Integrate Dot-Com Interfaces,Roblox,Partially Available,2025-08-22
+EMP0063,Rebecca Cox,Designer,Game Testing,Senior,7,2,0,3,3,0,2,1,0,3,0,2,2,2,1,3,3,Visualize Visionary Interfaces,Autodesk,Available,2025-08-02
+EMP0064,Joshua Murphy,Designer,Game Testing,Junior,16,1,2,3,3,2,3,3,2,2,2,0,2,2,3,2,3,Disintermediate Dot-Com Paradigms,Siemens,Available,2025-06-25
+EMP0065,Chad Pittman,Designer,BIM,Mid,18,1,3,0,2,3,3,1,2,3,3,3,3,2,3,3,3,Extend One-To-One Methodologies,Roblox,Available,2025-06-22
+EMP0066,Brandy Elliott,Tester,Game Testing,Senior,7,3,3,2,1,3,2,0,3,2,2,2,1,3,1,0,3,Morph Innovative Partnerships,Dassault,Unavailable,2025-06-29
+EMP0067,Stephanie Boone,Tester,Game Testing,Senior,8,3,2,2,3,3,3,1,3,1,3,3,0,1,3,2,2,Morph Clicks-And-Mortar Architectures,Siemens,Unavailable,2025-08-23
+EMP0068,Sean Stewart,Developer,Game Testing,Mid,14,3,2,2,3,2,1,1,3,3,2,3,3,2,1,2,3,Re-Contextualize Global Web Services,Siemens,Available,2025-08-15
+EMP0069,Kevin Roberts,Tester,CAD,Senior,3,2,2,2,0,3,2,3,2,3,1,3,3,1,2,1,3,Extend Web-Enabled Info-Mediaries,Autodesk,Partially Available,2025-07-09
+EMP0070,Jose Mccullough,Designer,CAD,Senior,3,2,3,1,3,3,3,3,2,2,2,2,3,1,2,3,2,Architect Back-End Deliverables,Siemens,Partially Available,2025-07-13
+EMP0071,Melissa Gordon,Tester,CAD,Senior,4,0,3,3,2,1,2,1,3,2,2,2,1,0,2,0,3,Iterate Compelling Methodologies,Epic Games,Available,2025-07-28
+EMP0072,Anthony Henderson,Tester,BIM,Senior,3,2,2,2,0,3,2,0,3,2,1,2,3,2,1,2,3,Visualize Intuitive Interfaces,Epic Games,Available,2025-07-07
+EMP0073,Melissa Jones,Tester,CAD,Mid,2,1,3,3,3,2,3,2,2,2,3,1,3,2,3,1,2,Evolve Enterprise Niches,Epic Games,Available,2025-06-17
+EMP0074,Adam Meyer,Designer,Game Testing,Senior,19,1,1,2,1,3,2,3,2,3,3,1,2,1,3,3,1,Target Magnetic Supply-Chains,Roblox,Partially Available,2025-08-22
+EMP0075,Michael Edwards,Tester,Game Testing,Junior,2,2,3,1,3,3,3,3,3,2,2,2,0,3,3,3,3,Transform Next-Generation Networks,Dassault,Partially Available,2025-05-26
+EMP0076,Jacqueline Bell,Tester,Game Testing,Junior,9,1,1,3,2,2,3,3,3,1,0,0,3,3,3,1,3,Utilize Synergistic Schemas,Autodesk,Partially Available,2025-07-24
+EMP0077,Lisa Williams,Tester,Game Testing,Mid,12,3,3,1,0,2,3,3,1,3,2,3,0,2,2,3,2,E-Enable Cross-Media Web-Readiness,Epic Games,Partially Available,2025-07-24
+EMP0078,Morgan Espinoza,Designer,CAD,Mid,1,1,2,3,2,1,2,3,1,2,0,0,2,2,3,3,3,Scale User-Centric Niches,Siemens,Unavailable,2025-06-26
+EMP0079,James Austin,Designer,BIM,Mid,6,2,1,1,1,3,1,3,1,3,1,3,0,2,3,3,3,Drive Efficient Web Services,Dassault,Unavailable,2025-06-24
+EMP0080,Pamela Johnson,Tester,BIM,Mid,2,3,2,3,1,3,3,2,0,1,2,3,2,3,3,2,1,Exploit One-To-One Technologies,Roblox,Partially Available,2025-06-20
+EMP0081,Joseph Mercado,Tester,CAD,Mid,13,3,3,1,2,3,3,0,2,2,2,0,3,3,1,3,1,Synthesize Plug-And-Play Paradigms,Epic Games,Unavailable,2025-06-07
+EMP0082,Marcus Thomas,Designer,BIM,Junior,1,3,3,3,1,2,2,3,1,2,3,3,3,1,2,0,3,Redefine B2B Solutions,Siemens,Partially Available,2025-07-07
+EMP0083,Gabriela Williams,Tester,BIM,Senior,3,3,2,3,3,3,3,2,1,2,2,3,3,3,2,2,2,Aggregate Viral Paradigms,Epic Games,Partially Available,2025-08-10
+EMP0084,Jennifer Thornton,Developer,CAD,Mid,5,3,3,2,1,2,3,1,3,0,2,3,2,3,3,3,3,Revolutionize Next-Generation Mindshare,Autodesk,Partially Available,2025-05-26
+EMP0085,Brittany Carey,Tester,Game Testing,Mid,13,3,1,0,1,2,3,0,3,3,1,2,3,3,0,2,2,Repurpose Robust Communities,Epic Games,Available,2025-07-10
+EMP0086,Danielle Hardin,Designer,Game Testing,Mid,2,2,2,2,3,3,1,1,3,1,0,0,3,1,3,2,3,Orchestrate Bleeding-Edge Eyeballs,Autodesk,Partially Available,2025-07-12
+EMP0087,Mr. Jim Roach,Tester,Game Testing,Senior,1,2,3,3,1,1,3,1,3,3,0,3,1,3,3,3,3,Engage Integrated E-Tailers,Autodesk,Partially Available,2025-07-30
+EMP0088,Natalie Pearson,Developer,Game Testing,Senior,1,2,0,3,3,3,3,0,2,0,2,0,0,3,1,2,1,Synergize Turn-Key E-Tailers,Epic Games,Partially Available,2025-06-25
+EMP0089,Michelle Bartlett,Developer,BIM,Junior,13,3,3,2,2,3,1,0,3,2,2,2,2,2,2,2,3,Innovate One-To-One Web-Readiness,Siemens,Available,2025-05-26
+EMP0090,Ryan Martin,Designer,BIM,Mid,9,2,0,2,2,2,3,3,1,0,2,2,2,2,1,1,1,Deliver Cross-Platform Communities,Epic Games,Unavailable,2025-08-15
+EMP0091,Diana Harris,Developer,BIM,Senior,3,2,1,3,2,3,1,2,1,2,2,1,3,0,0,3,3,Drive Rich Applications,Roblox,Partially Available,2025-06-29
+EMP0092,Jeffrey Smith,Designer,CAD,Junior,17,1,2,3,0,3,3,0,3,0,0,2,2,3,3,3,3,Cultivate Vertical Vortals,Siemens,Available,2025-06-14
+EMP0093,Dana Chang,Developer,BIM,Junior,18,1,0,2,3,2,0,2,1,3,3,3,3,2,1,3,3,Deploy User-Centric Mindshare,Epic Games,Unavailable,2025-07-05
+EMP0094,Jennifer Crawford,Tester,BIM,Mid,19,3,3,3,3,0,2,2,3,2,3,2,2,0,1,1,3,Harness Revolutionary Relationships,Siemens,Unavailable,2025-06-27
+EMP0095,Steven Rodriguez,Tester,BIM,Junior,17,2,1,3,3,2,3,3,2,1,3,2,0,2,3,3,1,Engineer Impactful Platforms,Roblox,Unavailable,2025-08-09
+EMP0096,Patricia Thomas,Designer,Game Testing,Junior,15,2,0,2,2,2,2,1,0,2,0,2,1,0,3,2,3,Optimize Interactive Channels,Dassault,Partially Available,2025-06-29
+EMP0097,Mark Reed,Designer,Game Testing,Senior,5,3,2,0,1,3,3,1,3,2,3,0,3,2,3,2,1,Syndicate Interactive Experiences,Epic Games,Partially Available,2025-07-14
+EMP0098,Scott Watson,Designer,BIM,Senior,11,3,3,0,2,3,3,3,2,1,1,1,2,3,2,3,3,Benchmark Seamless Initiatives,Autodesk,Available,2025-07-20
+EMP0099,Dr. Paula Garrett,Tester,CAD,Senior,8,3,0,3,2,2,1,3,2,2,1,2,3,3,1,2,3,Redefine Open-Source Web-Readiness,Autodesk,Unavailable,2025-08-14
+EMP0100,Arthur Wolf,Designer,Game Testing,Junior,18,2,2,0,3,3,0,3,2,1,1,3,2,2,1,2,3,Visualize Innovative Systems,Siemens,Unavailable,2025-08-06
+EMP0101,Sandra King,Developer,Game Testing,Senior,18,1,3,0,2,3,3,2,1,3,1,2,2,2,3,3,3,Iterate Synergistic Interfaces,Siemens,Available,2025-07-22
+EMP0102,Laura Peterson,Designer,Game Testing,Junior,1,3,3,2,2,2,2,3,0,3,3,1,2,3,1,3,2,Incubate Bleeding-Edge Paradigms,Dassault,Unavailable,2025-06-05
+EMP0103,Cory Thomas,Developer,CAD,Junior,8,3,3,0,2,3,1,1,2,1,0,2,1,2,2,2,1,Innovate Bleeding-Edge Supply-Chains,Epic Games,Partially Available,2025-08-06
+EMP0104,Robert Jones,Designer,BIM,Mid,9,3,2,2,2,1,2,1,1,3,2,3,3,0,3,2,2,Innovate Bleeding-Edge Networks,Roblox,Available,2025-07-27
+EMP0105,Mike Huerta,Developer,Game Testing,Junior,18,0,2,2,2,1,2,3,3,1,3,2,2,2,3,2,3,Synergize E-Business Bandwidth,Siemens,Partially Available,2025-08-05
+EMP0106,Matthew Scott,Developer,Game Testing,Mid,19,2,1,3,3,3,3,2,3,3,2,0,3,0,1,0,3,Engage Dynamic Markets,Roblox,Available,2025-08-18
+EMP0107,Gary Marshall,Developer,Game Testing,Mid,9,2,3,3,1,0,1,3,0,2,2,3,3,3,3,0,3,Harness Out-Of-The-Box Technologies,Roblox,Partially Available,2025-07-05
+EMP0108,Anthony Cantu,Designer,BIM,Junior,2,3,3,1,1,3,1,2,2,3,3,3,2,0,3,3,3,Brand Vertical E-Business,Dassault,Unavailable,2025-05-31
+EMP0109,Gilbert Torres,Developer,Game Testing,Mid,7,1,1,2,2,3,1,1,0,1,1,2,3,3,3,1,1,Optimize Cross-Platform E-Tailers,Autodesk,Partially Available,2025-07-29
+EMP0110,Courtney Owen,Tester,Game Testing,Mid,17,1,3,3,0,3,3,0,1,2,3,3,2,3,2,0,2,Strategize Robust Bandwidth,Siemens,Partially Available,2025-07-13
+EMP0111,Jacqueline Henderson,Designer,BIM,Junior,14,0,3,2,2,2,2,3,3,3,2,1,3,0,0,3,1,Cultivate Web-Enabled Solutions,Roblox,Unavailable,2025-05-29
+EMP0112,Cathy Miller,Developer,BIM,Junior,1,3,3,3,1,3,0,2,2,3,3,3,3,0,2,1,2,Monetize Bricks-And-Clicks Roi,Siemens,Unavailable,2025-07-11
+EMP0113,Lisa Moore,Designer,BIM,Mid,5,3,1,2,0,3,2,2,1,3,3,2,3,3,3,2,3,Architect Killer Vortals,Epic Games,Partially Available,2025-08-17
+EMP0114,Johnny Smith,Tester,Game Testing,Junior,13,1,2,0,1,2,3,3,3,3,3,3,1,1,1,2,2,Seize Holistic Synergies,Epic Games,Partially Available,2025-08-07
+EMP0115,Steven Zamora,Designer,BIM,Mid,15,3,3,3,2,3,2,2,3,3,3,3,3,3,2,2,3,Innovate Value-Added Niches,Epic Games,Partially Available,2025-08-05
+EMP0116,Jeremy Thomas,Developer,Game Testing,Mid,8,3,2,3,0,0,2,3,3,1,2,3,1,2,3,2,3,Streamline Mission-Critical Mindshare,Epic Games,Unavailable,2025-06-06
+EMP0117,Mindy Tucker,Tester,Game Testing,Junior,12,1,2,2,2,2,2,1,3,2,2,2,1,1,3,1,3,Re-Intermediate Wireless Communities,Autodesk,Partially Available,2025-08-03
+EMP0118,Lisa Vasquez,Developer,CAD,Senior,3,3,2,0,1,2,2,2,0,2,3,2,2,0,3,2,2,Seize Visionary Platforms,Roblox,Available,2025-08-23
+EMP0119,Bryan Tyler,Developer,CAD,Mid,15,3,2,3,3,3,0,1,2,1,3,2,0,2,1,1,3,Maximize Integrated Action-Items,Epic Games,Unavailable,2025-07-23
+EMP0120,Samuel Castro DDS,Developer,Game Testing,Senior,16,2,3,2,0,0,1,0,3,2,1,3,3,2,3,2,1,Monetize One-To-One Users,Dassault,Available,2025-06-17
+EMP0121,Denise Armstrong,Developer,CAD,Senior,9,3,3,2,3,2,3,3,2,2,3,3,3,3,2,1,2,Exploit Holistic E-Business,Siemens,Available,2025-06-01
+EMP0122,Hunter Lane,Tester,Game Testing,Mid,18,3,3,0,3,2,3,3,2,3,2,2,3,0,3,3,1,Extend Next-Generation Users,Epic Games,Partially Available,2025-08-08
+EMP0123,Ryan Ross,Designer,CAD,Mid,18,1,1,3,1,2,2,3,3,3,2,3,3,3,1,3,2,Visualize Scalable Partnerships,Epic Games,Unavailable,2025-08-10
+EMP0124,Noah Banks,Developer,CAD,Senior,5,1,3,3,2,1,0,2,1,3,2,2,2,3,3,1,3,Integrate Mission-Critical Infrastructures,Autodesk,Partially Available,2025-08-09
+EMP0125,Miguel Williams,Tester,BIM,Mid,18,3,2,2,3,1,3,3,3,0,0,1,2,3,2,2,3,Leverage Wireless Info-Mediaries,Epic Games,Available,2025-08-19
+EMP0126,Jesse Peters,Tester,BIM,Mid,20,1,2,2,2,2,0,3,1,0,0,3,2,1,3,2,3,Extend Best-Of-Breed Networks,Epic Games,Partially Available,2025-07-27
+EMP0127,Jacob Cardenas,Tester,BIM,Mid,7,1,1,2,1,3,0,2,2,2,2,0,1,2,1,3,3,Unleash Value-Added Models,Siemens,Partially Available,2025-08-08
+EMP0128,Jason Wright,Designer,CAD,Senior,17,2,3,1,3,1,3,3,1,3,1,1,1,3,3,3,1,Engineer Efficient Mindshare,Epic Games,Unavailable,2025-07-14
+EMP0129,Mark Fox,Tester,BIM,Mid,9,3,2,2,1,2,2,3,3,3,1,3,3,3,2,3,1,Productize Holistic Metrics,Roblox,Unavailable,2025-06-11
+EMP0130,Richard Lawson,Developer,BIM,Junior,16,1,3,3,2,1,2,3,3,3,2,3,0,1,1,3,3,Matrix Transparent Schemas,Siemens,Available,2025-08-20
+EMP0131,Walter Thomas,Developer,Game Testing,Junior,5,3,2,2,0,1,1,3,2,1,3,2,1,2,3,1,1,Repurpose Enterprise Partnerships,Epic Games,Partially Available,2025-07-25
+EMP0132,Adam Brown,Tester,Game Testing,Senior,3,3,1,2,1,2,1,3,2,1,3,1,2,3,3,3,3,Enhance Wireless Metrics,Roblox,Partially Available,2025-08-13
+EMP0133,Tyler Patel,Tester,BIM,Junior,7,3,0,1,2,3,3,2,3,0,3,1,3,1,3,2,3,Repurpose Ubiquitous Info-Mediaries,Siemens,Unavailable,2025-07-10
+EMP0134,Mariah Alvarez,Designer,BIM,Junior,4,3,2,2,2,3,2,1,0,1,2,2,3,3,3,1,2,Extend Cross-Platform Content,Siemens,Available,2025-06-02
+EMP0135,Roberta Rogers,Tester,BIM,Senior,2,2,2,2,0,0,3,2,0,0,2,2,2,2,3,2,1,Morph Distributed Relationships,Roblox,Partially Available,2025-07-11
+EMP0136,Kimberly Lopez,Designer,BIM,Junior,9,3,1,3,0,3,0,3,1,3,3,2,3,3,2,3,0,Implement Value-Added E-Commerce,Siemens,Unavailable,2025-06-12
+EMP0137,Christopher Gardner,Developer,CAD,Mid,3,1,1,3,2,3,2,2,1,0,3,1,0,1,1,1,3,Repurpose Visionary Convergence,Dassault,Available,2025-08-07
+EMP0138,Joseph Obrien,Tester,BIM,Mid,3,3,1,3,0,1,2,2,1,2,3,1,3,3,3,2,2,Harness B2B E-Commerce,Roblox,Available,2025-07-07
+EMP0139,Dr. Kathryn Smith,Developer,CAD,Junior,10,2,1,3,1,3,2,3,3,2,1,0,2,0,1,2,1,Synergize Customized Relationships,Epic Games,Available,2025-08-01
+EMP0140,Amanda Gordon,Developer,CAD,Senior,2,3,2,1,2,1,3,2,3,3,2,3,3,2,3,3,3,Enable Out-Of-The-Box Info-Mediaries,Roblox,Available,2025-06-14
+EMP0141,Angela Acosta,Tester,CAD,Senior,14,3,3,1,3,1,2,3,1,2,3,3,2,3,2,0,3,Brand Magnetic Methodologies,Siemens,Partially Available,2025-08-09
+EMP0142,Alexis Barnes,Designer,BIM,Mid,6,2,2,3,3,1,3,3,3,1,3,3,3,2,1,0,2,Brand Plug-And-Play Networks,Siemens,Available,2025-06-06
+EMP0143,Katie Sanders,Developer,Game Testing,Junior,8,2,0,3,3,1,3,2,3,3,3,3,0,0,0,0,2,Deliver Granular E-Business,Roblox,Available,2025-08-09
+EMP0144,Taylor Brady,Tester,BIM,Junior,7,2,2,3,2,0,1,1,3,3,3,3,3,0,3,3,0,Evolve Next-Generation Metrics,Siemens,Available,2025-08-05
+EMP0145,Michael Bradford,Designer,CAD,Senior,20,2,2,2,1,2,3,2,3,2,3,3,0,1,3,2,2,Optimize Innovative Solutions,Autodesk,Available,2025-06-01
+EMP0146,Melanie Jimenez,Developer,BIM,Senior,20,3,3,3,3,1,1,3,0,3,2,3,2,1,3,3,3,Deliver Turn-Key Models,Dassault,Available,2025-08-06
+EMP0147,Taylor Norman,Tester,CAD,Mid,4,0,3,2,0,1,1,1,1,3,1,2,1,3,3,3,2,Redefine Wireless Applications,Epic Games,Unavailable,2025-06-07
+EMP0148,Phillip Wilson,Tester,CAD,Mid,3,1,0,0,1,2,2,3,0,0,0,0,2,3,1,2,0,Enhance Intuitive Schemas,Epic Games,Available,2025-08-20
+EMP0149,Jessica Johnson,Designer,Game Testing,Junior,15,3,3,3,3,2,2,2,2,3,0,3,2,1,1,2,2,Unleash Mission-Critical Info-Mediaries,Roblox,Available,2025-08-10
+EMP0150,Vincent Trujillo,Designer,Game Testing,Junior,2,3,2,3,2,3,2,2,2,2,2,2,2,2,2,0,3,Visualize Distributed Convergence,Dassault,Available,2025-06-27
+EMP0151,Mr. Christopher Landry DDS,Tester,Game Testing,Senior,19,3,2,3,2,2,3,3,2,3,3,3,1,3,1,2,3,Generate Interactive Niches,Dassault,Available,2025-06-19
+EMP0152,Emily Cook,Designer,CAD,Senior,15,3,1,1,1,2,3,0,2,3,3,1,2,2,3,2,3,Cultivate Strategic Infrastructures,Autodesk,Unavailable,2025-06-18
+EMP0153,Molly Trujillo,Tester,BIM,Mid,18,2,1,2,3,3,0,3,3,2,2,1,2,1,1,2,0,Generate Cross-Platform Initiatives,Roblox,Available,2025-07-01
+EMP0154,Norma Dominguez,Developer,CAD,Mid,20,0,0,3,3,3,3,3,2,2,1,2,3,3,3,2,3,Harness Intuitive Channels,Epic Games,Available,2025-08-23
+EMP0155,Theodore Ball,Tester,Game Testing,Mid,16,0,2,3,1,3,3,2,2,3,1,1,2,3,2,3,2,Target Enterprise Users,Dassault,Unavailable,2025-07-06
+EMP0156,Michael Harrington,Designer,CAD,Junior,19,2,3,2,3,2,3,3,1,3,3,1,3,2,2,3,2,Target Cutting-Edge Methodologies,Roblox,Unavailable,2025-05-29
+EMP0157,Christopher Lewis,Developer,BIM,Mid,17,3,3,1,0,3,1,3,1,2,1,0,1,1,2,2,2,Transform Vertical Supply-Chains,Dassault,Available,2025-06-11
+EMP0158,Samuel Freeman,Designer,CAD,Senior,17,1,1,3,3,1,3,3,2,1,2,3,1,3,2,2,3,Architect Mission-Critical Initiatives,Siemens,Available,2025-06-13
+EMP0159,Jamie Lee,Developer,BIM,Junior,18,1,1,1,2,1,2,2,3,2,1,3,3,3,2,3,0,Innovate Compelling E-Commerce,Epic Games,Available,2025-07-29
+EMP0160,Kristie Oliver,Developer,BIM,Junior,15,3,2,1,0,1,1,2,2,0,2,2,0,0,3,3,1,Whiteboard Cross-Platform Web-Readiness,Siemens,Unavailable,2025-05-28
+EMP0161,Sara Davis,Developer,CAD,Senior,12,3,2,2,2,1,3,2,2,2,2,0,0,3,3,3,1,Transition E-Business Convergence,Epic Games,Unavailable,2025-06-25
+EMP0162,Lori Davis,Designer,BIM,Senior,20,2,0,3,2,2,3,3,2,1,2,3,2,1,3,3,1,Drive Innovative E-Business,Roblox,Unavailable,2025-08-16
+EMP0163,Jeffery Powell,Developer,BIM,Junior,5,1,3,2,1,3,0,3,2,1,2,0,1,1,3,2,3,Facilitate Granular Relationships,Epic Games,Unavailable,2025-08-18
+EMP0164,Sean Cook Jr.,Tester,CAD,Mid,17,0,3,2,1,3,2,3,3,1,1,2,3,2,2,3,3,Empower Best-Of-Breed Roi,Autodesk,Available,2025-08-22
+EMP0165,Kevin Collins,Developer,BIM,Mid,12,1,2,0,3,3,3,2,3,3,3,2,2,0,0,3,2,Synthesize Strategic Relationships,Epic Games,Partially Available,2025-07-09
+EMP0166,Mitchell Edwards,Developer,CAD,Junior,3,3,0,3,3,3,2,2,2,3,0,0,3,3,3,2,3,Exploit Collaborative Partnerships,Epic Games,Unavailable,2025-07-05
+EMP0167,Stephen Bright,Designer,BIM,Mid,5,2,2,3,3,1,3,1,2,2,1,3,2,0,2,2,1,Harness Clicks-And-Mortar Markets,Epic Games,Available,2025-07-29
+EMP0168,Heather Frost,Designer,CAD,Mid,9,3,1,3,2,1,2,3,3,2,3,2,3,1,1,2,3,Deliver Virtual Bandwidth,Roblox,Unavailable,2025-07-25
+EMP0169,Briana Curtis,Tester,CAD,Junior,7,3,1,3,0,2,2,3,3,3,2,1,1,1,2,3,3,Synergize Proactive Infrastructures,Autodesk,Unavailable,2025-06-30
+EMP0170,Eric Carter,Developer,CAD,Junior,8,3,3,0,3,3,3,1,2,2,2,3,1,0,0,3,2,Integrate 24/365 Architectures,Dassault,Unavailable,2025-07-10
+EMP0171,Lisa Marks,Designer,Game Testing,Senior,20,1,3,3,2,2,2,3,2,0,0,0,3,3,3,1,2,Engage Virtual E-Business,Roblox,Partially Available,2025-06-15
+EMP0172,Cheryl Moore,Developer,Game Testing,Junior,11,1,1,1,3,2,1,3,2,2,3,0,3,3,2,1,1,Incubate Magnetic Technologies,Epic Games,Partially Available,2025-07-11
+EMP0173,Kristi Sanford,Developer,Game Testing,Mid,1,3,2,3,2,0,2,3,3,1,3,2,1,3,3,0,3,Evolve 24/7 Systems,Dassault,Unavailable,2025-07-26
+EMP0174,Robert Graves,Tester,Game Testing,Senior,7,2,2,3,2,0,2,2,2,2,2,3,1,2,3,1,2,Reinvent Magnetic Architectures,Autodesk,Partially Available,2025-06-14
+EMP0175,Victoria Merritt,Designer,Game Testing,Mid,7,2,2,2,1,1,1,3,2,3,2,3,3,3,0,2,3,Enable Magnetic Methodologies,Autodesk,Partially Available,2025-07-28
+EMP0176,Derrick Johnson,Developer,BIM,Mid,4,1,1,3,2,2,1,3,0,2,1,3,0,0,3,2,0,Matrix Proactive Web-Readiness,Roblox,Partially Available,2025-07-03
+EMP0177,Molly Reynolds,Designer,CAD,Junior,3,0,2,3,2,2,3,2,2,3,0,2,1,1,3,2,2,Maximize Global Paradigms,Epic Games,Partially Available,2025-08-15
+EMP0178,Alexis Morales,Tester,Game Testing,Mid,19,2,1,2,2,2,1,1,3,2,3,3,3,3,2,3,3,Mesh B2B Supply-Chains,Siemens,Available,2025-05-27
+EMP0179,Sandra Ball,Tester,Game Testing,Mid,18,2,0,1,2,3,3,3,2,2,0,3,3,3,3,2,3,Iterate Real-Time Networks,Dassault,Partially Available,2025-06-01
+EMP0180,Brandon Marsh,Designer,BIM,Senior,19,3,3,2,3,2,2,1,0,2,3,1,3,3,2,2,3,Strategize B2C Users,Siemens,Available,2025-06-12
+EMP0181,Kathy Campbell,Tester,BIM,Junior,7,3,3,0,1,2,1,3,1,2,0,2,1,3,3,3,1,Utilize Leading-Edge Relationships,Autodesk,Unavailable,2025-07-27
+EMP0182,Nicole Ramos,Designer,CAD,Mid,4,3,3,2,2,2,2,3,3,3,3,3,3,2,1,1,1,Cultivate Innovative Partnerships,Siemens,Unavailable,2025-07-10
+EMP0183,Gabriel Jensen,Tester,Game Testing,Mid,8,2,3,0,2,1,3,1,3,2,3,2,2,0,3,1,2,Extend Value-Added Paradigms,Epic Games,Available,2025-08-12
+EMP0184,Stephen Jensen,Tester,BIM,Senior,3,3,3,1,2,2,2,3,1,3,1,0,1,3,1,2,1,Seize One-To-One Roi,Epic Games,Partially Available,2025-08-15
+EMP0185,Joseph Gutierrez,Developer,BIM,Junior,9,0,0,2,1,0,3,2,2,0,1,2,3,3,1,3,2,Engage Granular Initiatives,Siemens,Available,2025-07-17
+EMP0186,Stanley Cowan PhD,Developer,CAD,Junior,8,1,3,3,1,3,2,1,2,0,3,3,3,2,2,2,2,Seize Transparent Web-Readiness,Roblox,Available,2025-06-26
+EMP0187,Kyle Gomez,Developer,Game Testing,Senior,1,3,0,0,3,3,0,2,3,2,0,3,3,1,1,1,3,Productize Ubiquitous Supply-Chains,Epic Games,Available,2025-07-04
+EMP0188,Kelly Meyers,Designer,Game Testing,Junior,10,0,2,3,3,3,3,3,1,3,1,2,2,1,0,3,1,Mesh Intuitive Initiatives,Autodesk,Available,2025-05-26
+EMP0189,Jonathan Briggs,Designer,Game Testing,Senior,7,2,3,3,3,3,3,3,2,3,3,1,2,3,3,3,2,Innovate Cross-Platform Content,Siemens,Unavailable,2025-08-18
+EMP0190,Jeremy Hill,Tester,Game Testing,Senior,20,2,0,0,1,2,2,3,2,3,3,3,1,1,3,3,2,Re-Contextualize Intuitive Partnerships,Autodesk,Unavailable,2025-06-12
+EMP0191,Sandra Hernandez,Tester,CAD,Junior,18,2,2,1,3,1,3,3,2,0,1,2,3,2,3,1,2,Aggregate Leading-Edge Technologies,Dassault,Partially Available,2025-08-12
+EMP0192,Amber Norman,Designer,BIM,Junior,14,3,1,1,2,2,1,0,2,3,3,1,2,2,1,0,3,Deliver Leading-Edge E-Business,Dassault,Unavailable,2025-06-08
+EMP0193,Kelly Martinez,Designer,BIM,Senior,16,3,2,1,3,0,2,2,1,1,3,2,2,2,2,3,3,Synergize Collaborative Web-Readiness,Roblox,Available,2025-08-22
+EMP0194,David Joseph,Tester,BIM,Junior,15,1,1,1,3,3,3,1,2,0,3,2,1,3,1,2,3,Maximize Compelling Paradigms,Dassault,Unavailable,2025-06-14
+EMP0195,Charles Hardy,Developer,CAD,Senior,7,3,1,3,3,2,3,2,3,1,1,3,2,2,2,2,3,Morph Clicks-And-Mortar Infrastructures,Dassault,Available,2025-07-07
+EMP0196,Evan Mcguire,Developer,BIM,Mid,4,1,3,3,3,2,2,0,0,3,1,1,3,3,3,1,3,Productize Transparent Mindshare,Roblox,Available,2025-07-19
+EMP0197,Ronald King,Designer,Game Testing,Junior,8,3,3,2,0,2,2,2,3,1,2,2,2,1,2,2,2,Re-Contextualize Dot-Com Applications,Dassault,Available,2025-08-01
+EMP0198,Maria Owens,Designer,BIM,Senior,14,3,3,2,3,0,1,1,3,0,3,3,0,2,3,2,3,Matrix Cross-Media Web-Readiness,Siemens,Available,2025-08-21
+EMP0199,Christopher Garcia Jr.,Tester,BIM,Junior,15,1,2,3,2,2,3,3,2,3,3,1,1,1,3,2,3,Expedite Wireless Networks,Autodesk,Available,2025-07-30
+EMP0200,Christian Barajas,Designer,CAD,Senior,12,3,3,3,3,1,0,0,2,3,2,1,3,3,2,2,2,Scale Vertical Content,Roblox,Unavailable,2025-07-06
+EMP0201,David Phillips,Designer,BIM,Senior,10,3,1,2,3,0,0,2,2,0,3,2,3,2,0,2,1,Morph Scalable Web-Readiness,Dassault,Unavailable,2025-08-10
+EMP0202,Christopher Holmes,Developer,BIM,Mid,2,2,2,3,2,3,3,2,3,1,1,1,2,3,3,1,3,Re-Contextualize Synergistic Bandwidth,Siemens,Partially Available,2025-08-03
+EMP0203,Matthew Buchanan,Designer,BIM,Junior,12,2,3,3,2,3,0,2,3,2,2,3,1,2,3,1,0,Iterate B2B Channels,Dassault,Partially Available,2025-07-13
+EMP0204,Albert Ramirez,Designer,CAD,Junior,11,1,2,0,1,2,3,1,1,1,0,1,2,1,3,0,3,Engineer Magnetic Channels,Siemens,Unavailable,2025-06-30
+EMP0205,Gregory Young,Designer,Game Testing,Junior,19,3,0,3,2,1,2,3,2,3,3,2,0,0,0,0,0,Harness Impactful Bandwidth,Siemens,Partially Available,2025-08-21
+EMP0206,Ashley Newton DVM,Developer,Game Testing,Mid,17,3,3,2,3,3,3,3,3,2,2,1,3,3,0,1,3,Repurpose B2C Metrics,Dassault,Available,2025-08-06
+EMP0207,Felicia Morales,Developer,BIM,Mid,6,3,3,3,3,2,3,2,2,2,3,3,3,2,1,2,3,Integrate Compelling Info-Mediaries,Epic Games,Partially Available,2025-07-27
+EMP0208,James Harris,Developer,CAD,Senior,19,0,2,3,3,2,2,3,1,3,2,2,2,3,3,2,0,Enable Bricks-And-Clicks Methodologies,Autodesk,Unavailable,2025-08-16
+EMP0209,Jamie Reed,Designer,Game Testing,Junior,3,3,0,3,2,1,2,3,2,3,3,3,3,1,2,3,2,Deploy Value-Added Schemas,Roblox,Partially Available,2025-07-23
+EMP0210,Mark Brooks,Designer,CAD,Senior,8,0,1,1,1,2,1,3,2,3,2,1,3,2,2,1,3,Revolutionize Transparent Markets,Roblox,Unavailable,2025-08-05
+EMP0211,Brandon Maxwell,Developer,Game Testing,Senior,18,2,3,3,1,0,2,1,1,2,2,1,2,0,3,1,3,Maximize Visionary Action-Items,Siemens,Partially Available,2025-06-06
+EMP0212,Raymond Davis,Designer,BIM,Mid,7,3,0,3,1,3,1,3,3,3,0,3,3,2,3,3,3,Expedite Front-End Metrics,Epic Games,Available,2025-08-05
+EMP0213,Alexandria Smith,Designer,CAD,Mid,1,2,3,0,2,2,2,3,3,3,1,2,2,1,2,1,3,Envisioneer Back-End E-Markets,Siemens,Available,2025-06-20
+EMP0214,Lisa Robbins,Designer,CAD,Junior,3,1,3,2,1,3,1,2,1,2,2,0,3,3,2,3,2,Synergize Integrated E-Services,Epic Games,Unavailable,2025-06-17
+EMP0215,Kristin Bradley,Tester,Game Testing,Junior,8,1,3,3,3,3,2,1,1,2,1,3,0,2,3,3,3,Harness Proactive Portals,Autodesk,Available,2025-08-15
+EMP0216,Jacob Mcintyre,Designer,Game Testing,Senior,10,0,3,1,3,2,0,3,2,2,1,3,2,2,3,3,2,Visualize Clicks-And-Mortar Action-Items,Autodesk,Available,2025-07-23
+EMP0217,Nicole Reyes,Tester,Game Testing,Senior,2,2,3,3,1,3,2,3,2,2,3,3,1,2,3,2,3,Transition Sticky Channels,Siemens,Partially Available,2025-06-07
+EMP0218,Cindy Weber,Designer,Game Testing,Mid,17,3,3,2,1,0,0,1,2,3,2,3,3,2,0,2,3,Incubate Rich E-Commerce,Epic Games,Available,2025-06-22
+EMP0219,Charles Edwards,Tester,Game Testing,Junior,7,2,0,3,1,1,2,3,2,1,2,2,3,3,3,1,2,Revolutionize Compelling Communities,Epic Games,Available,2025-07-07
+EMP0220,Alyssa Case,Designer,Game Testing,Senior,1,3,2,1,3,2,3,2,3,3,3,2,2,0,3,2,3,Grow Collaborative Mindshare,Siemens,Unavailable,2025-05-30
+EMP0221,Stephanie Stewart,Designer,CAD,Mid,10,3,3,1,1,2,1,2,2,3,2,0,1,3,3,3,3,Whiteboard Interactive Convergence,Epic Games,Unavailable,2025-06-01
+EMP0222,Brent Gutierrez,Tester,CAD,Senior,2,1,3,2,1,2,3,3,3,3,3,1,2,3,0,2,1,Empower Dynamic Initiatives,Autodesk,Available,2025-05-28
+EMP0223,Brian Gates,Designer,BIM,Senior,11,2,1,1,3,2,0,3,3,1,3,3,1,1,0,3,2,Aggregate Cutting-Edge Action-Items,Epic Games,Unavailable,2025-08-14
+EMP0224,Ashley Clark,Designer,CAD,Junior,14,3,1,1,0,3,2,2,3,0,3,0,3,3,1,3,2,Maximize Distributed Roi,Autodesk,Available,2025-08-04
+EMP0225,Dana Schmidt,Designer,BIM,Senior,20,3,2,3,3,3,2,3,0,3,1,1,1,3,2,1,0,Extend Virtual Action-Items,Autodesk,Available,2025-08-04
+EMP0226,Justin Drake,Developer,Game Testing,Mid,1,2,3,3,3,0,3,1,1,1,1,0,2,2,2,0,2,Harness Sticky Platforms,Autodesk,Unavailable,2025-07-24
+EMP0227,Kristina Wise,Developer,Game Testing,Junior,19,3,3,3,3,3,3,2,1,0,1,3,0,2,3,2,3,Incubate Killer Deliverables,Autodesk,Unavailable,2025-08-22
+EMP0228,Edwin James,Developer,BIM,Mid,15,3,3,0,3,3,3,1,2,3,1,3,3,3,2,2,1,Redefine Rich Schemas,Autodesk,Available,2025-08-18
+EMP0229,Eric Stanley,Developer,CAD,Mid,10,2,3,3,2,2,3,2,3,3,3,3,2,2,2,2,2,Streamline Back-End Systems,Dassault,Unavailable,2025-08-10
+EMP0230,Mr. Andrew Wood,Developer,BIM,Mid,9,2,1,1,2,2,1,3,1,1,0,3,3,1,1,1,3,Harness Back-End Users,Dassault,Available,2025-07-23
+EMP0231,Chad Sexton,Developer,BIM,Senior,2,3,3,3,2,3,3,1,3,1,2,2,0,2,3,3,2,Exploit Dot-Com Infrastructures,Roblox,Partially Available,2025-06-01
+EMP0232,Charles Nelson,Developer,CAD,Junior,13,1,2,2,3,2,3,0,1,0,1,1,0,0,0,0,0,Orchestrate Granular Models,Autodesk,Partially Available,2025-07-26
+EMP0233,Brett Hamilton,Developer,Game Testing,Mid,6,3,3,1,1,2,3,2,3,3,1,2,3,1,2,3,2,Target Sticky Users,Autodesk,Partially Available,2025-08-08
+EMP0234,Kevin Ellison,Developer,CAD,Junior,12,3,3,3,3,3,3,3,1,2,2,3,3,3,3,2,3,Scale Collaborative Technologies,Dassault,Unavailable,2025-08-18
+EMP0235,Katie Charles,Tester,BIM,Mid,15,3,2,2,1,2,0,3,3,3,3,3,2,2,2,2,0,Enable Turn-Key Action-Items,Epic Games,Partially Available,2025-08-04
+EMP0236,Zachary Foley,Designer,CAD,Junior,2,2,3,3,3,2,3,3,2,2,1,2,1,3,3,3,1,Engineer Frictionless Portals,Dassault,Unavailable,2025-07-24
+EMP0237,Matthew Murray,Tester,BIM,Mid,17,3,3,0,2,0,0,0,2,1,2,2,3,2,2,2,1,Matrix Killer Paradigms,Siemens,Partially Available,2025-08-06
+EMP0238,Michael Gonzalez,Tester,CAD,Junior,19,2,2,3,2,2,1,1,0,2,3,2,2,3,3,3,2,Synthesize Best-Of-Breed Eyeballs,Siemens,Partially Available,2025-06-08
+EMP0239,Sandra Turner,Tester,CAD,Mid,14,1,1,2,3,3,1,3,3,1,2,3,3,2,0,1,0,Optimize Scalable Schemas,Autodesk,Available,2025-05-29
+EMP0240,Lisa Mills,Tester,Game Testing,Junior,5,2,3,3,3,2,3,1,1,3,3,3,2,1,3,1,1,Engineer Robust Markets,Siemens,Unavailable,2025-08-04
+EMP0241,Deanna Morales,Developer,BIM,Junior,12,1,1,1,0,1,0,3,2,2,3,2,1,2,3,1,2,Monetize Virtual Convergence,Dassault,Partially Available,2025-07-11
+EMP0242,Dr. Jessica Wood,Tester,BIM,Mid,5,3,1,0,0,1,0,3,2,3,3,3,3,2,3,2,1,Morph Interactive Web Services,Siemens,Available,2025-05-29
+EMP0243,Leslie May,Tester,BIM,Senior,10,1,1,3,3,3,3,2,1,3,3,2,3,2,3,2,3,Enable Rich E-Services,Siemens,Unavailable,2025-07-23
+EMP0244,Lisa Cross,Developer,Game Testing,Junior,19,0,2,2,3,3,1,3,1,2,3,1,1,0,0,3,1,Leverage Intuitive Mindshare,Epic Games,Partially Available,2025-07-30
+EMP0245,Crystal Jackson,Tester,Game Testing,Mid,1,3,0,0,2,3,2,2,3,3,3,1,2,3,1,3,3,Optimize Back-End Technologies,Roblox,Unavailable,2025-07-20
+EMP0246,Jay Mcdowell,Tester,Game Testing,Junior,20,3,3,3,0,2,3,1,3,2,3,3,2,3,3,3,0,Redefine Customized Models,Epic Games,Available,2025-07-28
+EMP0247,Michael Moreno,Tester,BIM,Mid,6,3,3,1,3,3,0,2,1,3,3,1,2,2,0,3,3,Revolutionize Frictionless Niches,Roblox,Available,2025-06-04
+EMP0248,Ruth Bowen,Designer,CAD,Junior,16,2,2,3,1,2,1,3,3,0,3,3,1,3,3,2,3,Enhance B2B Models,Epic Games,Available,2025-07-14
+EMP0249,Amanda Jones,Developer,CAD,Senior,16,1,3,2,2,1,3,2,2,1,2,2,3,2,0,1,2,Harness Intuitive Functionalities,Epic Games,Unavailable,2025-07-03
+EMP0250,Katie Fisher,Developer,CAD,Mid,6,2,3,3,3,2,2,2,1,3,1,1,3,0,3,3,3,Transition Visionary E-Markets,Roblox,Partially Available,2025-06-29
+EMP0251,Emily Chavez,Developer,Game Testing,Junior,12,2,3,1,2,1,2,1,1,0,2,2,3,2,2,1,1,Exploit Scalable E-Services,Epic Games,Available,2025-08-10
+EMP0252,Penny Molina MD,Tester,Game Testing,Junior,14,1,2,2,2,2,1,3,0,3,3,2,2,3,3,3,3,Aggregate Proactive Solutions,Epic Games,Partially Available,2025-07-24
+EMP0253,Elaine Martin,Designer,Game Testing,Junior,5,2,1,1,0,1,2,3,0,2,2,3,3,1,3,3,1,Brand Impactful Web-Readiness,Dassault,Available,2025-07-08
+EMP0254,Veronica Spears,Developer,CAD,Junior,16,3,3,2,2,1,2,2,0,0,2,3,0,3,3,2,2,Strategize Innovative Schemas,Epic Games,Unavailable,2025-08-14
+EMP0255,Susan Hess,Designer,CAD,Mid,3,2,3,3,2,3,2,2,1,1,2,3,3,3,3,2,2,Drive Frictionless Solutions,Siemens,Available,2025-05-30
+EMP0256,Teresa Murray,Tester,Game Testing,Senior,2,3,3,1,3,0,2,3,2,3,2,3,3,3,3,3,1,Transition E-Business Web Services,Dassault,Available,2025-07-10
+EMP0257,Jenny Barrett,Designer,BIM,Mid,16,3,1,3,3,3,3,2,1,3,1,2,3,3,2,3,3,Implement Customized Action-Items,Autodesk,Unavailable,2025-06-05
+EMP0258,Robin Brewer,Designer,CAD,Mid,2,3,3,3,3,3,3,2,1,1,3,3,1,2,3,2,1,Orchestrate Transparent Platforms,Epic Games,Available,2025-05-26
+EMP0259,Connor Robinson,Designer,BIM,Senior,12,2,3,2,2,2,1,2,2,3,2,3,3,2,1,0,3,Re-Intermediate Global Systems,Epic Games,Available,2025-08-19
+EMP0260,Linda Morrow,Tester,BIM,Junior,7,3,3,0,2,2,3,3,2,2,1,3,2,2,1,2,2,Benchmark Value-Added Technologies,Siemens,Available,2025-05-30
+EMP0261,John Nelson,Tester,CAD,Mid,14,3,3,2,2,2,2,3,3,3,3,2,1,1,0,2,2,Redefine One-To-One Experiences,Autodesk,Available,2025-07-24
+EMP0262,Mary Turner,Designer,Game Testing,Mid,3,2,2,3,2,1,3,0,3,1,0,1,1,3,2,0,1,Synergize World-Class E-Commerce,Autodesk,Available,2025-06-22
+EMP0263,Justin Walker PhD,Tester,Game Testing,Junior,11,1,1,0,3,3,0,3,2,3,0,1,3,3,0,1,1,Scale Proactive Deliverables,Siemens,Partially Available,2025-06-19
+EMP0264,Kelly Butler,Developer,BIM,Mid,20,2,1,1,3,3,3,2,2,0,1,0,1,3,1,2,3,Scale B2B Schemas,Siemens,Partially Available,2025-07-04
+EMP0265,Jessica Solomon,Tester,CAD,Senior,12,2,0,2,1,1,0,3,3,3,2,3,3,1,2,3,3,Visualize Real-Time Roi,Autodesk,Partially Available,2025-06-24
+EMP0266,Lauren Weiss,Tester,Game Testing,Mid,6,2,3,3,2,3,3,3,2,2,1,3,1,3,0,2,2,Empower Transparent Vortals,Siemens,Available,2025-05-26
+EMP0267,Brittany Hoffman,Tester,CAD,Junior,18,3,3,3,3,1,3,3,2,2,0,1,2,3,3,2,3,Evolve Viral Networks,Autodesk,Available,2025-06-03
+EMP0268,Katherine Jackson,Developer,Game Testing,Mid,9,3,2,3,1,1,0,2,2,2,2,2,3,2,3,0,2,Deliver Holistic Content,Epic Games,Available,2025-08-05
+EMP0269,Kimberly Torres,Developer,Game Testing,Mid,14,2,2,1,3,3,1,0,3,2,1,3,3,0,0,1,3,Expedite 24/7 E-Tailers,Epic Games,Partially Available,2025-08-03
+EMP0270,Nathan Vasquez,Developer,BIM,Mid,11,3,3,3,2,3,1,2,1,1,3,3,3,2,1,3,2,Transition Intuitive Partnerships,Siemens,Available,2025-07-03
+EMP0271,Eric Huang DDS,Developer,Game Testing,Mid,9,3,3,2,3,3,1,3,3,3,0,2,3,2,2,0,3,Harness B2C Methodologies,Dassault,Available,2025-07-27
+EMP0272,Molly Hood,Developer,BIM,Junior,3,3,2,3,2,1,1,1,3,3,2,2,3,2,3,2,2,Synthesize Revolutionary Schemas,Siemens,Partially Available,2025-08-04
+EMP0273,Adrian Davis,Designer,Game Testing,Mid,7,0,2,1,1,3,2,3,0,2,2,3,2,3,3,1,3,Matrix Proactive Infrastructures,Siemens,Available,2025-07-14
+EMP0274,Charles Beck,Designer,Game Testing,Senior,2,3,3,2,3,1,3,3,1,2,2,3,2,2,1,3,2,Engage Visionary E-Business,Siemens,Partially Available,2025-07-18
+EMP0275,Cynthia Landry,Tester,Game Testing,Junior,4,3,1,3,3,3,3,3,3,3,2,3,1,3,3,3,0,Unleash Cutting-Edge Content,Epic Games,Available,2025-06-26
+EMP0276,Amy Cox,Designer,BIM,Junior,1,3,1,3,1,2,1,3,3,2,3,2,1,3,1,1,1,Repurpose Innovative Schemas,Dassault,Available,2025-06-06
+EMP0277,Dan Munoz,Developer,BIM,Junior,6,3,1,0,3,3,3,3,2,2,1,3,3,1,2,0,3,Scale Turn-Key Communities,Roblox,Available,2025-08-11
+EMP0278,Mary Miller,Tester,Game Testing,Senior,12,0,1,3,3,0,1,0,3,0,2,1,2,3,2,2,3,Seize Killer Schemas,Epic Games,Unavailable,2025-06-10
+EMP0279,Aaron Cox,Tester,BIM,Mid,1,2,3,2,1,3,1,2,0,2,3,3,1,0,3,2,2,Monetize Scalable Convergence,Siemens,Available,2025-07-03
+EMP0280,Troy Cherry,Tester,Game Testing,Senior,9,3,1,1,3,2,0,2,3,1,3,1,2,1,3,3,1,Enable User-Centric E-Business,Siemens,Available,2025-05-31
+EMP0281,Kimberly Powell,Designer,CAD,Senior,1,1,3,1,1,3,3,3,1,3,2,0,1,0,3,3,2,Incentivize Robust Paradigms,Roblox,Partially Available,2025-05-27
+EMP0282,James Jacobs,Developer,Game Testing,Senior,14,2,2,2,3,2,2,3,2,2,3,3,1,1,0,1,2,Engineer Web-Enabled Architectures,Dassault,Unavailable,2025-06-29
+EMP0283,Susan Banks,Designer,CAD,Mid,1,3,0,0,2,3,2,2,1,2,2,1,0,3,3,3,3,Scale E-Business Platforms,Autodesk,Unavailable,2025-08-03
+EMP0284,Stephanie Haynes,Tester,BIM,Senior,8,2,2,2,3,2,1,1,2,3,2,0,3,2,3,2,0,Grow One-To-One Schemas,Roblox,Partially Available,2025-05-31
+EMP0285,Donald Johnson,Tester,BIM,Mid,10,2,2,3,3,0,2,2,2,3,3,3,2,2,2,0,3,Incentivize Real-Time E-Commerce,Roblox,Partially Available,2025-08-21
+EMP0286,Jennifer Schultz,Tester,CAD,Senior,7,3,3,3,3,2,2,2,3,2,3,2,3,3,2,2,0,Syndicate Next-Generation E-Tailers,Siemens,Available,2025-06-27
+EMP0287,Ricky Dominguez,Designer,BIM,Mid,20,3,3,3,3,1,3,2,0,2,3,2,3,2,1,1,0,E-Enable Real-Time Web Services,Autodesk,Partially Available,2025-07-17
+EMP0288,Felicia Richardson,Tester,BIM,Mid,12,3,1,3,2,1,3,3,1,3,3,3,3,3,2,1,1,Benchmark Killer E-Business,Roblox,Unavailable,2025-08-07
+EMP0289,Rachel Holt,Tester,CAD,Junior,9,3,1,1,3,0,2,3,2,0,3,3,3,3,3,2,2,Morph Real-Time Paradigms,Autodesk,Partially Available,2025-06-25
+EMP0290,Andrew White,Developer,CAD,Junior,18,2,3,0,3,3,1,3,1,3,2,3,2,3,3,3,3,Orchestrate One-To-One Bandwidth,Autodesk,Unavailable,2025-06-26
+EMP0291,Stephen Thompson,Tester,BIM,Mid,10,1,3,2,3,3,0,3,3,3,2,3,2,2,1,3,3,Incentivize Virtual Content,Epic Games,Available,2025-06-15
+EMP0292,Desiree Davis,Designer,Game Testing,Junior,14,2,3,2,3,3,1,3,1,2,3,3,3,2,3,3,3,Embrace Extensible Supply-Chains,Autodesk,Available,2025-07-27
+EMP0293,Emily Anthony,Designer,CAD,Mid,16,3,3,3,2,1,2,0,3,3,0,3,3,2,3,3,3,Utilize Dynamic E-Markets,Dassault,Partially Available,2025-06-12
+EMP0294,Dawn Reynolds,Tester,CAD,Junior,5,2,3,3,3,2,1,3,3,2,1,3,2,2,3,0,3,Leverage Frictionless Synergies,Dassault,Partially Available,2025-08-07
+EMP0295,Taylor King,Developer,Game Testing,Mid,3,1,1,2,3,0,3,3,1,3,3,2,3,2,3,1,3,Repurpose Seamless Portals,Dassault,Unavailable,2025-08-14
+EMP0296,Adam Williams,Tester,Game Testing,Mid,3,3,1,3,1,2,1,2,3,1,2,2,2,2,1,0,0,Integrate Enterprise Solutions,Epic Games,Available,2025-07-17
+EMP0297,James Leach,Designer,CAD,Mid,8,3,3,2,2,3,3,1,2,2,2,3,3,3,0,3,3,Evolve User-Centric Vortals,Dassault,Available,2025-07-11
+EMP0298,Stacey Watson,Designer,Game Testing,Junior,4,3,2,3,1,1,2,3,2,3,3,2,0,3,2,2,2,Monetize Seamless Relationships,Autodesk,Partially Available,2025-06-20
+EMP0299,James Johnson,Tester,CAD,Senior,8,1,3,3,1,3,3,3,3,1,3,1,2,3,2,0,1,Drive Holistic Platforms,Siemens,Partially Available,2025-05-26
+EMP0300,Audrey Williams,Developer,Game Testing,Junior,2,2,1,3,0,3,2,1,2,2,2,2,2,3,0,3,3,Expedite Best-Of-Breed Action-Items,Roblox,Unavailable,2025-06-01
+EMP0301,Michele Stanley,Developer,Game Testing,Mid,7,2,2,0,3,2,2,1,3,3,2,2,2,2,3,1,3,Empower Out-Of-The-Box Interfaces,Autodesk,Unavailable,2025-06-24
+EMP0302,Jennifer Patterson,Tester,CAD,Senior,17,1,1,0,3,0,1,0,1,1,2,3,2,3,3,1,3,Empower Synergistic Content,Siemens,Available,2025-07-31
+EMP0303,Elizabeth Myers,Developer,CAD,Junior,11,3,1,2,3,1,3,2,3,2,3,2,3,1,3,2,2,Synergize Seamless Users,Roblox,Available,2025-07-21
+EMP0304,Alison Perry,Developer,BIM,Senior,10,3,0,2,1,3,3,3,1,0,1,3,3,3,3,2,0,Expedite Back-End Deliverables,Siemens,Unavailable,2025-05-26
+EMP0305,Emily Davis,Designer,CAD,Senior,4,3,3,1,2,2,3,1,0,2,3,2,3,3,1,3,3,Target Scalable Vortals,Dassault,Available,2025-08-18
+EMP0306,Amanda Fisher,Designer,CAD,Mid,7,3,3,2,3,1,1,2,1,3,3,1,1,3,2,3,2,Cultivate Real-Time Mindshare,Autodesk,Available,2025-06-12
+EMP0307,Julie Owens,Tester,BIM,Mid,3,1,3,1,2,2,3,0,1,3,1,1,3,2,2,3,2,Expedite Out-Of-The-Box Info-Mediaries,Epic Games,Available,2025-08-01
+EMP0308,John Johnson,Designer,BIM,Senior,3,3,2,2,3,2,2,3,1,1,3,3,3,0,3,2,3,Harness Holistic Schemas,Epic Games,Unavailable,2025-07-02
+EMP0309,Alexandra Jordan,Developer,BIM,Junior,17,3,1,0,1,3,3,2,3,0,2,2,2,2,2,3,1,Deploy Distributed Markets,Siemens,Available,2025-08-07
+EMP0310,Michael Novak,Designer,Game Testing,Mid,5,2,1,3,3,3,2,2,2,2,3,2,3,3,2,3,1,Reinvent Compelling Platforms,Siemens,Partially Available,2025-07-28
+EMP0311,Brian Thompson,Developer,CAD,Senior,14,3,3,3,1,1,0,2,1,0,2,2,2,3,3,2,1,Incubate Seamless Info-Mediaries,Siemens,Unavailable,2025-08-05
+EMP0312,Brooke Underwood,Tester,CAD,Senior,2,3,3,3,2,2,2,3,3,3,2,3,1,2,1,3,3,Enable Front-End Deliverables,Autodesk,Available,2025-07-05
+EMP0313,Wayne Ellis,Developer,Game Testing,Senior,3,3,3,3,3,1,3,2,1,1,2,1,2,2,3,2,1,Innovate Synergistic Vortals,Siemens,Unavailable,2025-07-10
+EMP0314,Jessica Kelley,Designer,BIM,Junior,7,1,3,2,3,2,2,2,2,1,2,2,3,1,3,2,3,Incentivize Viral Models,Epic Games,Partially Available,2025-07-05
+EMP0315,Shannon Murillo,Designer,BIM,Junior,16,1,1,2,2,0,1,1,2,1,1,2,1,3,2,1,2,Enhance World-Class Platforms,Autodesk,Available,2025-07-21
+EMP0316,Stacy Smith,Designer,BIM,Junior,12,3,3,3,2,2,3,3,3,0,2,3,3,3,2,3,2,Incentivize Revolutionary Methodologies,Dassault,Unavailable,2025-07-17
+EMP0317,Robert Taylor,Tester,CAD,Junior,14,3,2,1,3,3,3,2,3,2,1,3,3,3,2,2,2,Utilize Cross-Platform Technologies,Siemens,Partially Available,2025-06-27
+EMP0318,Douglas Hunter,Designer,CAD,Mid,11,3,1,3,0,2,3,2,2,1,2,3,3,3,3,3,3,Enhance Back-End Interfaces,Epic Games,Available,2025-08-18
+EMP0319,Gary Johnson,Developer,CAD,Senior,16,2,3,3,3,3,0,1,3,0,3,2,2,2,3,3,3,Reinvent Collaborative Web Services,Epic Games,Partially Available,2025-05-30
+EMP0320,Laura Wright,Designer,CAD,Senior,4,1,0,2,3,3,3,3,3,3,2,2,0,1,2,2,3,Brand Efficient Technologies,Dassault,Partially Available,2025-06-01
+EMP0321,Angela Hayes,Tester,Game Testing,Senior,16,2,3,2,2,2,3,0,2,1,3,3,2,1,3,3,2,Facilitate Open-Source Infrastructures,Siemens,Unavailable,2025-05-30
+EMP0322,Cesar Reynolds,Designer,BIM,Junior,7,1,3,2,3,3,1,3,3,3,2,1,3,3,0,3,3,Implement Back-End Portals,Roblox,Available,2025-08-18
+EMP0323,Vernon Reynolds,Tester,Game Testing,Mid,12,1,3,0,2,2,3,3,3,2,2,2,2,3,2,3,2,Mesh Front-End Technologies,Roblox,Partially Available,2025-06-06
+EMP0324,Tiffany Zimmerman,Tester,Game Testing,Mid,15,3,0,1,1,2,1,2,3,1,1,3,3,1,2,1,1,Reinvent Dynamic Web Services,Epic Games,Unavailable,2025-08-15
+EMP0325,Shannon Reyes,Designer,Game Testing,Senior,18,2,1,0,1,2,3,2,2,3,1,2,3,2,3,3,2,Engineer Killer Initiatives,Epic Games,Available,2025-08-04
+EMP0326,Susan Lee,Tester,BIM,Senior,15,3,3,3,2,0,2,3,3,2,2,1,2,3,2,0,3,Monetize Bleeding-Edge Systems,Epic Games,Available,2025-06-16
+EMP0327,Raymond Blair,Designer,CAD,Senior,6,2,3,3,2,3,3,0,2,2,3,2,2,2,3,2,2,Brand Out-Of-The-Box E-Services,Roblox,Unavailable,2025-06-27
+EMP0328,Richard Randolph,Designer,BIM,Senior,6,3,3,2,3,3,2,2,3,1,1,2,2,1,2,1,2,Mesh Next-Generation Vortals,Roblox,Available,2025-06-04
+EMP0329,Annette Lynch,Designer,CAD,Junior,13,2,2,0,0,3,1,2,2,1,1,3,3,1,0,3,3,Expedite Seamless Partnerships,Roblox,Partially Available,2025-06-01
+EMP0330,Jennifer Wong,Developer,BIM,Mid,3,2,2,2,2,2,3,3,1,2,3,2,2,3,1,2,2,Synergize Dynamic Bandwidth,Epic Games,Available,2025-06-23
+EMP0331,Alicia Phillips,Tester,CAD,Senior,4,1,3,2,3,3,2,2,3,1,3,1,2,2,2,1,3,Disintermediate Mission-Critical Bandwidth,Dassault,Available,2025-07-18
+EMP0332,Anthony Greene,Tester,CAD,Junior,5,1,3,3,2,3,0,1,3,3,1,0,2,0,3,3,1,Revolutionize Cross-Platform Relationships,Siemens,Unavailable,2025-06-16
+EMP0333,Megan Cox,Designer,CAD,Junior,12,3,2,3,2,2,0,2,3,2,0,2,1,2,0,3,3,Monetize Real-Time Roi,Dassault,Unavailable,2025-08-14
+EMP0334,Marissa Welch,Developer,Game Testing,Senior,20,0,1,1,3,2,3,3,0,2,1,3,1,2,3,3,0,Scale Cutting-Edge Partnerships,Roblox,Partially Available,2025-06-14
+EMP0335,Shannon Buck,Developer,BIM,Mid,5,3,0,3,2,3,3,1,0,1,3,1,2,2,1,2,2,Whiteboard Granular Deliverables,Epic Games,Partially Available,2025-06-07
+EMP0336,Ronnie Harris,Developer,BIM,Junior,1,2,1,2,2,3,1,3,2,3,3,3,3,2,1,3,2,Transform Vertical Relationships,Dassault,Unavailable,2025-07-09
+EMP0337,Julie Mathews,Tester,CAD,Senior,15,2,3,1,2,3,3,3,1,3,3,3,3,0,3,0,2,Monetize Scalable Metrics,Roblox,Partially Available,2025-07-28
+EMP0338,Steven Cannon,Designer,BIM,Junior,7,3,3,2,0,1,1,3,1,2,3,3,0,2,1,2,2,Integrate World-Class Deliverables,Epic Games,Partially Available,2025-06-21
+EMP0339,Mark Shah,Designer,Game Testing,Senior,7,2,2,2,2,0,3,2,2,1,3,2,2,2,2,2,1,Iterate Scalable Web Services,Epic Games,Unavailable,2025-08-18
+EMP0340,Krista Sexton,Tester,CAD,Mid,15,2,2,1,1,1,0,2,2,1,1,3,3,3,1,2,2,Re-Contextualize Open-Source Experiences,Dassault,Available,2025-06-14
+EMP0341,Jeffrey Carr,Developer,Game Testing,Mid,8,0,1,3,2,3,1,1,2,2,3,3,1,1,3,2,3,Deliver Leading-Edge Platforms,Roblox,Available,2025-07-17
+EMP0342,Cathy Colon,Tester,CAD,Senior,5,3,1,1,1,3,0,3,3,1,3,2,2,3,1,0,3,Scale Dot-Com Deliverables,Autodesk,Unavailable,2025-08-12
+EMP0343,John Dodson,Designer,BIM,Senior,11,3,3,3,1,0,1,0,3,3,2,2,1,3,3,0,1,Whiteboard B2C Communities,Siemens,Partially Available,2025-07-04
+EMP0344,Donald Cohen,Developer,BIM,Junior,8,3,3,3,2,1,1,3,2,1,3,2,1,1,3,3,3,Brand Strategic E-Commerce,Epic Games,Partially Available,2025-06-14
+EMP0345,David Edwards,Developer,BIM,Senior,7,0,3,2,2,3,3,3,1,3,0,2,1,3,3,2,2,Innovate Cross-Platform Initiatives,Roblox,Unavailable,2025-06-30
+EMP0346,Matthew Perkins,Tester,BIM,Mid,1,0,3,2,0,3,2,3,2,3,2,1,3,2,2,2,0,Monetize Robust Interfaces,Autodesk,Available,2025-08-09
+EMP0347,Timothy Parsons,Designer,BIM,Senior,6,3,0,2,2,3,3,3,1,2,2,3,1,2,2,3,2,Deploy Intuitive Supply-Chains,Autodesk,Available,2025-07-06
+EMP0348,Jake Payne,Developer,CAD,Junior,12,1,2,3,2,0,3,1,3,3,3,3,3,3,2,1,0,Embrace Bricks-And-Clicks Paradigms,Epic Games,Available,2025-07-27
+EMP0349,Michelle Jackson,Developer,Game Testing,Senior,9,3,2,1,2,3,0,2,1,2,3,0,3,3,2,1,1,Incubate Proactive Convergence,Autodesk,Unavailable,2025-06-16
+EMP0350,Marco Bryant,Designer,CAD,Senior,3,3,3,0,3,0,3,1,2,2,2,3,3,3,3,3,3,Whiteboard 24/365 Deliverables,Roblox,Partially Available,2025-06-11
+EMP0351,William David,Tester,CAD,Senior,11,3,1,3,3,2,2,1,2,2,1,3,2,3,3,1,3,Extend Mission-Critical Convergence,Dassault,Available,2025-06-01
+EMP0352,Sharon Briggs,Tester,CAD,Senior,12,3,3,1,1,2,1,3,3,1,2,2,3,0,1,1,1,Engage Dot-Com Eyeballs,Roblox,Unavailable,2025-06-10
+EMP0353,Kayla Rivera,Tester,Game Testing,Mid,3,3,3,3,3,2,2,0,1,3,2,2,3,2,1,2,3,Syndicate Customized Markets,Autodesk,Unavailable,2025-07-15
+EMP0354,Nicole Martinez,Developer,CAD,Junior,4,3,1,1,3,1,2,3,0,2,3,3,3,1,1,1,2,Aggregate Clicks-And-Mortar E-Markets,Autodesk,Available,2025-05-31
+EMP0355,Kendra Murphy,Designer,BIM,Mid,16,0,3,3,3,0,3,3,2,0,1,3,1,3,2,3,2,Evolve Cross-Platform E-Commerce,Dassault,Unavailable,2025-07-29
+EMP0356,Taylor Martinez,Tester,BIM,Senior,13,3,3,2,2,1,3,3,2,3,3,1,2,3,3,3,2,Productize Clicks-And-Mortar Communities,Dassault,Unavailable,2025-06-28
+EMP0357,Kelly Espinoza,Tester,Game Testing,Senior,8,3,3,2,2,1,3,3,0,1,1,1,3,3,2,3,3,Enhance Best-Of-Breed Supply-Chains,Siemens,Unavailable,2025-07-26
+EMP0358,Darin Berger,Developer,BIM,Mid,12,3,0,3,1,3,2,3,1,3,3,2,3,1,1,0,2,Revolutionize Open-Source Applications,Siemens,Available,2025-07-16
+EMP0359,Scott Bradshaw,Designer,Game Testing,Junior,19,3,3,3,3,2,3,2,3,2,2,2,1,1,3,3,2,Seize End-To-End Users,Dassault,Available,2025-07-26
+EMP0360,Zachary Smith,Tester,CAD,Junior,11,1,0,2,3,3,2,3,2,3,1,3,2,3,2,3,1,Deploy User-Centric Solutions,Dassault,Available,2025-06-29
+EMP0361,Katie Hall,Designer,Game Testing,Junior,10,3,0,3,3,3,1,2,3,3,2,1,1,3,0,3,3,Reinvent Cross-Media Vortals,Siemens,Available,2025-06-15
+EMP0362,Diane Beard,Designer,Game Testing,Mid,3,3,3,3,0,3,1,0,2,0,0,3,3,1,1,1,1,Incubate Plug-And-Play Eyeballs,Dassault,Available,2025-07-14
+EMP0363,Luke Morgan,Developer,BIM,Mid,13,3,1,0,3,2,3,3,2,3,0,3,2,1,2,3,3,Facilitate Global Supply-Chains,Autodesk,Available,2025-07-06
+EMP0364,Joseph Gonzales,Designer,CAD,Junior,15,0,2,3,3,2,2,1,0,2,3,2,3,2,0,3,3,Re-Intermediate Holistic Solutions,Autodesk,Unavailable,2025-08-11
+EMP0365,Danielle Hall,Developer,CAD,Junior,8,0,3,3,3,2,1,1,1,2,3,3,2,1,3,3,1,Scale B2B Platforms,Autodesk,Partially Available,2025-05-30
+EMP0366,Christopher Berry,Tester,BIM,Senior,6,2,1,3,3,3,2,3,0,0,3,2,3,2,1,3,3,Leverage Integrated Convergence,Siemens,Partially Available,2025-06-25
+EMP0367,Kelly Li,Developer,Game Testing,Mid,9,3,1,2,3,2,2,1,0,2,1,3,3,0,3,2,1,Utilize Back-End Niches,Dassault,Unavailable,2025-06-11
+EMP0368,Douglas Simmons,Developer,CAD,Junior,13,1,1,1,3,0,3,3,3,1,3,3,2,2,1,1,1,Leverage Rich Web Services,Autodesk,Available,2025-07-29
+EMP0369,Steven Mcdonald,Designer,CAD,Mid,13,3,3,3,3,2,2,0,1,1,1,2,1,3,1,2,3,Integrate Next-Generation Technologies,Autodesk,Partially Available,2025-08-09
+EMP0370,Mrs. Betty Tran,Designer,BIM,Mid,9,2,3,1,3,2,3,1,2,3,3,1,0,3,2,3,3,Exploit 24/7 Experiences,Siemens,Partially Available,2025-06-19
+EMP0371,Joshua Esparza,Developer,BIM,Senior,20,2,2,2,3,3,3,1,3,2,2,3,3,3,2,3,2,Facilitate Efficient Bandwidth,Autodesk,Available,2025-08-23
+EMP0372,April Fernandez,Tester,BIM,Senior,12,3,3,2,2,1,3,3,1,2,3,2,0,2,3,0,3,Disintermediate Leading-Edge Deliverables,Epic Games,Partially Available,2025-07-13
+EMP0373,Heather Roberts,Designer,CAD,Mid,5,3,3,3,0,1,2,1,3,2,0,2,2,3,0,2,3,Unleash Revolutionary Paradigms,Epic Games,Available,2025-08-14
+EMP0374,Melissa Hooper,Tester,BIM,Mid,6,2,3,3,2,3,3,0,1,3,3,3,3,1,3,1,3,Implement Web-Enabled Niches,Dassault,Unavailable,2025-06-18
+EMP0375,Nicole Hayes,Tester,BIM,Mid,11,1,3,3,1,1,1,3,0,1,1,0,1,3,3,2,3,Aggregate Integrated Technologies,Dassault,Partially Available,2025-06-23
+EMP0376,Richard Fletcher,Designer,Game Testing,Junior,3,3,2,3,3,2,0,1,3,1,3,2,2,3,2,2,2,Generate Seamless Architectures,Epic Games,Partially Available,2025-07-14
+EMP0377,Paige Jennings,Tester,CAD,Senior,4,2,3,3,1,2,3,2,0,2,1,3,2,2,0,3,1,Engineer Best-Of-Breed Architectures,Autodesk,Available,2025-07-14
+EMP0378,Crystal Kennedy,Tester,Game Testing,Mid,13,2,3,2,2,3,3,3,0,3,3,2,1,3,3,1,0,Syndicate 24/7 Interfaces,Epic Games,Partially Available,2025-07-08
+EMP0379,Felicia Jackson,Designer,Game Testing,Junior,3,3,1,2,0,3,2,2,1,3,2,3,3,1,0,3,3,Cultivate Killer Vortals,Dassault,Unavailable,2025-07-18
+EMP0380,Samantha Oconnor,Designer,BIM,Junior,3,2,3,1,2,3,2,3,2,2,3,2,2,2,1,1,2,Re-Intermediate One-To-One Convergence,Autodesk,Partially Available,2025-08-20
+EMP0381,Jacqueline Johnson,Developer,Game Testing,Senior,10,3,2,2,1,1,1,3,3,2,3,2,1,1,1,3,2,Implement Seamless Vortals,Epic Games,Available,2025-06-15
+EMP0382,Sandra Davis,Developer,BIM,Mid,18,3,1,2,3,1,3,3,3,2,1,1,1,1,2,2,1,Matrix Impactful Bandwidth,Siemens,Unavailable,2025-06-22
+EMP0383,Michael Wells,Designer,BIM,Junior,4,3,3,2,2,3,3,2,1,1,1,3,2,2,2,2,1,Harness Global Paradigms,Dassault,Available,2025-06-09
+EMP0384,Douglas Foster,Developer,CAD,Senior,17,0,3,1,0,3,3,0,3,3,0,2,3,3,3,1,1,Matrix One-To-One Architectures,Siemens,Available,2025-07-30
+EMP0385,Stephanie Morales,Tester,BIM,Senior,12,3,1,1,2,2,0,3,2,3,3,1,2,2,3,0,1,Monetize Vertical E-Markets,Roblox,Partially Available,2025-06-26
+EMP0386,Thomas Hernandez,Tester,Game Testing,Mid,10,3,1,1,2,2,0,3,1,0,1,0,2,3,3,1,3,Morph 24/7 Initiatives,Dassault,Partially Available,2025-06-27
+EMP0387,Kenneth Rivers,Tester,CAD,Mid,17,0,2,3,2,1,0,2,2,2,2,2,2,1,2,3,1,Drive Viral Infrastructures,Autodesk,Unavailable,2025-08-18
+EMP0388,Jason Williams,Designer,Game Testing,Junior,17,3,3,3,3,2,1,3,1,1,2,2,2,2,2,3,0,Matrix Seamless Relationships,Siemens,Partially Available,2025-08-23
+EMP0389,Beverly Campbell,Designer,CAD,Junior,14,3,1,2,1,3,1,0,2,3,2,3,2,1,2,2,3,Transform Integrated Networks,Roblox,Partially Available,2025-07-10
+EMP0390,Alexis Mcconnell,Tester,BIM,Junior,13,3,1,3,3,3,2,2,3,3,2,3,3,1,2,3,3,Integrate Customized Eyeballs,Dassault,Available,2025-07-27
+EMP0391,Seth Henry,Designer,BIM,Junior,14,3,3,1,3,2,0,3,3,2,0,2,3,3,2,0,2,Scale B2B Initiatives,Roblox,Partially Available,2025-06-08
+EMP0392,Kevin Knox,Developer,BIM,Junior,2,1,2,2,1,1,2,2,3,3,1,2,3,2,3,3,3,Architect Clicks-And-Mortar Experiences,Roblox,Partially Available,2025-07-08
+EMP0393,Brent Harris,Tester,CAD,Mid,8,3,1,2,0,2,0,2,2,2,3,3,2,2,0,3,0,E-Enable Collaborative Initiatives,Siemens,Available,2025-05-27
+EMP0394,Jeffrey Burns,Developer,Game Testing,Mid,8,2,2,3,3,1,0,3,3,3,3,3,0,1,1,0,2,Matrix Integrated E-Business,Epic Games,Unavailable,2025-06-12
+EMP0395,Michael Santana PhD,Tester,BIM,Senior,8,2,1,3,2,1,1,3,2,0,0,1,1,2,0,0,2,Deliver Enterprise Web-Readiness,Autodesk,Partially Available,2025-08-16
+EMP0396,Christina Johnson,Designer,BIM,Mid,12,3,3,1,1,3,1,2,3,2,1,0,0,2,3,1,3,Unleash Holistic Mindshare,Siemens,Unavailable,2025-07-28
+EMP0397,Kimberly Evans,Developer,BIM,Junior,17,2,2,3,0,2,2,3,2,2,3,3,2,0,3,2,3,Cultivate Granular Roi,Roblox,Unavailable,2025-08-04
+EMP0398,Paul Nolan,Designer,BIM,Mid,3,1,0,3,3,1,2,3,0,2,1,0,3,0,3,1,3,Generate Best-Of-Breed Schemas,Roblox,Available,2025-07-30
+EMP0399,Wesley Flores,Developer,CAD,Mid,18,3,0,3,3,3,0,2,0,3,0,2,2,2,1,1,2,Seize Compelling Users,Siemens,Available,2025-08-13
+EMP0400,Zachary Smith,Developer,Game Testing,Junior,7,1,2,1,3,3,0,1,2,3,3,3,2,3,1,2,3,Repurpose Mission-Critical Partnerships,Roblox,Unavailable,2025-07-27
+EMP0401,Francisco Miranda,Developer,CAD,Junior,8,1,2,3,2,1,2,2,2,2,0,3,2,3,3,1,2,Disintermediate Extensible Platforms,Dassault,Available,2025-08-20
+EMP0402,Mikayla Barnes,Developer,Game Testing,Senior,8,2,3,2,3,2,3,3,3,3,0,3,3,0,2,3,3,Incubate Revolutionary Infrastructures,Roblox,Available,2025-06-24
+EMP0403,Deborah Dorsey,Tester,BIM,Senior,6,2,2,1,3,3,3,3,3,1,1,3,3,3,3,3,3,Mesh Robust Portals,Dassault,Partially Available,2025-08-08
+EMP0404,Scott Faulkner,Tester,CAD,Senior,17,0,2,2,3,3,1,3,3,1,1,1,3,2,2,3,2,Re-Intermediate One-To-One Functionalities,Dassault,Unavailable,2025-07-04
+EMP0405,Theresa Cervantes,Tester,Game Testing,Mid,13,3,0,2,2,2,1,3,3,1,2,3,1,1,3,3,2,Orchestrate Magnetic Markets,Autodesk,Unavailable,2025-08-01
+EMP0406,Jean Ray,Designer,CAD,Junior,14,1,3,3,2,3,1,0,3,2,1,2,0,1,3,1,3,Disintermediate E-Business Roi,Dassault,Unavailable,2025-06-13
+EMP0407,Michael Ramirez,Developer,Game Testing,Senior,6,3,1,2,1,3,2,3,1,3,1,3,3,1,3,3,2,Architect Frictionless Web-Readiness,Siemens,Unavailable,2025-08-16
+EMP0408,Martha Henry,Developer,CAD,Junior,13,0,1,1,2,3,1,0,1,3,0,1,0,3,3,3,3,Transform B2C Markets,Autodesk,Partially Available,2025-08-13
+EMP0409,Jake Morris,Designer,BIM,Mid,4,1,3,0,1,3,2,3,3,2,3,1,3,2,1,2,2,Visualize Bleeding-Edge Portals,Siemens,Unavailable,2025-08-16
+EMP0410,Ronald Fletcher,Developer,CAD,Senior,3,3,1,2,2,1,3,1,1,3,3,1,2,3,0,3,1,Unleash 24/365 Infrastructures,Roblox,Partially Available,2025-08-18
+EMP0411,Charles Skinner,Tester,CAD,Mid,11,3,3,1,2,3,2,3,2,2,2,3,3,3,3,3,3,Seize Visionary Markets,Dassault,Unavailable,2025-06-25
+EMP0412,Ronald Aguilar,Designer,BIM,Senior,14,2,1,2,1,3,0,2,3,2,3,2,0,3,3,1,2,Implement Out-Of-The-Box Communities,Epic Games,Unavailable,2025-07-28
+EMP0413,Phillip Banks,Developer,CAD,Mid,15,3,3,3,1,2,2,1,2,3,2,3,3,3,2,3,3,Embrace Cross-Platform Convergence,Siemens,Partially Available,2025-06-14
+EMP0414,Martha Scott,Designer,BIM,Junior,9,1,2,3,2,3,0,3,3,2,0,2,3,2,2,2,3,Engage World-Class Action-Items,Roblox,Unavailable,2025-05-29
+EMP0415,Margaret Wright,Designer,Game Testing,Senior,20,2,1,3,3,3,3,2,2,2,0,3,3,1,1,2,3,Matrix User-Centric Methodologies,Siemens,Unavailable,2025-06-05
+EMP0416,William Brown,Designer,BIM,Senior,16,1,3,0,2,2,2,2,3,2,3,0,3,2,1,1,3,Harness Ubiquitous Content,Epic Games,Unavailable,2025-08-15
+EMP0417,Clinton Brown,Tester,CAD,Junior,15,2,3,1,3,2,1,3,3,1,3,2,2,0,0,3,3,Unleash Interactive Supply-Chains,Siemens,Unavailable,2025-08-07
+EMP0418,Linda Fuller,Developer,Game Testing,Mid,7,2,1,2,2,3,2,2,2,3,2,3,2,3,3,0,2,Harness Visionary Methodologies,Siemens,Unavailable,2025-07-30
+EMP0419,Alyssa Cox,Designer,BIM,Junior,3,1,1,2,3,0,1,3,1,2,2,0,3,0,2,2,1,Strategize Scalable Bandwidth,Dassault,Partially Available,2025-08-09
+EMP0420,Johnathan Miller,Tester,BIM,Junior,16,2,3,2,2,3,1,1,2,2,2,2,2,2,3,0,3,Embrace Dynamic Initiatives,Siemens,Unavailable,2025-05-29
+EMP0421,Barbara Miller,Developer,Game Testing,Mid,12,3,2,2,2,3,2,3,1,3,3,3,3,3,1,0,2,Empower Holistic Convergence,Roblox,Available,2025-06-01
+EMP0422,Jacqueline Davidson,Designer,Game Testing,Senior,8,2,2,2,3,3,0,2,1,3,3,3,3,1,3,3,3,Integrate Dynamic Paradigms,Roblox,Available,2025-05-29
+EMP0423,Megan Bell,Developer,BIM,Junior,18,3,3,2,1,0,0,2,1,2,2,3,2,3,3,2,3,Facilitate Integrated Portals,Siemens,Unavailable,2025-06-13
+EMP0424,Casey Chung,Tester,Game Testing,Mid,20,3,2,3,3,2,1,2,1,2,3,3,2,2,2,3,1,Incentivize Virtual Portals,Epic Games,Partially Available,2025-08-02
+EMP0425,Ronald Shaffer,Developer,BIM,Senior,14,3,2,2,2,2,1,1,2,3,3,3,1,0,3,0,2,Architect Compelling Action-Items,Autodesk,Partially Available,2025-06-27
+EMP0426,Tyler Diaz,Tester,CAD,Senior,20,1,3,1,3,1,3,3,1,1,3,1,3,1,3,3,0,Disintermediate Front-End Interfaces,Dassault,Available,2025-06-30
+EMP0427,Margaret Jenkins,Tester,BIM,Junior,17,2,2,3,2,0,1,3,3,3,3,2,1,3,1,1,2,Mesh Clicks-And-Mortar Mindshare,Roblox,Partially Available,2025-07-25
+EMP0428,Susan Chang,Designer,CAD,Senior,8,0,2,1,2,2,2,2,0,2,3,2,1,0,1,1,3,Innovate Clicks-And-Mortar Niches,Siemens,Unavailable,2025-06-19
+EMP0429,Natalie Waters,Designer,CAD,Senior,17,2,2,3,3,2,2,2,1,2,3,3,3,2,3,0,3,Seize Cross-Media Technologies,Dassault,Available,2025-06-08
+EMP0430,Tyler Zimmerman,Tester,Game Testing,Senior,15,2,2,0,3,1,1,2,3,1,2,2,1,3,2,2,1,Unleash Clicks-And-Mortar Synergies,Siemens,Available,2025-06-03
+EMP0431,Scott Adkins,Developer,Game Testing,Mid,17,2,3,3,1,1,3,1,2,2,2,2,2,3,1,3,1,Unleash Web-Enabled Web Services,Roblox,Unavailable,2025-07-18
+EMP0432,Jennifer Guerrero,Designer,BIM,Mid,1,0,2,2,1,2,3,1,2,2,0,3,0,3,3,2,0,Embrace Next-Generation Infrastructures,Dassault,Available,2025-08-08
+EMP0433,Shelby Pratt,Developer,Game Testing,Senior,15,0,2,3,3,2,2,3,3,3,3,3,3,3,1,2,1,Brand E-Business Synergies,Roblox,Unavailable,2025-06-28
+EMP0434,Timothy Hayes,Developer,CAD,Senior,12,2,2,2,3,1,3,3,0,0,3,1,3,1,2,2,3,Strategize Bricks-And-Clicks Platforms,Autodesk,Unavailable,2025-06-22
+EMP0435,Traci Curry,Designer,CAD,Mid,10,3,1,3,0,2,3,3,0,1,0,1,3,2,1,3,3,Disintermediate Synergistic Architectures,Siemens,Available,2025-06-30
+EMP0436,Stephanie Holder,Developer,Game Testing,Mid,18,1,0,3,2,1,1,1,2,0,3,3,2,3,0,1,2,Scale Seamless E-Markets,Siemens,Available,2025-07-02
+EMP0437,Kristy Evans,Developer,CAD,Mid,10,1,3,2,1,2,2,2,3,3,2,3,3,3,3,3,1,Incubate Viral Infrastructures,Autodesk,Partially Available,2025-07-19
+EMP0438,Casey Fowler,Developer,BIM,Mid,2,3,3,2,3,2,2,3,0,3,2,3,2,3,1,3,1,Deliver Plug-And-Play E-Markets,Autodesk,Partially Available,2025-06-20
+EMP0439,Randy Smith,Designer,BIM,Senior,17,3,2,2,3,2,2,2,3,2,1,1,3,2,2,3,2,Synthesize Back-End Bandwidth,Autodesk,Available,2025-08-01
+EMP0440,Christy Stewart MD,Developer,CAD,Senior,8,2,2,0,2,3,0,1,0,1,3,3,3,1,0,2,2,Engineer Out-Of-The-Box Networks,Siemens,Unavailable,2025-06-27
+EMP0441,Austin Young,Tester,CAD,Mid,7,3,3,2,3,1,2,1,0,3,1,3,3,3,3,2,2,Enable Rich Supply-Chains,Roblox,Unavailable,2025-07-18
+EMP0442,Phillip Miller,Designer,CAD,Junior,6,2,3,2,2,2,3,2,3,3,3,2,3,3,3,3,2,Transition Scalable Channels,Epic Games,Partially Available,2025-07-22
+EMP0443,Christian Rivas,Designer,Game Testing,Mid,7,1,3,3,3,3,2,1,3,2,2,3,2,3,3,3,3,Exploit Cross-Media Interfaces,Autodesk,Unavailable,2025-06-28
+EMP0444,Dawn Bradshaw,Developer,CAD,Mid,7,0,3,3,2,2,0,1,0,3,1,3,0,0,2,3,2,Benchmark Enterprise Markets,Roblox,Available,2025-08-21
+EMP0445,John Garcia,Tester,CAD,Mid,20,0,2,3,1,3,3,3,1,1,1,1,3,1,3,3,3,Reinvent Visionary Infrastructures,Roblox,Unavailable,2025-08-11
+EMP0446,Paul Braun,Tester,CAD,Senior,18,3,1,3,3,0,3,3,1,2,3,2,1,3,1,2,3,Grow Interactive Vortals,Epic Games,Partially Available,2025-08-01
+EMP0447,Jeffery White,Developer,CAD,Senior,13,1,0,3,3,3,3,0,1,3,2,1,3,3,2,1,3,Maximize Enterprise Networks,Epic Games,Unavailable,2025-07-28
+EMP0448,Juan Munoz,Designer,Game Testing,Mid,14,2,3,2,1,2,1,2,3,3,0,2,3,3,3,3,3,Embrace Web-Enabled Functionalities,Siemens,Unavailable,2025-06-13
+EMP0449,Aaron Lloyd,Developer,Game Testing,Senior,10,3,2,3,2,2,3,2,1,1,3,2,1,1,2,3,2,Unleash B2C Supply-Chains,Autodesk,Available,2025-06-11
+EMP0450,Barry Chang,Tester,Game Testing,Senior,11,1,1,2,2,3,3,3,2,1,2,3,3,0,2,2,1,Harness Distributed E-Tailers,Roblox,Available,2025-08-19
+EMP0451,Taylor King,Tester,BIM,Mid,14,2,3,3,1,3,3,3,1,2,0,3,3,1,3,3,3,Drive Collaborative Vortals,Roblox,Unavailable,2025-05-29
+EMP0452,Joseph Marshall,Designer,CAD,Senior,7,3,3,2,2,1,1,3,0,3,3,3,3,2,0,3,3,Morph Clicks-And-Mortar Infrastructures,Siemens,Unavailable,2025-06-16
+EMP0453,Joshua Brown,Developer,CAD,Senior,19,2,3,0,3,0,3,2,2,3,3,1,2,3,2,2,3,Engineer Proactive Web-Readiness,Epic Games,Unavailable,2025-08-05
+EMP0454,Melanie Sanchez,Tester,Game Testing,Mid,9,2,2,3,3,3,1,3,2,3,2,3,1,2,1,0,3,Harness Front-End Solutions,Siemens,Partially Available,2025-07-27
+EMP0455,Susan Ray,Tester,CAD,Senior,2,1,2,1,3,1,2,1,1,1,3,3,3,2,1,2,1,Orchestrate B2B Relationships,Dassault,Available,2025-06-12
+EMP0456,Bryan Ramirez,Tester,Game Testing,Senior,4,3,3,3,3,2,2,1,3,3,2,3,3,2,2,3,3,Cultivate Visionary E-Commerce,Roblox,Available,2025-08-05
+EMP0457,Amanda Preston,Tester,CAD,Mid,7,0,2,2,0,1,1,3,3,3,1,3,1,2,2,2,2,Leverage One-To-One Users,Roblox,Unavailable,2025-06-13
+EMP0458,Linda Rice,Developer,BIM,Senior,20,3,3,3,2,3,2,1,2,3,3,1,1,1,3,3,2,Deliver Back-End Infrastructures,Autodesk,Partially Available,2025-05-29
+EMP0459,Tracey Tran,Developer,Game Testing,Senior,5,2,2,3,2,3,0,1,2,3,1,1,1,3,2,1,1,Cultivate Transparent E-Commerce,Autodesk,Partially Available,2025-08-03
+EMP0460,Christopher Buck,Developer,CAD,Mid,18,1,3,3,3,2,2,3,2,3,1,3,2,1,2,3,2,Maximize Visionary Systems,Siemens,Unavailable,2025-08-23
+EMP0461,Janice Elliott,Developer,BIM,Senior,7,1,3,2,3,3,3,2,3,3,2,0,3,2,0,2,2,Engage World-Class Technologies,Roblox,Available,2025-08-02
+EMP0462,Kevin Shelton,Tester,CAD,Junior,11,3,0,3,3,1,3,3,0,3,2,3,2,3,2,2,2,Transform Cutting-Edge Platforms,Dassault,Partially Available,2025-07-05
+EMP0463,Matthew Smith,Designer,CAD,Junior,16,2,3,2,3,1,3,3,3,0,3,3,0,2,3,1,1,Visualize Value-Added E-Markets,Dassault,Partially Available,2025-07-06
+EMP0464,Edward Martinez,Tester,Game Testing,Junior,11,2,1,0,3,2,3,0,3,3,3,0,3,3,2,2,2,Redefine User-Centric Technologies,Siemens,Partially Available,2025-06-02
+EMP0465,Michael White,Developer,BIM,Junior,18,2,2,3,2,2,2,0,1,2,2,3,3,2,2,1,3,Enable Integrated Infrastructures,Roblox,Available,2025-06-07
+EMP0466,Shannon Glover,Developer,BIM,Senior,6,2,1,2,1,3,3,1,3,3,3,1,0,3,2,2,3,Envisioneer Real-Time Markets,Dassault,Unavailable,2025-06-02
+EMP0467,Monica Smith,Tester,BIM,Mid,10,2,3,2,1,1,0,3,3,3,2,2,3,3,2,3,2,Brand Mission-Critical Interfaces,Dassault,Partially Available,2025-06-16
+EMP0468,Karen Brooks,Tester,Game Testing,Mid,19,2,2,2,3,2,2,2,0,2,1,2,2,2,3,3,3,Engage Granular Deliverables,Autodesk,Available,2025-06-01
+EMP0469,Casey York,Designer,CAD,Senior,18,3,2,2,3,3,3,2,3,2,2,3,3,1,3,3,2,Exploit Dynamic Vortals,Autodesk,Available,2025-08-10
+EMP0470,Kayla Mitchell,Developer,Game Testing,Junior,16,3,2,1,3,2,0,3,1,3,3,0,1,1,0,2,2,Syndicate Bleeding-Edge E-Business,Siemens,Available,2025-07-05
+EMP0471,David Wilkerson,Designer,Game Testing,Senior,18,2,3,3,2,2,1,3,1,3,3,3,0,3,2,3,2,Strategize Bricks-And-Clicks Methodologies,Dassault,Unavailable,2025-07-09
+EMP0472,Kayla Turner,Designer,Game Testing,Junior,12,2,2,1,3,3,3,1,2,2,2,3,3,3,2,3,3,Revolutionize Customized Systems,Roblox,Unavailable,2025-06-11
+EMP0473,Shawn Cannon,Designer,Game Testing,Junior,9,1,1,3,2,1,3,1,3,0,2,2,0,3,0,2,3,Extend Innovative Deliverables,Siemens,Unavailable,2025-06-09
+EMP0474,Cory Leblanc,Designer,CAD,Junior,4,3,1,3,3,1,2,0,2,3,2,2,0,0,2,0,3,Architect 24/365 Mindshare,Dassault,Available,2025-05-27
+EMP0475,Jerry Stevenson,Designer,CAD,Mid,4,2,2,2,0,3,2,3,3,2,2,2,3,3,3,2,0,Implement 24/7 Partnerships,Epic Games,Partially Available,2025-07-19
+EMP0476,Stephen Watkins,Developer,Game Testing,Senior,6,2,3,1,3,3,1,2,2,2,1,3,1,2,1,2,0,Benchmark Plug-And-Play Methodologies,Dassault,Partially Available,2025-08-01
+EMP0477,Briana Goodman,Designer,Game Testing,Mid,5,2,3,3,1,2,3,3,3,2,3,1,3,1,3,0,0,Scale One-To-One Functionalities,Roblox,Available,2025-07-02
+EMP0478,Daniel Taylor,Tester,CAD,Senior,13,3,2,2,2,2,2,3,2,1,2,1,3,3,3,3,3,Expedite World-Class Methodologies,Autodesk,Unavailable,2025-06-10
+EMP0479,Kara Mcdonald,Tester,Game Testing,Junior,5,2,2,3,3,2,3,3,3,1,1,1,0,3,2,2,3,Reinvent Mission-Critical Markets,Dassault,Available,2025-08-01
+EMP0480,Karen Jones,Developer,CAD,Junior,6,1,3,2,3,0,0,1,3,0,1,3,1,3,2,1,2,Benchmark Mission-Critical Deliverables,Epic Games,Available,2025-08-08
+EMP0481,Sarah Morgan,Designer,BIM,Mid,11,1,3,0,2,3,0,0,2,1,3,3,0,1,1,1,2,Syndicate B2B Info-Mediaries,Siemens,Available,2025-07-15
+EMP0482,Andrea Krause,Developer,Game Testing,Senior,7,2,3,3,2,2,3,3,1,2,0,0,0,1,2,2,2,Evolve Proactive Roi,Siemens,Available,2025-06-04
+EMP0483,Katie Hayes,Developer,CAD,Mid,12,2,2,2,2,2,2,2,2,2,1,3,1,1,1,3,2,Envisioneer Cross-Media Mindshare,Roblox,Unavailable,2025-06-11
+EMP0484,Carolyn Davis,Developer,BIM,Senior,1,2,3,1,1,3,3,3,2,0,2,2,2,3,0,1,2,Innovate Wireless Content,Siemens,Unavailable,2025-06-30
+EMP0485,Julian Roberts,Tester,BIM,Junior,5,3,2,2,3,2,1,1,3,2,2,3,3,1,1,1,1,Embrace User-Centric Relationships,Siemens,Partially Available,2025-07-29
+EMP0486,Jordan Todd,Developer,CAD,Senior,1,2,1,0,2,3,0,3,3,3,3,1,1,2,3,1,2,Seize World-Class Applications,Roblox,Partially Available,2025-08-13
+EMP0487,Jeffery Green,Tester,BIM,Junior,13,3,2,0,3,3,1,3,2,2,2,0,3,1,3,3,3,Incentivize Holistic Users,Autodesk,Unavailable,2025-08-02
+EMP0488,Mark Carpenter,Designer,CAD,Junior,4,3,1,2,3,3,3,3,0,3,2,3,2,3,2,3,1,Revolutionize Rich Convergence,Roblox,Available,2025-06-07
+EMP0489,Daniel Donovan,Developer,BIM,Senior,11,2,3,0,2,0,0,1,0,2,1,3,3,3,3,3,2,Envisioneer Scalable Applications,Siemens,Partially Available,2025-07-03
+EMP0490,Jesse Hamilton,Tester,Game Testing,Mid,15,2,3,3,0,3,1,2,1,1,2,3,2,3,1,3,2,Leverage Vertical E-Tailers,Dassault,Unavailable,2025-08-14
+EMP0491,Albert Kane,Designer,CAD,Mid,14,2,1,0,2,3,3,3,3,2,2,2,3,3,3,3,3,Implement Vertical Roi,Autodesk,Unavailable,2025-07-20
+EMP0492,Javier Wade,Developer,BIM,Mid,9,3,0,1,3,3,3,3,2,2,3,3,1,1,3,2,1,Target Customized Interfaces,Roblox,Partially Available,2025-05-27
+EMP0493,Steven Rogers,Developer,Game Testing,Junior,20,1,1,2,2,1,1,0,1,1,3,3,2,3,0,3,1,Re-Contextualize Frictionless E-Tailers,Dassault,Partially Available,2025-06-30
+EMP0494,Mrs. Catherine Martin,Tester,BIM,Junior,15,1,2,3,2,1,2,3,2,0,2,2,3,3,2,3,3,Enhance Web-Enabled Technologies,Roblox,Available,2025-06-07
+EMP0495,Kathy Cooper,Designer,Game Testing,Senior,2,3,2,2,3,3,3,1,1,3,3,3,3,2,3,2,1,Innovate Bleeding-Edge Systems,Dassault,Available,2025-07-28
+EMP0496,Kyle Freeman,Tester,Game Testing,Senior,17,1,3,1,2,2,3,3,3,2,0,0,3,1,1,2,3,Visualize B2C Technologies,Dassault,Available,2025-06-12
+EMP0497,Daniel Thompson,Developer,BIM,Senior,13,3,3,3,1,2,2,3,3,2,3,3,2,3,2,3,1,Envisioneer Efficient Platforms,Siemens,Partially Available,2025-07-20
+EMP0498,Tiffany Mendez,Designer,CAD,Mid,10,3,0,1,2,2,1,3,3,2,1,3,2,3,2,3,3,Integrate Leading-Edge Initiatives,Epic Games,Unavailable,2025-08-11
+EMP0499,Kelly Wood,Tester,Game Testing,Senior,6,3,3,2,0,0,2,3,0,2,3,3,3,1,2,3,1,Empower Value-Added Metrics,Autodesk,Unavailable,2025-08-12
+EMP0500,Alex Rose,Developer,CAD,Senior,9,3,1,0,3,3,2,1,2,2,1,1,3,3,3,0,3,Engage Cross-Platform E-Services,Roblox,Partially Available,2025-08-02
+EMP0501,Carlos Fuller,Tester,BIM,Junior,12,2,3,3,3,2,2,3,1,2,3,3,2,3,3,3,2,Disintermediate One-To-One Mindshare,Roblox,Partially Available,2025-07-24
+EMP0502,Daniel Simmons,Developer,BIM,Mid,3,0,3,3,2,3,2,3,0,2,1,3,3,2,0,3,3,Grow Virtual Functionalities,Autodesk,Partially Available,2025-08-20
+EMP0503,Lindsey Potter,Designer,Game Testing,Mid,10,3,2,1,3,0,2,0,2,2,2,3,3,0,2,1,3,Synthesize Magnetic Mindshare,Autodesk,Available,2025-06-08
+EMP0504,Jamie Fry,Tester,CAD,Senior,1,1,0,0,1,2,2,3,3,3,2,2,3,2,3,3,3,Deliver B2C Action-Items,Autodesk,Unavailable,2025-06-23
+EMP0505,Carol Peterson,Developer,CAD,Mid,3,3,3,1,1,3,3,3,2,1,3,0,2,3,3,2,1,Optimize Innovative Infrastructures,Autodesk,Available,2025-08-09
+EMP0506,Ivan Barnes,Designer,CAD,Senior,11,3,2,2,3,3,2,3,2,0,2,1,3,1,2,1,3,Enhance Extensible Bandwidth,Autodesk,Available,2025-08-06
+EMP0507,Heidi Martinez,Developer,BIM,Mid,3,2,1,3,2,2,2,3,1,3,1,3,3,3,1,2,3,Innovate Mission-Critical Markets,Dassault,Unavailable,2025-05-30
+EMP0508,Heather Stevenson,Designer,CAD,Senior,10,2,1,2,3,2,2,2,2,2,0,2,2,3,3,3,3,Integrate Killer Info-Mediaries,Roblox,Unavailable,2025-05-30
+EMP0509,Luis Moore,Tester,Game Testing,Junior,5,3,1,2,3,2,3,3,2,2,3,1,3,2,2,2,0,Embrace Magnetic Vortals,Siemens,Unavailable,2025-07-05
+EMP0510,Joann Webb,Developer,CAD,Junior,16,3,3,1,3,2,2,3,3,2,2,1,1,3,2,1,3,Reinvent Rich Paradigms,Autodesk,Unavailable,2025-06-08
+EMP0511,Anthony Allen,Tester,Game Testing,Senior,9,2,2,2,1,2,3,3,3,2,3,2,3,2,3,2,0,Utilize Dot-Com Partnerships,Dassault,Available,2025-06-11
+EMP0512,Sandra West,Developer,CAD,Junior,19,3,0,2,2,1,3,2,3,2,3,3,3,3,3,3,2,Redefine Frictionless E-Tailers,Autodesk,Available,2025-05-28
+EMP0513,John Barnes,Developer,BIM,Mid,19,0,3,2,1,1,2,3,0,1,2,3,2,3,0,3,1,Unleash E-Business Applications,Autodesk,Partially Available,2025-07-17
+EMP0514,Brandy Rodriguez,Developer,BIM,Junior,13,3,2,3,1,3,2,3,1,3,2,3,3,1,3,3,3,Optimize E-Business Vortals,Siemens,Available,2025-08-22
+EMP0515,Austin Stephens,Designer,CAD,Senior,17,2,2,3,3,1,2,1,3,1,3,3,2,1,2,3,3,Harness Compelling Vortals,Epic Games,Available,2025-06-25
+EMP0516,Jeffrey Colon,Tester,Game Testing,Mid,10,3,1,3,3,3,2,3,3,2,3,1,3,0,2,3,1,Aggregate Bleeding-Edge Schemas,Roblox,Available,2025-06-09
+EMP0517,Michael Davis,Designer,CAD,Junior,19,2,3,2,3,2,0,0,2,0,0,2,3,1,3,3,3,Revolutionize Distributed Supply-Chains,Roblox,Available,2025-06-15
+EMP0518,Jack White,Developer,Game Testing,Junior,19,1,3,0,2,2,1,2,3,1,1,0,2,3,3,1,1,Expedite 24/365 Synergies,Autodesk,Available,2025-05-28
+EMP0519,Timothy Hicks,Designer,CAD,Junior,15,2,3,1,3,0,3,2,3,3,1,2,2,3,3,2,3,Scale Plug-And-Play Web-Readiness,Roblox,Partially Available,2025-07-15
+EMP0520,Marco Fitzpatrick,Designer,CAD,Mid,15,3,2,3,0,3,2,1,3,0,3,3,2,1,1,3,3,Extend Integrated Networks,Roblox,Unavailable,2025-06-28
+EMP0521,Jacob Stewart,Designer,Game Testing,Senior,14,3,2,0,3,3,0,3,2,2,2,0,1,3,0,1,1,Strategize Ubiquitous Architectures,Siemens,Unavailable,2025-07-28
+EMP0522,Jill Vincent,Designer,Game Testing,Junior,10,1,2,3,2,2,2,3,3,3,2,3,2,0,2,3,2,Iterate Virtual Experiences,Siemens,Unavailable,2025-08-15
+EMP0523,Crystal Brown,Tester,BIM,Mid,1,2,2,3,2,3,1,0,3,2,2,3,3,1,3,2,2,Scale 24/365 Functionalities,Roblox,Unavailable,2025-08-23
+EMP0524,Erica Hubbard,Tester,Game Testing,Junior,19,3,3,2,2,2,2,2,3,0,3,2,1,2,1,3,3,Repurpose Innovative Info-Mediaries,Epic Games,Unavailable,2025-06-15
+EMP0525,Dr. Jessica Knight,Tester,CAD,Junior,14,3,3,2,3,2,3,2,0,2,0,2,1,2,0,3,2,Aggregate Interactive Technologies,Autodesk,Unavailable,2025-06-11
+EMP0526,Timothy Martin,Designer,BIM,Mid,3,2,3,2,3,2,2,1,3,2,2,3,1,1,3,0,3,Cultivate Web-Enabled Partnerships,Autodesk,Unavailable,2025-07-13
+EMP0527,Kimberly Brown,Developer,CAD,Mid,3,1,2,0,1,1,1,1,2,2,3,0,3,1,2,3,3,Repurpose Enterprise Technologies,Epic Games,Partially Available,2025-07-11
+EMP0528,Daniel Wood,Developer,CAD,Mid,13,3,1,1,3,3,2,3,2,3,3,1,3,2,1,1,2,Reinvent Granular Vortals,Autodesk,Available,2025-07-23
+EMP0529,Troy Mcmillan,Developer,BIM,Mid,10,2,3,1,3,3,3,1,2,3,3,3,3,2,1,1,2,Redefine Impactful Paradigms,Roblox,Unavailable,2025-06-14
+EMP0530,Manuel Hayes,Tester,CAD,Senior,12,2,0,3,2,3,0,3,2,3,3,3,1,0,3,2,0,Seize Bricks-And-Clicks E-Business,Epic Games,Partially Available,2025-06-22
+EMP0531,James Sloan,Developer,BIM,Mid,11,3,3,3,2,3,1,2,3,2,3,3,2,1,3,0,2,Monetize Next-Generation Portals,Epic Games,Unavailable,2025-06-11
+EMP0532,Marcus Dunn,Developer,Game Testing,Junior,9,0,0,0,2,1,3,3,2,2,1,3,3,1,3,1,3,Re-Contextualize Compelling Solutions,Roblox,Unavailable,2025-07-08
+EMP0533,Lisa Moore,Developer,CAD,Senior,9,2,3,2,1,2,0,2,2,1,2,0,2,3,3,0,2,Exploit Wireless Bandwidth,Autodesk,Available,2025-05-26
+EMP0534,Beth Richardson,Tester,BIM,Mid,1,1,1,3,3,2,1,2,0,1,1,1,2,3,3,2,3,Optimize Holistic E-Commerce,Autodesk,Available,2025-08-10
+EMP0535,Lisa Watson PhD,Designer,CAD,Senior,8,3,0,2,0,3,2,2,2,3,2,3,3,2,1,3,2,Orchestrate Efficient Vortals,Siemens,Available,2025-07-13
+EMP0536,Riley Thomas,Designer,CAD,Junior,1,1,2,2,3,3,0,2,3,1,0,2,3,3,1,3,3,Scale Dynamic Partnerships,Epic Games,Available,2025-07-13
+EMP0537,Eric Garza,Designer,CAD,Mid,18,3,2,3,1,3,1,3,2,3,0,2,3,2,0,2,2,Brand User-Centric Partnerships,Dassault,Unavailable,2025-07-03
+EMP0538,David Thompson,Tester,BIM,Junior,15,0,2,3,2,2,1,3,3,3,3,3,2,2,3,3,3,Deliver Visionary Solutions,Roblox,Partially Available,2025-07-27
+EMP0539,Shelby Taylor,Developer,Game Testing,Mid,11,3,2,3,2,3,3,1,2,1,2,3,2,3,1,2,2,Visualize Clicks-And-Mortar Metrics,Dassault,Available,2025-08-11
+EMP0540,Carla Morgan,Tester,BIM,Mid,3,1,0,3,2,3,1,3,3,3,3,1,2,3,3,2,1,Implement Front-End Initiatives,Dassault,Unavailable,2025-07-04
+EMP0541,Catherine Chapman,Tester,Game Testing,Senior,12,1,1,2,2,3,3,3,3,3,2,3,2,3,3,1,3,Utilize Proactive Deliverables,Autodesk,Unavailable,2025-06-02
+EMP0542,James Morris,Designer,Game Testing,Senior,12,3,3,2,1,2,1,1,3,1,2,3,3,2,3,1,3,Target Transparent Systems,Dassault,Partially Available,2025-08-15
+EMP0543,Andrew Powell,Developer,BIM,Mid,7,2,3,0,3,3,3,3,3,3,0,1,1,1,3,3,1,Deliver Back-End Action-Items,Dassault,Unavailable,2025-07-28
+EMP0544,Michael Webb,Designer,BIM,Senior,7,1,2,3,0,1,2,3,0,3,3,1,0,1,3,3,3,Transform Web-Enabled Functionalities,Roblox,Unavailable,2025-06-10
+EMP0545,John Hernandez,Designer,CAD,Mid,4,2,3,3,3,2,3,3,3,2,3,0,2,2,3,2,2,Harness World-Class Initiatives,Siemens,Partially Available,2025-06-05
+EMP0546,Reginald Melendez,Developer,CAD,Senior,7,3,2,2,0,3,0,2,0,3,3,2,1,2,3,3,1,Revolutionize Innovative Portals,Dassault,Available,2025-06-24
+EMP0547,Christopher Taylor,Designer,Game Testing,Senior,20,2,2,0,3,1,0,3,0,1,0,3,1,3,2,3,3,Monetize Revolutionary E-Markets,Epic Games,Partially Available,2025-08-23
+EMP0548,Kristina Torres,Tester,CAD,Junior,19,2,1,0,3,2,0,3,3,3,1,2,3,1,2,3,3,Cultivate Ubiquitous Bandwidth,Roblox,Available,2025-08-14
+EMP0549,Jenny Cervantes,Designer,BIM,Junior,19,3,1,1,1,0,2,1,2,3,1,0,3,0,2,3,1,E-Enable Customized E-Commerce,Epic Games,Unavailable,2025-06-12
+EMP0550,Shane Powell,Tester,CAD,Junior,11,2,1,3,0,2,3,2,1,1,2,3,2,3,2,2,3,Utilize Integrated Platforms,Siemens,Unavailable,2025-07-31
+EMP0551,Sharon Flores,Designer,Game Testing,Senior,15,1,2,2,1,2,1,2,2,1,3,3,3,3,2,2,3,Deploy Value-Added Niches,Autodesk,Available,2025-08-09
+EMP0552,Jose Wang,Tester,CAD,Junior,7,2,2,3,1,2,2,3,3,3,3,3,0,2,1,1,2,Transform Rich Portals,Epic Games,Partially Available,2025-07-06
+EMP0553,Beverly Smith MD,Designer,CAD,Junior,20,0,3,2,2,0,2,2,2,3,3,0,1,2,3,0,2,Maximize Integrated Action-Items,Siemens,Unavailable,2025-07-17
+EMP0554,Colton Wilson,Developer,Game Testing,Mid,18,2,1,2,2,1,3,3,2,3,3,1,2,3,3,1,3,Mesh Enterprise Vortals,Siemens,Unavailable,2025-08-05
+EMP0555,Edward Ortiz,Designer,Game Testing,Senior,18,1,3,1,3,2,3,3,2,3,2,0,1,2,3,1,3,Unleash Bricks-And-Clicks Initiatives,Epic Games,Available,2025-06-17
+EMP0556,Mark Jones MD,Tester,CAD,Senior,6,0,3,1,3,3,0,3,3,2,1,2,0,3,2,2,3,Scale Rich Action-Items,Dassault,Available,2025-06-11
+EMP0557,Molly Bates,Designer,BIM,Junior,13,3,3,1,1,0,1,2,2,3,2,2,3,2,1,3,2,Scale Virtual Niches,Dassault,Partially Available,2025-08-11
+EMP0558,Amanda Madden,Designer,BIM,Junior,14,1,1,0,2,3,1,2,3,3,0,2,3,0,3,3,1,Incentivize Turn-Key Communities,Roblox,Available,2025-08-21
+EMP0559,John Patterson,Developer,CAD,Junior,18,2,2,1,1,3,0,3,3,2,0,3,3,1,0,2,1,Evolve Bleeding-Edge Paradigms,Dassault,Unavailable,2025-06-20
+EMP0560,Wayne Church,Developer,Game Testing,Mid,3,1,2,3,3,2,3,2,3,2,2,3,2,0,3,3,3,Incentivize B2C Supply-Chains,Roblox,Partially Available,2025-06-19
+EMP0561,Kevin Thompson,Tester,Game Testing,Mid,12,3,3,1,2,1,3,3,2,3,2,1,3,3,3,3,1,Deliver Out-Of-The-Box Interfaces,Autodesk,Partially Available,2025-08-12
+EMP0562,Daniel Boyd,Designer,Game Testing,Junior,11,1,3,0,2,3,2,2,3,3,3,1,2,2,1,3,3,Grow Best-Of-Breed Synergies,Roblox,Unavailable,2025-08-20
+EMP0563,Jennifer Robinson MD,Developer,BIM,Senior,15,3,3,1,2,3,2,1,1,3,1,3,3,3,2,2,2,Benchmark User-Centric E-Commerce,Siemens,Unavailable,2025-06-11
+EMP0564,Amy Sims,Developer,Game Testing,Junior,16,0,1,3,2,3,3,1,3,3,2,2,3,3,3,0,3,Target Compelling Initiatives,Epic Games,Available,2025-06-20
+EMP0565,Jennifer Suarez,Designer,BIM,Junior,9,1,2,0,1,3,1,1,3,3,2,3,2,1,3,1,2,Cultivate Granular Communities,Autodesk,Partially Available,2025-08-14
+EMP0566,Edwin Sanchez,Developer,BIM,Mid,8,3,3,2,0,3,3,2,3,1,3,3,3,2,1,1,2,Exploit Dot-Com Systems,Epic Games,Partially Available,2025-08-15
+EMP0567,Brian Griffith,Designer,BIM,Mid,9,2,3,0,3,0,3,2,2,0,3,0,3,1,1,3,0,Cultivate Global Action-Items,Epic Games,Available,2025-07-22
+EMP0568,Rebecca Payne,Tester,Game Testing,Senior,18,2,0,3,2,1,0,2,3,3,2,2,1,3,1,2,3,Seize Cross-Platform E-Tailers,Dassault,Partially Available,2025-06-29
+EMP0569,Michael Barrera,Developer,BIM,Junior,9,1,2,2,1,1,3,0,3,2,0,3,2,3,3,2,3,Target Revolutionary Bandwidth,Dassault,Partially Available,2025-05-31
+EMP0570,Adam Zimmerman,Designer,BIM,Senior,18,3,0,3,1,1,2,2,0,3,3,1,3,3,1,3,3,Scale Clicks-And-Mortar Technologies,Epic Games,Partially Available,2025-06-14
+EMP0571,Andrea Walter,Developer,Game Testing,Senior,5,2,2,3,2,3,2,2,2,2,0,2,2,2,2,2,2,Implement Compelling Solutions,Epic Games,Unavailable,2025-07-02
+EMP0572,Vickie Smith,Designer,BIM,Mid,1,1,2,3,3,2,2,3,1,3,3,1,3,1,1,2,3,Aggregate Front-End Action-Items,Siemens,Unavailable,2025-07-17
+EMP0573,Robin Garcia,Designer,Game Testing,Junior,2,3,3,2,2,3,3,2,1,2,3,2,0,1,0,3,2,Visualize Magnetic Communities,Autodesk,Partially Available,2025-08-22
+EMP0574,Abigail Hurst,Designer,Game Testing,Mid,3,1,1,1,3,2,3,3,2,2,3,0,0,0,3,3,2,Implement Innovative Metrics,Dassault,Available,2025-06-01
+EMP0575,Megan Richmond,Designer,Game Testing,Mid,1,2,2,3,3,2,1,1,3,1,1,2,1,3,1,3,2,Extend Holistic Networks,Epic Games,Available,2025-07-11
+EMP0576,Renee Ramos,Developer,Game Testing,Mid,14,3,1,2,3,2,1,3,3,1,3,1,2,3,3,3,3,Drive Clicks-And-Mortar E-Tailers,Autodesk,Available,2025-06-10
+EMP0577,Joshua Reyes,Tester,BIM,Senior,16,2,3,3,0,1,2,2,3,2,2,1,3,0,2,1,1,Optimize Value-Added Roi,Autodesk,Unavailable,2025-08-13
+EMP0578,Jonathan Mason,Tester,BIM,Mid,12,1,3,2,1,2,1,1,1,3,2,3,2,2,3,2,1,Monetize Mission-Critical Users,Siemens,Unavailable,2025-06-01
+EMP0579,Michael Davidson,Tester,Game Testing,Mid,14,2,3,3,3,0,2,0,1,3,2,1,0,2,1,3,3,Expedite Vertical Action-Items,Roblox,Available,2025-07-27
+EMP0580,Heather Rodriguez,Developer,Game Testing,Senior,19,1,2,2,3,3,1,3,2,2,0,3,0,1,0,0,1,E-Enable B2C Info-Mediaries,Autodesk,Available,2025-05-26
+EMP0581,Elizabeth Chavez,Tester,Game Testing,Mid,19,3,0,1,3,1,2,3,3,2,3,1,3,2,2,2,1,Enable Efficient Platforms,Autodesk,Unavailable,2025-06-05
+EMP0582,Wesley Garcia,Designer,BIM,Senior,15,2,3,3,2,2,2,3,1,2,2,1,1,3,0,3,2,Generate Cross-Platform Bandwidth,Autodesk,Available,2025-08-07
+EMP0583,Joseph Lee,Developer,Game Testing,Senior,4,0,3,1,2,3,1,2,1,3,2,3,3,2,3,3,3,Disintermediate Virtual Bandwidth,Roblox,Available,2025-08-10
+EMP0584,Joel Kelly,Tester,Game Testing,Senior,4,1,3,3,2,2,2,3,3,1,2,3,3,3,2,2,2,Syndicate Clicks-And-Mortar Communities,Siemens,Available,2025-08-19
+EMP0585,Michael Reed,Tester,BIM,Mid,6,2,2,3,2,3,2,3,0,1,1,2,2,2,2,1,3,Envisioneer E-Business Experiences,Epic Games,Partially Available,2025-08-23
+EMP0586,Carla Lee,Developer,Game Testing,Mid,11,1,1,0,0,2,0,0,1,2,1,1,3,1,0,1,3,Monetize Cutting-Edge Niches,Epic Games,Unavailable,2025-08-23
+EMP0587,Adam Taylor,Designer,Game Testing,Junior,19,2,1,2,0,3,1,2,3,3,2,3,3,3,3,0,2,Target Intuitive Convergence,Siemens,Available,2025-07-14
+EMP0588,Dr. Shawn Young,Developer,BIM,Senior,15,3,2,3,2,0,1,2,3,3,3,1,3,2,2,3,1,Leverage Rich Systems,Autodesk,Unavailable,2025-08-12
+EMP0589,Jordan Garcia,Developer,Game Testing,Senior,10,2,3,3,2,1,2,3,2,2,0,3,2,2,2,3,3,Aggregate Magnetic E-Business,Autodesk,Available,2025-08-08
+EMP0590,Jordan Nixon,Developer,CAD,Senior,7,2,2,3,1,3,2,2,2,3,3,3,1,0,3,0,1,Benchmark Frictionless Roi,Roblox,Available,2025-07-21
+EMP0591,Timothy Gordon,Designer,Game Testing,Senior,20,2,3,3,2,0,2,2,0,0,2,2,3,3,3,2,3,Envisioneer Cross-Platform Deliverables,Roblox,Unavailable,2025-06-09
+EMP0592,Joseph Johnson,Tester,Game Testing,Senior,1,3,1,3,3,2,1,0,2,3,2,1,3,3,3,2,2,Syndicate Next-Generation Relationships,Roblox,Unavailable,2025-08-16
+EMP0593,Gina Zimmerman,Designer,BIM,Mid,17,2,1,2,0,3,3,3,1,3,2,3,1,2,3,2,2,Incubate World-Class Roi,Siemens,Unavailable,2025-08-11
+EMP0594,Bruce Hodge,Tester,CAD,Senior,18,3,1,0,3,3,3,3,3,2,3,2,2,1,1,3,1,Aggregate B2B Experiences,Siemens,Partially Available,2025-07-22
+EMP0595,Joanna Reyes DDS,Developer,Game Testing,Senior,11,3,3,3,3,3,3,1,0,1,0,1,1,3,1,3,1,Synthesize Frictionless Portals,Autodesk,Unavailable,2025-06-04
+EMP0596,Charles Lawson,Tester,CAD,Mid,1,0,2,3,3,3,3,2,0,1,2,1,2,3,3,3,3,Iterate Dot-Com Technologies,Dassault,Partially Available,2025-06-30
+EMP0597,Kendra Hester,Developer,Game Testing,Junior,2,2,3,2,3,1,0,2,2,3,3,3,2,3,0,1,3,Target End-To-End Interfaces,Siemens,Partially Available,2025-06-27
+EMP0598,Christian Jenkins,Tester,Game Testing,Mid,3,3,2,3,3,3,3,1,3,2,1,3,1,2,3,1,2,Mesh 24/7 Roi,Roblox,Available,2025-06-07
+EMP0599,Jonathan Gordon,Designer,Game Testing,Junior,9,1,3,2,1,1,3,3,2,3,3,3,3,2,1,2,0,Aggregate Dynamic Methodologies,Epic Games,Unavailable,2025-07-14
+EMP0600,Seth Dean,Tester,Game Testing,Senior,19,3,3,3,3,3,2,1,3,2,2,2,2,3,3,3,3,Innovate Extensible Supply-Chains,Dassault,Unavailable,2025-06-03
+EMP0601,Kevin Berger,Designer,CAD,Senior,17,0,3,3,1,2,3,3,3,3,0,1,3,1,3,2,2,Aggregate Next-Generation E-Markets,Autodesk,Unavailable,2025-08-01
+EMP0602,Jerry Hernandez,Developer,CAD,Mid,3,1,3,2,1,2,2,3,3,3,1,2,2,1,2,2,2,Whiteboard Granular Relationships,Roblox,Partially Available,2025-07-25
+EMP0603,Vincent Vasquez,Designer,CAD,Junior,9,3,3,1,3,3,3,3,2,2,0,2,1,3,1,3,2,Reinvent Dynamic Eyeballs,Autodesk,Unavailable,2025-07-26
+EMP0604,Joseph Tucker,Developer,CAD,Mid,14,1,0,3,2,3,2,3,2,3,0,3,2,3,1,2,1,Brand One-To-One Channels,Siemens,Unavailable,2025-07-11
+EMP0605,William Hayden,Developer,BIM,Senior,8,3,3,3,2,3,2,2,2,3,2,3,1,3,2,2,3,Maximize Viral Systems,Autodesk,Unavailable,2025-06-25
+EMP0606,Kristen Roberts,Developer,BIM,Senior,8,1,2,3,1,2,3,3,3,3,3,3,3,2,2,3,1,Cultivate Dynamic E-Tailers,Siemens,Partially Available,2025-06-17
+EMP0607,Amanda Marshall,Developer,Game Testing,Junior,7,1,1,1,3,2,2,1,1,0,3,0,1,3,2,0,3,Morph Seamless Roi,Epic Games,Available,2025-06-02
+EMP0608,Hannah Gray,Developer,Game Testing,Junior,9,1,0,3,3,3,3,3,2,3,1,2,2,0,1,3,2,Architect Intuitive E-Markets,Siemens,Available,2025-08-12
+EMP0609,Andrea Phelps,Tester,BIM,Junior,5,2,3,3,1,0,3,3,1,3,1,3,2,2,2,1,2,Disintermediate Dot-Com Mindshare,Siemens,Available,2025-06-12
+EMP0610,Teresa Carrillo,Developer,BIM,Mid,4,0,3,3,3,3,3,3,2,1,3,3,0,1,3,1,3,Harness B2C Eyeballs,Dassault,Partially Available,2025-08-12
+EMP0611,Mr. Alex Owens,Developer,Game Testing,Mid,14,2,3,2,3,2,3,2,2,3,0,2,3,3,1,3,3,Incubate User-Centric Communities,Epic Games,Available,2025-07-28
+EMP0612,Paul Walter,Designer,CAD,Senior,19,3,2,3,3,2,3,1,2,0,2,1,1,2,3,2,3,Grow Robust E-Services,Epic Games,Partially Available,2025-06-07
+EMP0613,Natasha Sims,Developer,BIM,Junior,15,0,2,0,1,1,3,2,3,3,3,1,2,1,2,2,2,Aggregate Global Relationships,Epic Games,Partially Available,2025-06-24
+EMP0614,Chad Carpenter,Tester,Game Testing,Junior,8,1,1,0,1,3,3,3,1,2,3,3,2,3,2,2,2,Strategize Compelling Initiatives,Epic Games,Partially Available,2025-07-31
+EMP0615,Nathan Parker,Developer,BIM,Mid,14,0,3,3,3,2,1,1,3,3,2,3,3,3,2,3,3,Leverage Viral Initiatives,Epic Games,Partially Available,2025-07-09
+EMP0616,Courtney Rios,Designer,BIM,Senior,8,3,0,1,2,3,3,1,3,0,3,1,1,2,1,2,2,Transform Frictionless Users,Autodesk,Partially Available,2025-07-03
+EMP0617,Christopher Rodriguez,Developer,CAD,Mid,10,3,1,2,3,0,3,0,3,3,1,3,2,3,2,3,1,Optimize Killer Networks,Siemens,Available,2025-05-31
+EMP0618,Carol Orozco,Designer,Game Testing,Junior,8,3,2,3,3,3,0,1,2,1,3,1,0,2,1,2,2,Empower Open-Source Synergies,Dassault,Partially Available,2025-06-14
+EMP0619,Amanda Johnson,Designer,CAD,Mid,16,0,1,3,1,1,3,2,2,3,2,3,3,1,1,1,3,Synthesize Cutting-Edge E-Services,Autodesk,Available,2025-07-07
+EMP0620,Brian Mccann,Designer,CAD,Senior,5,1,3,2,2,3,0,1,3,2,3,3,1,3,3,2,2,Synergize 24/365 E-Services,Siemens,Unavailable,2025-06-23
+EMP0621,Edwin Lucero,Designer,CAD,Junior,1,0,3,3,3,2,2,1,2,2,3,3,1,0,3,2,1,Strategize 24/7 Supply-Chains,Roblox,Unavailable,2025-08-17
+EMP0622,Kimberly Gates,Developer,Game Testing,Senior,17,0,3,2,1,1,3,3,1,1,2,2,1,1,3,2,1,Cultivate Strategic Users,Roblox,Available,2025-08-22
+EMP0623,Mr. Jason Yates,Developer,Game Testing,Mid,9,0,3,2,3,2,3,3,3,3,3,3,1,3,1,1,2,Mesh Granular Users,Roblox,Unavailable,2025-06-01
+EMP0624,Jesse Gould,Tester,CAD,Mid,6,3,2,3,2,3,3,1,2,3,1,3,2,1,0,0,3,Deliver Holistic E-Business,Dassault,Unavailable,2025-06-19
+EMP0625,Trevor Stanley,Developer,CAD,Senior,4,2,3,2,3,2,1,1,3,0,2,3,3,3,2,2,2,Architect Out-Of-The-Box Mindshare,Epic Games,Partially Available,2025-07-13
+EMP0626,Diana Moore,Designer,Game Testing,Senior,11,3,2,3,1,0,1,2,3,1,3,3,3,0,1,3,3,Enhance Frictionless Communities,Roblox,Unavailable,2025-06-08
+EMP0627,Jeffrey Velez,Developer,Game Testing,Junior,16,2,1,1,3,3,3,1,2,3,0,3,2,3,0,1,2,Engineer Bleeding-Edge E-Services,Autodesk,Unavailable,2025-07-30
+EMP0628,Theresa Simon,Designer,CAD,Mid,11,2,3,0,3,0,0,1,2,3,3,3,3,2,3,0,0,Exploit World-Class Platforms,Roblox,Unavailable,2025-07-12
+EMP0629,Michael Crawford,Designer,BIM,Junior,4,3,2,3,2,3,1,3,2,3,3,3,3,2,3,3,1,Drive Wireless Deliverables,Dassault,Partially Available,2025-07-18
+EMP0630,Dr. Cristian Brown,Developer,Game Testing,Mid,17,2,1,0,0,3,3,1,1,3,3,3,2,2,3,1,1,Deliver Front-End Networks,Autodesk,Unavailable,2025-06-29
+EMP0631,Christopher Lowery,Developer,Game Testing,Junior,5,3,2,3,3,3,3,1,3,3,3,2,2,3,2,3,2,Benchmark One-To-One Roi,Siemens,Partially Available,2025-07-11
+EMP0632,Alyssa Schultz,Developer,BIM,Senior,4,3,1,2,3,3,2,3,3,0,2,2,3,1,2,3,2,Maximize Extensible Convergence,Roblox,Available,2025-08-15
+EMP0633,John Nichols,Designer,BIM,Junior,16,2,2,2,3,2,3,3,0,3,0,1,1,0,3,2,2,Re-Intermediate Granular Experiences,Roblox,Unavailable,2025-08-11
+EMP0634,Joseph Lewis,Developer,Game Testing,Junior,5,1,3,1,2,3,3,2,3,2,2,2,3,2,2,3,0,Architect Real-Time Eyeballs,Epic Games,Partially Available,2025-07-01
+EMP0635,Jacob Santiago,Tester,Game Testing,Junior,12,3,3,1,3,2,2,2,2,3,1,3,0,2,2,1,2,Morph Bricks-And-Clicks Functionalities,Dassault,Available,2025-07-21
+EMP0636,Meagan Taylor,Designer,CAD,Mid,19,3,2,2,3,0,3,3,1,2,2,3,3,2,2,3,2,Unleash Open-Source E-Tailers,Siemens,Partially Available,2025-06-08
+EMP0637,Antonio Gonzalez,Designer,Game Testing,Junior,17,3,3,3,3,1,2,2,2,0,3,3,3,3,3,3,1,Productize Bleeding-Edge Web Services,Dassault,Unavailable,2025-06-27
+EMP0638,Rita Brown,Designer,Game Testing,Senior,10,1,3,1,2,3,1,3,2,1,2,3,2,3,3,1,1,Syndicate Bricks-And-Clicks Methodologies,Roblox,Unavailable,2025-08-20
+EMP0639,Edward Morgan,Developer,Game Testing,Junior,8,3,2,0,2,1,2,3,1,1,2,2,0,2,2,3,3,Incentivize Global Supply-Chains,Autodesk,Partially Available,2025-06-23
+EMP0640,Savannah Lee,Designer,CAD,Mid,14,2,2,2,3,3,3,2,2,3,2,2,3,2,3,1,3,Streamline Cross-Media Channels,Roblox,Available,2025-08-15
+EMP0641,Natalie Ray,Designer,BIM,Junior,3,3,2,0,2,2,3,0,2,1,3,3,2,2,1,0,1,Utilize Synergistic Partnerships,Siemens,Unavailable,2025-06-19
+EMP0642,Veronica Russell,Designer,Game Testing,Senior,10,1,1,2,2,0,0,2,2,3,2,3,3,3,2,0,3,Optimize Mission-Critical Users,Epic Games,Partially Available,2025-05-30
+EMP0643,Kristina Holmes,Designer,CAD,Mid,15,2,2,1,1,1,2,3,1,0,2,2,0,2,3,3,3,Leverage Cross-Media Platforms,Dassault,Unavailable,2025-06-18
+EMP0644,Hannah Campos,Developer,CAD,Senior,1,3,1,3,2,2,2,0,3,3,0,1,1,2,3,2,3,Seize E-Business Infrastructures,Autodesk,Unavailable,2025-08-03
+EMP0645,Cristian Martinez,Tester,CAD,Junior,6,2,3,3,0,2,2,1,3,1,0,1,3,1,2,2,0,Architect Killer E-Commerce,Dassault,Partially Available,2025-06-16
+EMP0646,Alicia Johnson,Designer,CAD,Mid,15,3,3,3,2,1,3,0,3,2,3,2,3,1,3,2,3,Redefine Proactive E-Services,Epic Games,Available,2025-07-22
+EMP0647,Sean Jones MD,Tester,BIM,Junior,15,2,3,0,2,2,2,1,3,1,3,1,0,3,2,0,2,Leverage Distributed Convergence,Epic Games,Partially Available,2025-08-19
+EMP0648,Miguel Kaiser,Developer,CAD,Senior,15,1,3,2,3,0,0,3,3,3,0,2,2,0,3,1,3,Scale Real-Time Systems,Autodesk,Partially Available,2025-07-03
+EMP0649,April Clayton,Designer,BIM,Mid,17,2,3,2,3,2,0,1,0,0,2,3,3,2,2,3,3,Innovate User-Centric Vortals,Roblox,Unavailable,2025-06-01
+EMP0650,Laura Padilla,Designer,Game Testing,Mid,17,3,2,0,2,3,3,2,3,1,3,0,2,3,2,3,1,Repurpose Efficient Bandwidth,Epic Games,Unavailable,2025-08-04
+EMP0651,Brandon Gibbs,Developer,Game Testing,Mid,1,0,3,3,2,2,3,3,3,3,2,1,2,2,1,1,2,Productize Web-Enabled Niches,Roblox,Unavailable,2025-06-26
+EMP0652,Meredith Gray,Developer,Game Testing,Mid,4,0,3,1,2,0,0,1,3,3,3,2,3,1,2,2,2,Cultivate Cross-Platform Schemas,Epic Games,Unavailable,2025-06-30
+EMP0653,Richard Hinton,Tester,BIM,Junior,9,3,2,2,0,1,3,1,0,0,2,0,0,3,2,2,0,Incubate Turn-Key Supply-Chains,Dassault,Unavailable,2025-08-01
+EMP0654,Stacy Brock,Designer,Game Testing,Junior,13,3,3,3,3,3,3,3,1,3,3,0,3,3,3,2,1,Leverage Cross-Media Relationships,Siemens,Unavailable,2025-07-30
+EMP0655,Anna Cruz DDS,Developer,BIM,Junior,13,3,2,1,0,0,1,0,3,0,1,2,3,1,3,2,2,Evolve Seamless Functionalities,Autodesk,Available,2025-06-11
+EMP0656,Ashley Anderson,Developer,BIM,Senior,4,2,3,2,0,3,2,3,0,3,1,1,1,3,3,3,2,Engage Enterprise Web Services,Roblox,Available,2025-06-11
+EMP0657,James Butler,Tester,CAD,Junior,12,1,2,2,2,0,3,1,2,3,3,2,3,2,0,1,3,Repurpose Global Functionalities,Siemens,Partially Available,2025-08-07
+EMP0658,Reginald Garza DDS,Designer,Game Testing,Mid,4,2,1,3,1,2,2,3,2,2,3,2,0,3,3,3,3,Empower Collaborative Paradigms,Dassault,Partially Available,2025-07-25
+EMP0659,Wayne Collins,Designer,Game Testing,Junior,18,1,3,2,3,2,2,2,1,0,3,1,2,3,3,1,3,Syndicate Wireless Web Services,Dassault,Unavailable,2025-05-31
+EMP0660,Kevin Gutierrez,Tester,Game Testing,Mid,6,3,3,2,3,0,2,3,3,3,3,3,3,3,3,2,2,Streamline Visionary Synergies,Roblox,Unavailable,2025-07-30
+EMP0661,Henry Campbell,Designer,CAD,Mid,11,2,2,2,1,2,3,1,3,3,3,3,3,2,1,2,1,Leverage Enterprise Web Services,Siemens,Available,2025-06-14
+EMP0662,Brandon Green,Tester,BIM,Senior,19,2,3,3,3,2,1,3,1,1,2,3,0,1,1,3,2,Iterate Collaborative Systems,Dassault,Unavailable,2025-07-09
+EMP0663,Danielle Parker,Designer,CAD,Senior,4,3,3,1,3,1,1,1,3,3,2,1,1,3,3,3,2,Engineer 24/7 E-Business,Dassault,Partially Available,2025-08-10
+EMP0664,Jennifer Hill,Developer,Game Testing,Mid,17,1,1,1,3,2,3,3,3,2,0,3,3,3,3,2,1,Repurpose Seamless Systems,Epic Games,Available,2025-05-27
+EMP0665,Barbara Williams,Designer,BIM,Junior,11,1,0,2,3,1,1,1,3,0,3,2,1,3,3,3,3,Incentivize Efficient Functionalities,Epic Games,Unavailable,2025-07-04
+EMP0666,Lindsey Miller,Developer,BIM,Senior,15,3,2,0,1,3,2,3,0,2,2,1,2,3,1,2,2,Brand Dynamic Methodologies,Epic Games,Partially Available,2025-07-12
+EMP0667,Sandra Strickland,Tester,CAD,Junior,4,0,3,3,2,0,1,3,0,2,1,0,2,3,0,3,2,Scale Web-Enabled E-Tailers,Siemens,Available,2025-07-12
+EMP0668,Nicole Sawyer,Developer,Game Testing,Mid,3,3,3,3,2,3,0,3,0,3,3,2,3,1,1,3,1,Utilize Proactive Experiences,Roblox,Available,2025-07-05
+EMP0669,Natalie Gibson,Tester,BIM,Senior,16,3,2,3,0,3,2,2,0,2,3,1,3,0,2,3,1,Drive Dot-Com Vortals,Autodesk,Available,2025-06-14
+EMP0670,Mr. George Santos DDS,Tester,BIM,Mid,18,3,3,3,1,2,2,2,1,3,1,3,2,0,3,3,3,Generate Wireless Supply-Chains,Dassault,Available,2025-07-09
+EMP0671,Justin Mendoza,Tester,Game Testing,Mid,19,3,3,3,3,3,0,0,3,3,0,2,1,3,3,3,2,Scale Distributed Synergies,Roblox,Unavailable,2025-08-05
+EMP0672,Roy Rivera,Tester,Game Testing,Mid,4,2,2,1,3,1,0,2,3,0,3,3,1,3,2,2,2,Seize Visionary Schemas,Dassault,Partially Available,2025-07-07
+EMP0673,Sarah Martinez,Tester,Game Testing,Senior,13,2,3,3,1,0,3,3,1,3,2,0,2,3,3,0,3,Incentivize Viral Relationships,Epic Games,Available,2025-05-26
+EMP0674,Janice Hamilton,Designer,CAD,Mid,8,3,2,3,2,3,3,3,2,2,2,3,2,3,3,1,3,Generate Bleeding-Edge Vortals,Siemens,Available,2025-08-11
+EMP0675,Henry Miller,Developer,Game Testing,Junior,1,3,1,3,1,2,3,3,3,2,1,2,2,3,2,2,2,Maximize Synergistic Web Services,Dassault,Unavailable,2025-06-15
+EMP0676,John Johnson,Tester,BIM,Senior,20,3,1,3,0,3,2,0,2,3,1,0,0,2,2,2,2,Envisioneer Cross-Media E-Commerce,Dassault,Available,2025-06-08
+EMP0677,Thomas Short,Developer,Game Testing,Senior,4,0,1,0,2,3,3,3,1,3,3,2,0,3,3,2,0,Transition Strategic Eyeballs,Siemens,Available,2025-06-25
+EMP0678,Debra Meadows MD,Developer,CAD,Senior,2,1,2,1,2,2,1,1,0,1,1,2,2,3,3,2,3,Envisioneer Seamless Content,Epic Games,Unavailable,2025-06-20
+EMP0679,Carlos Brown,Tester,CAD,Mid,18,2,3,3,2,3,3,3,2,1,3,3,2,1,3,1,0,Maximize Innovative E-Business,Roblox,Available,2025-08-16
+EMP0680,Rebecca Cooper,Developer,Game Testing,Senior,8,3,0,1,3,3,1,3,3,3,1,2,0,2,3,3,2,Whiteboard Seamless Info-Mediaries,Autodesk,Unavailable,2025-08-16
+EMP0681,Shane Lawrence,Tester,Game Testing,Junior,16,2,0,2,2,3,3,3,3,1,2,3,3,3,2,3,2,Synergize Granular Web Services,Roblox,Unavailable,2025-08-17
+EMP0682,Blake Reed,Tester,Game Testing,Junior,16,3,1,2,2,2,1,3,2,2,0,1,2,2,2,3,3,Re-Contextualize Synergistic Paradigms,Autodesk,Available,2025-06-28
+EMP0683,Nathan Hall,Tester,CAD,Mid,10,2,3,2,3,3,2,2,3,2,1,2,3,2,2,2,2,Mesh Out-Of-The-Box Methodologies,Autodesk,Available,2025-07-14
+EMP0684,Brittany Brown,Developer,Game Testing,Senior,14,1,3,3,2,3,3,3,3,3,3,3,2,1,2,2,3,Matrix Next-Generation Solutions,Dassault,Unavailable,2025-07-10
+EMP0685,Rachael Gibson,Tester,BIM,Junior,3,1,2,1,0,2,3,3,2,2,2,2,1,3,3,1,2,Reinvent Innovative E-Business,Autodesk,Partially Available,2025-08-04
+EMP0686,Taylor Christensen,Tester,CAD,Junior,17,2,3,3,0,2,2,3,3,1,1,1,3,3,2,2,3,Integrate Sticky Web-Readiness,Epic Games,Available,2025-08-03
+EMP0687,Holly Gardner,Tester,BIM,Junior,13,3,3,2,3,3,1,3,2,3,0,0,3,1,2,1,0,Monetize Seamless Infrastructures,Dassault,Partially Available,2025-08-05
+EMP0688,Brandi Peterson,Developer,Game Testing,Senior,4,3,0,3,1,2,0,3,2,3,2,2,3,1,0,3,3,Visualize Innovative Systems,Dassault,Partially Available,2025-08-19
+EMP0689,Tina Jones,Designer,CAD,Senior,5,1,2,1,1,0,1,0,1,2,3,3,1,3,2,3,3,Synthesize Frictionless Content,Epic Games,Partially Available,2025-07-08
+EMP0690,Jasmine Meyer,Developer,CAD,Mid,4,2,1,1,3,2,2,3,3,3,3,2,2,1,3,1,3,Incentivize Global Mindshare,Autodesk,Unavailable,2025-06-13
+EMP0691,Christopher Coleman,Designer,CAD,Senior,3,1,2,3,2,0,0,3,3,3,3,1,2,3,2,3,3,Streamline Scalable Roi,Siemens,Unavailable,2025-06-08
+EMP0692,Collin Davis,Developer,CAD,Senior,7,3,3,3,2,3,3,3,0,3,3,3,3,2,3,3,1,Empower Vertical Info-Mediaries,Autodesk,Unavailable,2025-07-09
+EMP0693,Mrs. Kim Gonzalez,Designer,BIM,Senior,12,0,1,2,3,1,0,2,2,2,3,0,1,3,0,1,3,Envisioneer User-Centric Channels,Siemens,Unavailable,2025-07-28
+EMP0694,Troy Lyons,Designer,CAD,Mid,20,2,1,1,3,3,3,1,2,2,1,2,2,0,2,0,3,Incentivize Sticky Metrics,Autodesk,Available,2025-07-15
+EMP0695,Lisa Phillips,Tester,CAD,Junior,10,0,3,2,3,3,2,1,1,2,3,3,3,3,3,2,3,Cultivate Ubiquitous Roi,Roblox,Partially Available,2025-07-25
+EMP0696,Kylie Gilbert,Tester,CAD,Mid,11,2,3,3,3,3,3,3,2,3,0,3,3,1,2,0,2,Incubate Strategic Systems,Autodesk,Unavailable,2025-07-10
+EMP0697,Jesse Mullins Jr.,Tester,Game Testing,Senior,14,1,1,2,1,3,1,3,3,2,3,3,2,3,2,2,1,Expedite B2B Interfaces,Epic Games,Partially Available,2025-08-06
+EMP0698,Ronald Collins,Developer,Game Testing,Junior,5,3,2,3,2,0,1,2,2,0,3,2,2,2,3,1,0,Revolutionize Distributed Mindshare,Dassault,Partially Available,2025-06-07
+EMP0699,Melissa Webb,Designer,CAD,Mid,10,3,1,2,2,3,2,3,3,0,2,1,1,1,1,1,3,Enhance Collaborative Interfaces,Dassault,Partially Available,2025-07-26
+EMP0700,Brad Rose,Developer,BIM,Senior,17,1,1,3,1,2,2,3,3,2,3,2,3,1,2,0,2,Enable Integrated Web-Readiness,Siemens,Unavailable,2025-08-13
+EMP0701,Laura Brown,Developer,BIM,Junior,11,3,3,3,3,1,3,0,1,3,1,1,3,2,2,3,1,Incentivize Cross-Platform Networks,Autodesk,Unavailable,2025-06-18
+EMP0702,Patricia Wilson,Tester,BIM,Junior,2,3,2,3,3,1,0,2,2,2,2,2,3,2,3,3,3,Engineer Wireless Networks,Epic Games,Unavailable,2025-06-26
+EMP0703,Mark Bush,Developer,Game Testing,Mid,7,1,2,0,2,3,1,1,3,0,3,3,2,2,2,1,3,Implement Web-Enabled Eyeballs,Autodesk,Available,2025-08-14
+EMP0704,Jessica Patrick,Tester,CAD,Senior,11,1,2,1,2,2,0,3,2,2,1,1,1,2,3,1,2,Whiteboard B2B Systems,Siemens,Unavailable,2025-08-02
+EMP0705,Heather Reyes,Tester,CAD,Senior,10,2,1,1,3,1,2,3,1,3,3,2,1,3,3,3,3,E-Enable Intuitive Web-Readiness,Dassault,Available,2025-07-14
+EMP0706,Tracy Willis,Developer,Game Testing,Mid,6,1,1,3,1,1,1,2,1,2,2,3,2,3,3,3,3,Generate Efficient Experiences,Roblox,Unavailable,2025-08-14
+EMP0707,James Sampson,Developer,CAD,Senior,3,0,1,0,2,3,0,1,1,3,1,2,0,3,2,3,2,E-Enable Global E-Tailers,Autodesk,Unavailable,2025-08-19
+EMP0708,Rhonda Riley,Developer,CAD,Senior,15,3,3,2,2,1,1,3,1,2,2,1,2,3,1,1,2,Facilitate Virtual Synergies,Dassault,Unavailable,2025-06-03
+EMP0709,Lydia Johnston,Tester,Game Testing,Junior,3,2,0,0,2,2,2,1,3,2,3,3,2,1,2,1,1,Engineer Transparent Systems,Siemens,Partially Available,2025-06-05
+EMP0710,Danielle Williams,Tester,CAD,Senior,4,3,3,1,0,3,3,2,3,3,3,1,2,3,0,3,2,Whiteboard Out-Of-The-Box Web-Readiness,Autodesk,Partially Available,2025-07-04
+EMP0711,Briana Ramsey,Tester,Game Testing,Senior,11,0,0,3,3,2,0,3,2,3,3,2,3,3,2,3,2,Facilitate Real-Time Communities,Autodesk,Partially Available,2025-08-14
+EMP0712,Peter Coleman,Developer,CAD,Mid,14,3,3,3,3,3,1,3,2,3,1,3,3,3,2,3,3,Morph B2B Roi,Epic Games,Unavailable,2025-08-14
+EMP0713,Donald Stevenson,Tester,BIM,Mid,14,2,2,3,3,2,3,2,2,2,3,3,3,3,3,3,2,Enhance 24/7 Mindshare,Dassault,Unavailable,2025-06-27
+EMP0714,Molly Adams,Tester,Game Testing,Mid,19,1,3,3,3,3,0,3,3,0,2,3,2,2,3,1,3,Iterate Cross-Platform Portals,Roblox,Unavailable,2025-07-16
+EMP0715,Emily Sparks,Developer,Game Testing,Senior,19,3,3,1,3,2,1,0,0,2,1,3,1,0,2,3,3,Leverage Scalable Initiatives,Roblox,Available,2025-06-09
+EMP0716,Pamela Brooks,Designer,CAD,Senior,4,1,3,1,2,2,2,3,3,1,2,2,3,1,1,1,2,Re-Contextualize Mission-Critical Bandwidth,Epic Games,Available,2025-08-08
+EMP0717,Michelle Johnson,Tester,BIM,Mid,10,2,1,1,3,2,3,3,3,2,3,2,3,3,3,0,1,Extend End-To-End Info-Mediaries,Roblox,Partially Available,2025-08-20
+EMP0718,Kristen Rubio,Developer,Game Testing,Junior,11,3,2,1,1,2,3,3,2,1,2,1,3,3,0,1,3,Synthesize Killer Systems,Roblox,Available,2025-06-07
+EMP0719,Deborah Watson,Designer,CAD,Mid,7,3,3,1,2,2,3,2,2,1,3,3,1,1,2,1,3,Optimize Cutting-Edge Niches,Siemens,Available,2025-05-28
+EMP0720,Taylor Bentley,Tester,BIM,Junior,8,2,2,2,1,3,3,2,1,1,2,1,2,2,1,0,2,Incentivize E-Business Initiatives,Dassault,Partially Available,2025-07-11
+EMP0721,Shawn Cunningham,Designer,BIM,Senior,17,3,3,3,3,2,3,2,1,2,2,1,3,3,2,2,2,Redefine 24/7 E-Tailers,Epic Games,Available,2025-05-30
+EMP0722,Evan James,Tester,CAD,Mid,15,3,2,3,3,3,3,0,1,1,1,3,2,3,1,2,1,Productize Real-Time Deliverables,Roblox,Partially Available,2025-05-31
+EMP0723,Melissa Evans,Developer,Game Testing,Mid,13,2,3,1,2,2,2,2,1,2,3,3,1,1,2,3,3,Maximize Visionary Action-Items,Siemens,Available,2025-08-12
+EMP0724,Ernest Shah,Developer,Game Testing,Senior,13,1,0,2,3,0,3,3,2,2,3,3,1,0,2,3,3,Synthesize Value-Added E-Business,Dassault,Partially Available,2025-08-17
+EMP0725,Jeffrey Adams,Developer,CAD,Senior,7,0,3,2,2,1,3,2,3,2,2,0,0,1,1,3,2,Repurpose Scalable Info-Mediaries,Epic Games,Available,2025-06-25
+EMP0726,Allen Simon,Designer,Game Testing,Senior,12,3,1,1,3,3,1,2,0,0,0,2,3,3,2,3,2,Exploit Cross-Media Content,Epic Games,Partially Available,2025-08-17
+EMP0727,Rodney Ferguson,Developer,CAD,Senior,9,3,3,2,3,3,0,1,3,3,3,2,3,1,2,3,1,Cultivate Magnetic Web-Readiness,Roblox,Unavailable,2025-07-28
+EMP0728,Tina Curtis,Tester,Game Testing,Mid,16,2,0,2,2,2,2,0,3,3,1,1,1,2,3,3,3,Implement E-Business Systems,Epic Games,Unavailable,2025-06-02
+EMP0729,Matthew Lopez II,Tester,CAD,Junior,6,3,2,0,2,3,3,3,0,3,2,3,1,2,3,2,3,Maximize User-Centric Metrics,Siemens,Available,2025-05-27
+EMP0730,Luis Cole,Tester,CAD,Mid,3,3,1,1,3,2,3,1,3,2,3,3,1,3,3,0,3,Implement B2C Metrics,Siemens,Partially Available,2025-07-03
+EMP0731,Debbie Miller,Developer,CAD,Senior,10,0,2,3,2,3,2,3,1,3,3,3,0,3,2,3,3,Deliver Front-End Networks,Dassault,Available,2025-07-15
+EMP0732,Stephen Holloway,Tester,CAD,Junior,20,3,2,3,1,2,3,1,0,3,1,2,3,1,1,3,2,Empower Cutting-Edge Relationships,Dassault,Unavailable,2025-06-05
+EMP0733,Samantha Dean,Tester,BIM,Junior,12,2,3,2,3,2,1,3,2,2,0,2,1,2,1,1,2,Enhance Ubiquitous Infrastructures,Siemens,Unavailable,2025-08-05
+EMP0734,Rachel Bryant,Tester,BIM,Junior,3,3,1,1,3,1,1,2,2,1,0,3,3,3,1,3,1,Deliver Cutting-Edge E-Commerce,Epic Games,Partially Available,2025-06-23
+EMP0735,Karen Campos,Tester,BIM,Senior,7,3,2,2,2,3,1,2,2,1,2,1,2,1,2,2,3,Grow Innovative Eyeballs,Epic Games,Partially Available,2025-07-22
+EMP0736,Tiffany Thomas,Developer,BIM,Junior,14,1,3,2,1,3,3,1,0,1,2,2,2,1,2,3,3,Exploit Best-Of-Breed Partnerships,Siemens,Unavailable,2025-07-07
+EMP0737,Evelyn Rivera,Tester,BIM,Mid,15,3,3,3,1,2,3,3,2,1,1,2,1,3,3,1,1,Cultivate Value-Added Technologies,Epic Games,Partially Available,2025-08-12
+EMP0738,Jonathon Dyer,Developer,CAD,Junior,2,0,1,1,3,2,1,3,3,2,2,0,3,3,3,3,2,Deliver Magnetic Partnerships,Autodesk,Available,2025-06-30
+EMP0739,Trevor Walter,Designer,Game Testing,Mid,7,2,2,3,1,3,0,3,3,3,3,3,0,2,2,1,2,Expedite Seamless Info-Mediaries,Roblox,Unavailable,2025-07-19
+EMP0740,Stephen Fields,Tester,Game Testing,Senior,3,3,3,1,2,0,0,0,3,3,3,1,1,2,3,3,3,Orchestrate Vertical Partnerships,Dassault,Partially Available,2025-06-26
+EMP0741,James Johnson,Tester,CAD,Junior,10,2,3,0,3,2,3,2,1,3,2,3,3,1,2,1,3,Brand Viral Applications,Epic Games,Unavailable,2025-07-08
+EMP0742,Timothy Lopez,Developer,CAD,Mid,5,0,2,2,1,2,3,3,3,0,1,2,3,3,3,3,3,Harness Efficient Niches,Dassault,Partially Available,2025-08-18
+EMP0743,Heather Johnson,Tester,Game Testing,Senior,1,1,0,3,0,3,2,2,3,3,3,3,2,1,2,3,3,Utilize Mission-Critical Eyeballs,Autodesk,Unavailable,2025-06-05
+EMP0744,Dennis Gonzalez,Tester,Game Testing,Junior,7,0,0,2,3,2,3,2,2,2,3,3,3,1,2,2,1,Syndicate 24/7 Vortals,Roblox,Unavailable,2025-05-27
+EMP0745,Johnny Haynes,Designer,BIM,Mid,19,2,3,2,3,2,1,1,3,2,2,3,2,1,1,3,3,Strategize Dynamic Convergence,Dassault,Available,2025-07-21
+EMP0746,Amanda Romero,Designer,Game Testing,Junior,19,3,1,2,1,2,3,2,0,3,2,3,2,1,3,1,2,Monetize Scalable Convergence,Autodesk,Partially Available,2025-05-28
+EMP0747,Timothy Jones,Tester,BIM,Senior,3,2,2,2,1,3,1,3,1,3,3,1,3,3,3,1,2,Implement One-To-One Experiences,Autodesk,Available,2025-06-18
+EMP0748,Regina Garcia,Designer,Game Testing,Mid,4,3,2,0,1,3,1,0,1,3,2,2,2,2,2,3,1,Grow Viral Supply-Chains,Roblox,Unavailable,2025-05-26
+EMP0749,Emily Soto,Designer,BIM,Senior,5,1,3,3,3,1,2,2,3,3,2,2,3,2,0,2,1,Drive Collaborative Convergence,Epic Games,Partially Available,2025-08-16
+EMP0750,Christopher Taylor,Designer,CAD,Mid,10,1,2,3,3,3,3,2,1,2,1,3,3,2,3,2,2,Matrix Best-Of-Breed Solutions,Autodesk,Available,2025-07-17
+EMP0751,Linda Goodwin,Designer,BIM,Senior,20,3,2,3,2,0,1,0,1,3,2,1,3,2,3,3,3,Enable Next-Generation Interfaces,Dassault,Available,2025-07-04
+EMP0752,Jessica Wells,Developer,Game Testing,Mid,13,2,1,1,0,2,3,3,2,3,3,1,2,0,3,3,0,Grow Cross-Media Applications,Autodesk,Unavailable,2025-07-13
+EMP0753,Kyle Herrera,Developer,Game Testing,Mid,5,2,3,3,3,1,2,0,1,3,3,3,2,2,3,3,2,Redefine 24/7 Initiatives,Roblox,Unavailable,2025-06-03
+EMP0754,Kevin Cain,Designer,Game Testing,Senior,16,0,2,1,1,3,0,1,2,3,3,0,1,1,3,2,0,Transition Clicks-And-Mortar Niches,Siemens,Available,2025-07-31
+EMP0755,Nancy Jordan,Designer,CAD,Junior,11,0,2,3,2,3,2,0,3,2,2,2,3,2,1,3,3,Maximize Sticky Initiatives,Epic Games,Partially Available,2025-08-15
+EMP0756,Paul Fuentes,Designer,CAD,Junior,5,3,0,1,0,2,2,1,3,1,1,3,1,3,3,2,2,Target Customized Platforms,Siemens,Unavailable,2025-07-10
+EMP0757,Amanda Stewart,Developer,Game Testing,Senior,19,2,3,2,1,1,1,2,3,1,3,2,0,3,3,3,3,Exploit Seamless Markets,Epic Games,Partially Available,2025-08-08
+EMP0758,Stephanie Adams,Designer,BIM,Senior,5,3,1,2,2,2,3,2,1,3,1,1,1,2,2,2,3,Harness Web-Enabled Models,Dassault,Unavailable,2025-06-28
+EMP0759,William Gill,Tester,CAD,Mid,3,0,2,0,2,2,2,2,3,3,3,3,3,1,0,2,2,Facilitate Back-End Partnerships,Siemens,Available,2025-07-09
+EMP0760,George Woods,Tester,CAD,Junior,10,2,3,2,3,3,3,1,3,1,2,0,1,3,3,3,3,Utilize Sticky Eyeballs,Autodesk,Partially Available,2025-08-14
+EMP0761,Zachary Patterson,Developer,BIM,Senior,12,2,2,3,2,2,1,0,1,2,3,3,3,3,2,2,2,Streamline Cross-Media Models,Dassault,Partially Available,2025-07-24
+EMP0762,Catherine Cook,Tester,Game Testing,Senior,17,3,1,0,3,2,1,1,2,0,2,1,2,0,3,3,1,Optimize Value-Added Convergence,Roblox,Unavailable,2025-06-15
+EMP0763,Omar Walker,Developer,Game Testing,Mid,17,3,2,0,0,3,3,1,1,2,3,0,3,0,3,3,2,Incubate Next-Generation Initiatives,Roblox,Unavailable,2025-08-14
+EMP0764,Jennifer Savage,Designer,Game Testing,Senior,17,2,1,3,3,2,3,1,1,1,3,3,2,3,3,3,2,Brand Value-Added Partnerships,Epic Games,Available,2025-07-15
+EMP0765,William Wilson,Designer,Game Testing,Senior,10,2,3,3,1,3,2,3,1,2,0,1,3,3,3,1,0,Transform Front-End Systems,Roblox,Unavailable,2025-07-12
+EMP0766,Joshua Fox,Developer,BIM,Senior,17,1,2,3,0,1,2,3,3,3,2,3,1,1,3,2,0,Transition Customized Users,Siemens,Unavailable,2025-07-05
+EMP0767,Daniel Myers,Tester,CAD,Mid,16,1,1,2,3,2,0,1,0,2,3,2,0,1,3,2,2,Deliver Customized Schemas,Autodesk,Available,2025-06-19
+EMP0768,Jessica Morales,Tester,CAD,Junior,8,2,2,1,2,2,1,2,3,3,3,0,3,3,2,0,1,Leverage Clicks-And-Mortar Synergies,Roblox,Partially Available,2025-06-22
+EMP0769,Gabrielle Glover,Developer,Game Testing,Senior,2,1,0,3,2,3,1,0,2,3,2,0,0,1,0,0,2,Reinvent Back-End Metrics,Autodesk,Partially Available,2025-06-26
+EMP0770,Matthew Harmon,Tester,Game Testing,Mid,8,3,0,2,2,2,3,1,3,3,3,2,3,2,2,3,2,Morph Frictionless Roi,Epic Games,Unavailable,2025-05-26
+EMP0771,Scott Fletcher,Developer,CAD,Senior,11,3,3,1,2,2,1,2,3,2,3,3,2,1,3,1,1,Incentivize Extensible E-Services,Epic Games,Partially Available,2025-06-21
+EMP0772,Dustin Torres,Designer,CAD,Mid,15,2,1,3,3,3,0,3,3,3,3,1,1,3,3,3,0,Re-Intermediate One-To-One Partnerships,Autodesk,Partially Available,2025-07-20
+EMP0773,Jeremy Pruitt,Developer,BIM,Senior,12,1,3,3,2,3,3,2,3,1,3,3,1,1,3,2,0,Target Intuitive Content,Autodesk,Available,2025-07-28
+EMP0774,Elizabeth Jackson,Developer,Game Testing,Junior,15,2,0,3,1,2,3,2,3,2,2,2,2,2,3,1,3,Facilitate Back-End Web Services,Roblox,Partially Available,2025-07-28
+EMP0775,Dr. Elizabeth Williams,Designer,CAD,Mid,19,3,3,2,3,3,2,1,3,2,2,3,2,2,3,3,2,Target Turn-Key Bandwidth,Dassault,Unavailable,2025-06-04
+EMP0776,Michael Meyer,Developer,Game Testing,Senior,15,2,3,2,3,3,2,3,2,2,1,2,1,3,2,3,2,Optimize Bleeding-Edge Partnerships,Dassault,Partially Available,2025-06-05
+EMP0777,Angela Whitehead,Designer,BIM,Junior,10,1,3,3,0,2,2,2,3,3,1,3,2,3,2,0,3,Optimize Intuitive E-Markets,Roblox,Unavailable,2025-06-18
+EMP0778,Jennifer Bowen DDS,Developer,BIM,Senior,6,3,1,3,3,3,0,3,1,2,2,3,3,2,3,3,3,Re-Contextualize Ubiquitous Paradigms,Autodesk,Unavailable,2025-08-05
+EMP0779,Keith Sawyer,Tester,Game Testing,Senior,1,3,3,2,2,0,1,2,1,2,2,2,3,1,1,3,0,Whiteboard Compelling Initiatives,Epic Games,Available,2025-05-26
+EMP0780,Lisa Boyd,Designer,BIM,Junior,3,0,2,2,3,2,3,2,2,1,3,1,3,2,3,2,3,Innovate Frictionless Solutions,Siemens,Unavailable,2025-06-19
+EMP0781,Jessica Tanner,Designer,CAD,Senior,3,0,2,2,3,2,3,3,2,1,0,1,2,3,2,1,3,Transition E-Business Networks,Dassault,Partially Available,2025-08-16
+EMP0782,Mathew Choi,Designer,CAD,Senior,13,2,2,1,3,3,2,3,2,2,2,2,1,1,2,3,3,Aggregate Virtual Roi,Epic Games,Available,2025-07-05
+EMP0783,Rachael Reed,Developer,BIM,Junior,4,3,3,2,2,2,2,2,1,3,3,3,2,3,3,3,1,E-Enable Cross-Platform Models,Epic Games,Partially Available,2025-06-17
+EMP0784,Jesse Mccoy,Tester,CAD,Mid,11,2,1,1,3,2,3,3,3,2,2,1,3,1,2,2,3,Innovate User-Centric Content,Siemens,Unavailable,2025-08-04
+EMP0785,Jaime Steele,Designer,CAD,Mid,11,2,3,0,2,0,3,3,2,3,3,3,3,3,3,3,3,Mesh Innovative Architectures,Dassault,Partially Available,2025-08-05
+EMP0786,Casey Mcgee,Tester,Game Testing,Senior,14,2,1,3,3,3,0,2,3,2,3,2,2,1,2,1,3,Synthesize User-Centric Web-Readiness,Roblox,Partially Available,2025-06-27
+EMP0787,Kathryn Serrano,Tester,Game Testing,Senior,16,3,2,2,1,3,2,2,1,2,2,2,3,2,0,2,3,Deliver Next-Generation Solutions,Roblox,Available,2025-07-16
+EMP0788,Benjamin Young,Tester,CAD,Mid,5,0,3,3,2,2,3,2,2,3,3,1,1,1,3,2,2,Empower Sticky Mindshare,Epic Games,Available,2025-08-09
+EMP0789,Joshua Price,Designer,Game Testing,Junior,2,1,3,2,2,2,3,3,3,1,0,3,1,0,1,1,1,Synthesize Open-Source Models,Roblox,Available,2025-07-23
+EMP0790,Nicole Conway,Developer,BIM,Senior,16,1,1,2,3,3,2,0,3,3,3,2,3,3,3,2,2,Envisioneer Integrated Technologies,Autodesk,Available,2025-07-21
+EMP0791,Shannon Walls,Developer,BIM,Senior,17,3,3,2,3,2,1,3,0,1,3,1,3,0,3,3,1,Transition Mission-Critical Networks,Epic Games,Available,2025-06-21
+EMP0792,Dr. Gregory Baker,Designer,BIM,Mid,19,3,2,3,2,0,2,3,1,3,2,3,3,2,3,3,2,Cultivate Holistic Mindshare,Dassault,Unavailable,2025-07-23
+EMP0793,Lindsay Adams,Developer,BIM,Mid,8,3,2,3,3,3,1,3,3,3,3,3,1,3,3,2,2,Benchmark 24/365 Interfaces,Dassault,Unavailable,2025-07-29
+EMP0794,Holly Anderson,Tester,BIM,Mid,17,1,3,1,1,2,2,2,3,3,3,3,0,2,1,1,3,Engage Clicks-And-Mortar Paradigms,Dassault,Unavailable,2025-07-04
+EMP0795,Drew Aguilar,Tester,BIM,Mid,1,3,2,2,3,3,1,2,0,3,2,0,2,1,2,2,1,Optimize Magnetic Networks,Epic Games,Unavailable,2025-08-18
+EMP0796,April Galvan,Developer,CAD,Senior,19,2,2,3,3,1,3,3,0,0,3,3,1,3,2,3,1,Harness End-To-End Methodologies,Siemens,Unavailable,2025-06-30
+EMP0797,Connie Wilson,Developer,CAD,Mid,16,3,1,1,2,3,3,1,2,3,2,3,3,1,3,1,2,Unleash Revolutionary Platforms,Siemens,Available,2025-07-22
+EMP0798,David Jones,Tester,BIM,Senior,4,3,3,2,3,3,1,3,2,1,3,3,1,3,3,3,2,Aggregate Innovative Web-Readiness,Roblox,Unavailable,2025-07-14
+EMP0799,Donald Mcneil,Designer,CAD,Mid,5,3,0,3,2,3,3,2,3,2,1,2,3,1,3,2,3,Enable Plug-And-Play E-Business,Dassault,Available,2025-08-21
+EMP0800,Margaret Dickerson,Designer,CAD,Senior,16,3,3,2,2,2,0,2,1,3,2,1,1,2,1,2,2,E-Enable Best-Of-Breed E-Business,Siemens,Partially Available,2025-08-04
+EMP0801,Angela Horton,Tester,Game Testing,Junior,7,0,3,3,2,2,3,3,1,2,2,2,1,3,1,0,1,Drive Customized Mindshare,Dassault,Unavailable,2025-07-25
+EMP0802,Jasmine Carroll,Designer,Game Testing,Senior,13,1,3,2,3,2,2,3,2,3,2,1,3,3,3,1,0,Engage Cutting-Edge Action-Items,Dassault,Unavailable,2025-08-17
+EMP0803,Krista Allen,Designer,CAD,Senior,8,3,1,1,3,3,0,2,3,3,3,3,3,3,3,1,2,Re-Intermediate Cross-Media Partnerships,Roblox,Partially Available,2025-05-28
+EMP0804,Erin Castaneda,Developer,CAD,Junior,12,3,3,1,1,3,3,2,2,1,3,1,0,2,2,0,2,Aggregate World-Class E-Markets,Dassault,Available,2025-06-14
+EMP0805,Whitney Pugh,Designer,Game Testing,Mid,7,2,2,2,3,1,3,2,0,3,2,2,3,0,2,2,2,Deploy Web-Enabled Technologies,Dassault,Available,2025-06-24
+EMP0806,Benjamin Hicks,Designer,CAD,Junior,8,1,3,2,0,3,3,3,2,3,3,1,1,2,1,3,3,Expedite Distributed E-Tailers,Autodesk,Partially Available,2025-07-20
+EMP0807,Andrew Hernandez,Developer,Game Testing,Senior,10,3,3,1,3,2,3,3,1,3,2,2,2,2,3,2,2,Architect Mission-Critical Portals,Autodesk,Partially Available,2025-08-16
+EMP0808,Leslie Strickland,Tester,Game Testing,Junior,20,0,0,2,2,2,1,2,3,3,3,2,0,2,3,3,2,Streamline Dynamic Content,Epic Games,Partially Available,2025-06-21
+EMP0809,Cheryl Rogers,Tester,BIM,Mid,2,2,1,3,2,3,2,1,3,3,1,3,2,3,3,2,2,Maximize Bricks-And-Clicks Schemas,Epic Games,Unavailable,2025-06-09
+EMP0810,Jack Rivera,Developer,BIM,Mid,14,2,1,3,2,3,3,3,2,3,1,1,3,3,2,2,3,Deploy Efficient Relationships,Siemens,Partially Available,2025-08-18
+EMP0811,Stephen Scott,Designer,Game Testing,Mid,13,3,2,2,3,3,1,3,3,2,2,1,0,3,2,1,2,Utilize Scalable Methodologies,Siemens,Unavailable,2025-05-27
+EMP0812,Sheena Stephens,Designer,BIM,Senior,16,3,2,3,1,1,3,3,1,3,3,2,1,3,2,3,2,Whiteboard Plug-And-Play Metrics,Roblox,Available,2025-07-15
+EMP0813,Nicholas Wallace,Developer,CAD,Mid,18,2,0,3,1,2,2,0,3,3,3,1,2,1,1,3,2,Grow Magnetic E-Services,Autodesk,Unavailable,2025-08-22
+EMP0814,Jose Brown,Developer,Game Testing,Mid,14,2,2,1,2,1,3,0,3,3,3,3,3,3,3,3,0,Implement Real-Time Partnerships,Siemens,Available,2025-08-15
+EMP0815,Lisa Erickson,Developer,Game Testing,Mid,14,1,2,1,0,3,3,1,3,1,3,2,2,1,0,1,3,Incentivize Cross-Media Initiatives,Dassault,Available,2025-07-04
+EMP0816,Kenneth Powers,Designer,Game Testing,Senior,19,2,3,1,2,1,1,3,0,2,0,2,2,1,3,2,2,Aggregate B2C Users,Dassault,Partially Available,2025-08-19
+EMP0817,Rachael Silva,Tester,Game Testing,Senior,3,3,3,3,2,1,2,1,3,2,3,2,2,3,2,1,2,Deliver Holistic Functionalities,Autodesk,Available,2025-07-02
+EMP0818,James Prince,Tester,CAD,Senior,6,3,3,3,2,3,1,3,0,3,3,2,3,3,1,2,3,Exploit Out-Of-The-Box Methodologies,Roblox,Unavailable,2025-07-07
+EMP0819,Kayla Taylor,Tester,CAD,Mid,1,3,3,3,2,2,1,3,1,1,2,2,2,3,2,0,3,Seize Vertical Portals,Autodesk,Available,2025-06-08
+EMP0820,Carrie Hawkins,Developer,CAD,Junior,1,0,3,1,2,0,3,3,3,1,3,3,1,2,3,3,1,Embrace Holistic Methodologies,Epic Games,Available,2025-08-02
+EMP0821,George Jones,Tester,CAD,Mid,19,1,3,0,1,3,3,2,1,2,2,3,1,0,3,1,1,Deliver Value-Added Paradigms,Roblox,Partially Available,2025-07-29
+EMP0822,Scott Buchanan,Developer,Game Testing,Junior,16,3,3,2,2,1,1,3,2,3,3,0,3,3,1,3,3,Target Virtual Deliverables,Roblox,Available,2025-07-26
+EMP0823,Marisa Rodriguez,Designer,Game Testing,Junior,19,3,3,3,2,3,3,3,1,1,2,1,3,2,2,3,3,Synergize Robust Infrastructures,Dassault,Partially Available,2025-08-09
+EMP0824,Adriana Jackson,Tester,Game Testing,Junior,6,2,1,2,2,3,1,2,0,0,3,3,2,1,2,3,2,Exploit E-Business Portals,Roblox,Partially Available,2025-07-28
+EMP0825,Larry Craig,Developer,BIM,Senior,8,3,3,1,3,1,3,2,3,3,2,3,3,1,3,1,1,Empower Out-Of-The-Box Mindshare,Siemens,Unavailable,2025-05-26
+EMP0826,Timothy Graves,Designer,Game Testing,Senior,16,1,3,2,2,1,2,2,2,3,1,2,2,2,1,1,3,Optimize Strategic Action-Items,Dassault,Unavailable,2025-07-18
+EMP0827,Steven Orr,Developer,CAD,Junior,8,3,0,2,2,1,2,1,2,2,2,3,3,2,2,3,1,Exploit Ubiquitous Niches,Siemens,Unavailable,2025-08-23
+EMP0828,Dr. Ryan Smith,Tester,Game Testing,Junior,10,2,3,3,1,3,2,3,3,2,1,2,1,3,3,3,1,Transform Impactful Niches,Autodesk,Available,2025-05-31
+EMP0829,Craig Bishop,Tester,Game Testing,Senior,18,2,2,3,0,0,1,3,2,1,2,2,3,2,3,1,0,Redefine Sticky Applications,Roblox,Available,2025-06-09
+EMP0830,Kelly Dickerson,Developer,CAD,Junior,10,3,3,2,3,0,3,2,2,1,1,2,0,3,3,3,2,Deploy Collaborative Content,Dassault,Partially Available,2025-05-29
+EMP0831,Shannon Glenn,Developer,CAD,Junior,14,3,3,3,0,1,3,0,3,1,1,3,1,1,3,2,3,Maximize Mission-Critical Deliverables,Dassault,Unavailable,2025-06-06
+EMP0832,Keith Murphy,Designer,CAD,Senior,17,3,1,1,1,3,3,1,3,2,2,3,1,2,1,3,3,Enhance Dot-Com Paradigms,Siemens,Unavailable,2025-07-24
+EMP0833,Patrick Brewer,Developer,Game Testing,Junior,12,2,2,1,1,1,2,2,2,3,1,1,1,3,2,0,0,Target E-Business Web Services,Dassault,Partially Available,2025-06-29
+EMP0834,Richard Hernandez,Designer,BIM,Mid,9,3,2,3,1,0,3,2,2,3,3,1,0,3,2,1,3,Syndicate Vertical Web Services,Autodesk,Unavailable,2025-07-11
+EMP0835,Philip Duran,Tester,BIM,Mid,14,3,2,3,3,1,2,2,1,1,2,0,3,1,3,1,3,Seize Next-Generation Infrastructures,Siemens,Partially Available,2025-07-31
+EMP0836,Randy Fry,Tester,Game Testing,Senior,9,2,1,3,0,1,3,2,2,2,3,2,1,1,1,3,2,Transition Compelling Eyeballs,Epic Games,Available,2025-06-30
+EMP0837,Sarah Thornton,Tester,CAD,Senior,14,2,2,2,3,3,3,3,1,3,1,0,1,3,2,3,3,Embrace One-To-One E-Tailers,Epic Games,Unavailable,2025-08-20
+EMP0838,Timothy Jones,Designer,BIM,Junior,5,3,0,3,3,3,3,3,2,3,1,1,3,2,2,2,2,Reinvent Visionary E-Services,Autodesk,Available,2025-07-31
+EMP0839,Sarah Tucker,Developer,BIM,Junior,4,1,1,3,2,0,3,2,3,3,2,1,1,2,0,2,2,Synthesize World-Class Metrics,Epic Games,Unavailable,2025-06-18
+EMP0840,Olivia Miller,Designer,Game Testing,Mid,19,1,3,3,3,3,3,2,2,3,3,3,0,3,1,1,3,Synergize Intuitive Niches,Epic Games,Unavailable,2025-05-31
+EMP0841,Mark White,Developer,CAD,Mid,9,3,2,1,3,2,0,2,2,3,0,1,2,2,3,3,1,Brand Integrated Bandwidth,Siemens,Available,2025-08-23
+EMP0842,Alison Brandt,Tester,BIM,Junior,19,2,3,1,1,2,1,3,2,3,3,3,2,3,1,3,1,Maximize Robust Experiences,Dassault,Available,2025-07-09
+EMP0843,Laura Cruz,Tester,BIM,Mid,2,3,3,2,0,1,1,3,3,3,2,1,1,3,0,2,0,Monetize Bleeding-Edge Roi,Epic Games,Unavailable,2025-05-31
+EMP0844,Benjamin Stevenson,Developer,BIM,Mid,12,2,2,3,0,0,1,2,2,2,0,0,3,2,1,3,2,Integrate Cutting-Edge Initiatives,Epic Games,Available,2025-07-05
+EMP0845,Lisa Torres,Tester,BIM,Senior,20,2,1,0,3,3,3,2,3,1,3,0,3,1,2,2,3,Optimize Innovative Systems,Epic Games,Available,2025-08-14
+EMP0846,Lisa Montes,Developer,CAD,Junior,1,3,3,3,0,0,2,2,3,3,1,2,2,2,1,0,3,Revolutionize Granular Action-Items,Siemens,Available,2025-08-07
+EMP0847,Robin Robertson,Developer,BIM,Senior,19,1,3,2,3,2,3,1,2,3,2,3,1,2,2,3,2,Seize E-Business Methodologies,Roblox,Partially Available,2025-07-08
+EMP0848,Susan Arellano,Designer,BIM,Mid,13,3,1,1,0,3,1,2,2,1,3,2,3,0,2,3,3,Streamline Innovative Vortals,Siemens,Available,2025-07-13
+EMP0849,Richard Orozco,Tester,BIM,Junior,5,2,3,3,1,3,1,1,2,3,3,2,3,2,3,3,1,Deliver Ubiquitous Niches,Dassault,Unavailable,2025-06-05
+EMP0850,Phillip Yates,Designer,CAD,Senior,3,1,2,2,3,2,2,3,2,2,0,0,0,3,1,3,3,Optimize 24/365 Partnerships,Epic Games,Partially Available,2025-07-28
+EMP0851,Alexandria Rosario,Developer,BIM,Junior,5,3,3,1,2,2,3,2,0,1,3,2,3,3,3,1,2,Empower World-Class Networks,Roblox,Partially Available,2025-08-16
+EMP0852,John Gilmore,Designer,CAD,Mid,13,3,1,3,3,2,3,0,3,2,2,2,3,2,1,3,3,Embrace Strategic Roi,Dassault,Available,2025-08-22
+EMP0853,David Campos,Developer,CAD,Junior,6,3,3,2,3,0,2,2,3,3,3,1,3,3,3,2,3,Evolve Intuitive E-Services,Roblox,Available,2025-07-01
+EMP0854,Tracy Mitchell,Tester,CAD,Junior,13,3,3,2,2,3,2,1,3,1,3,1,2,3,3,1,3,Exploit Impactful Info-Mediaries,Epic Games,Available,2025-08-14
+EMP0855,Alan Ruiz,Developer,Game Testing,Senior,10,2,3,2,0,0,1,1,3,0,2,3,3,2,3,2,3,Mesh Collaborative Eyeballs,Epic Games,Unavailable,2025-06-16
+EMP0856,Bradley Montgomery,Designer,Game Testing,Junior,17,3,3,3,1,3,2,2,2,1,3,3,1,2,0,0,3,Extend Dynamic Web-Readiness,Dassault,Partially Available,2025-07-25
+EMP0857,Christine Lowe,Developer,Game Testing,Mid,4,2,3,1,3,1,3,3,1,3,3,3,3,1,3,3,3,Optimize Cross-Platform E-Commerce,Epic Games,Partially Available,2025-08-10
+EMP0858,Robert Sheppard,Developer,CAD,Senior,5,2,3,3,3,3,0,1,2,3,0,2,3,3,1,3,3,Synergize Scalable Metrics,Autodesk,Available,2025-07-22
+EMP0859,Paul Kirby,Developer,Game Testing,Junior,17,2,3,0,1,1,2,1,2,2,1,0,1,2,3,3,3,Scale Clicks-And-Mortar Infrastructures,Epic Games,Available,2025-07-22
+EMP0860,Christopher Jones,Designer,Game Testing,Senior,8,3,1,2,3,3,3,1,3,3,2,3,1,2,2,3,2,Orchestrate Real-Time Bandwidth,Dassault,Unavailable,2025-07-27
+EMP0861,Katherine Brock,Developer,CAD,Junior,2,3,2,2,3,3,3,2,2,1,3,2,1,2,3,2,2,Redefine Dot-Com Web Services,Epic Games,Partially Available,2025-06-14
+EMP0862,Steven Larson,Tester,Game Testing,Junior,15,1,3,1,3,1,3,3,2,3,3,2,3,3,3,2,3,Implement Collaborative Schemas,Autodesk,Partially Available,2025-07-12
+EMP0863,Alejandra Ortiz,Developer,CAD,Junior,17,3,3,3,2,2,3,3,2,2,2,3,2,2,3,3,1,Re-Contextualize Open-Source Eyeballs,Autodesk,Unavailable,2025-06-16
+EMP0864,Cindy Tate,Tester,Game Testing,Senior,1,1,2,2,0,2,2,3,1,3,2,0,1,3,2,2,1,Aggregate Open-Source Roi,Epic Games,Available,2025-07-09
+EMP0865,Shane Thomas,Developer,CAD,Junior,17,3,2,3,2,3,3,2,1,3,3,3,2,0,1,2,3,Utilize Best-Of-Breed Initiatives,Epic Games,Available,2025-07-16
+EMP0866,Isaiah Davis,Developer,Game Testing,Senior,14,0,2,2,3,3,0,1,0,3,1,3,1,3,2,1,3,Reinvent Front-End Users,Epic Games,Partially Available,2025-08-05
+EMP0867,Dylan Barnett,Tester,CAD,Mid,18,3,0,3,3,3,3,2,2,1,1,2,1,3,3,1,2,Morph Cross-Platform Supply-Chains,Epic Games,Unavailable,2025-06-02
+EMP0868,Brandy Soto,Tester,Game Testing,Senior,1,3,1,0,1,2,3,0,1,2,3,2,1,3,3,3,3,Synergize Rich Convergence,Roblox,Available,2025-08-13
+EMP0869,Jonathan Thornton,Tester,CAD,Junior,14,3,3,2,1,3,3,2,3,1,2,2,3,3,2,1,3,Revolutionize Sticky E-Services,Autodesk,Available,2025-08-21
+EMP0870,Angela Yang,Designer,CAD,Senior,20,0,1,2,3,1,0,2,2,3,0,1,2,3,1,1,2,Enhance Compelling Action-Items,Epic Games,Partially Available,2025-08-17
+EMP0871,Casey Knight,Tester,Game Testing,Mid,4,3,1,1,2,3,3,1,3,2,3,3,3,3,3,2,2,Maximize Frictionless Methodologies,Dassault,Unavailable,2025-07-21
+EMP0872,Kristina Wiley,Tester,Game Testing,Mid,5,2,3,1,1,1,3,2,0,0,2,2,2,1,3,3,1,Transform Holistic Experiences,Epic Games,Partially Available,2025-07-01
+EMP0873,Joanna Coleman,Developer,BIM,Mid,6,3,3,0,1,2,2,3,1,3,2,0,3,3,2,1,3,Morph Bricks-And-Clicks Infrastructures,Siemens,Partially Available,2025-06-17
+EMP0874,Michael Acosta,Developer,Game Testing,Mid,10,3,3,3,3,1,3,2,2,1,1,1,2,1,1,1,3,Incentivize Wireless Partnerships,Autodesk,Partially Available,2025-08-04
+EMP0875,Brittany Jones,Designer,CAD,Senior,4,3,2,0,2,2,0,1,2,3,3,2,1,2,2,2,0,Synergize Viral Interfaces,Siemens,Available,2025-08-19
+EMP0876,Angela Torres,Designer,BIM,Senior,2,3,2,3,3,1,1,1,2,2,2,1,1,1,2,3,2,Synergize World-Class Methodologies,Siemens,Available,2025-06-07
+EMP0877,Roger Hernandez,Designer,Game Testing,Junior,4,2,2,1,2,1,1,1,3,2,3,2,2,3,0,3,1,Leverage World-Class Content,Autodesk,Available,2025-07-21
+EMP0878,Randy King,Designer,Game Testing,Mid,6,0,1,2,3,1,3,3,2,2,0,3,3,3,2,3,2,Engage Visionary E-Markets,Autodesk,Unavailable,2025-06-05
+EMP0879,John Fox,Developer,Game Testing,Junior,16,3,3,2,2,0,1,2,3,1,3,1,3,2,3,3,3,Deliver Cross-Platform Bandwidth,Roblox,Available,2025-06-23
+EMP0880,Karen Cox,Tester,Game Testing,Mid,2,1,3,2,1,1,2,1,3,1,3,3,2,1,1,1,3,Transform E-Business Users,Siemens,Unavailable,2025-05-31
+EMP0881,Elizabeth Graham,Tester,Game Testing,Senior,14,3,2,3,2,2,1,2,2,1,3,3,3,3,1,2,2,Re-Contextualize Value-Added Channels,Epic Games,Available,2025-07-11
+EMP0882,Sherry Weber,Tester,BIM,Junior,10,2,0,0,3,3,3,0,2,2,2,0,2,1,1,1,3,Generate Visionary Users,Siemens,Unavailable,2025-08-05
+EMP0883,Chad Roman,Tester,BIM,Junior,12,3,0,2,0,0,3,2,0,0,1,3,3,2,2,3,1,Utilize Proactive Infrastructures,Dassault,Unavailable,2025-07-25
+EMP0884,Christy Stephens,Tester,BIM,Senior,7,1,1,3,2,2,3,3,2,3,2,2,2,1,3,0,1,Scale Compelling Portals,Siemens,Available,2025-06-04
+EMP0885,Ashley Ruiz,Developer,CAD,Mid,7,1,2,3,3,3,3,2,2,3,1,3,2,0,3,3,1,Exploit Open-Source E-Tailers,Dassault,Partially Available,2025-07-25
+EMP0886,Candice Miller,Tester,CAD,Mid,8,3,3,1,2,2,1,2,1,3,1,3,2,2,3,3,0,Embrace Synergistic Systems,Siemens,Partially Available,2025-07-30
+EMP0887,Tara Esparza,Designer,CAD,Junior,17,1,3,3,2,1,0,2,3,3,0,2,3,3,3,3,3,Scale Virtual Methodologies,Dassault,Partially Available,2025-06-11
+EMP0888,Heather Duarte,Designer,CAD,Senior,6,1,2,2,1,3,3,2,1,2,2,3,1,3,3,3,2,Integrate End-To-End E-Services,Epic Games,Available,2025-08-18
+EMP0889,Kelly Burgess,Designer,BIM,Senior,6,1,3,3,2,3,1,2,0,2,2,2,2,3,2,3,3,Embrace Cross-Platform Mindshare,Epic Games,Partially Available,2025-05-30
+EMP0890,Jacqueline Little,Designer,BIM,Junior,13,2,3,2,1,3,2,1,1,1,3,1,1,2,2,0,2,Engineer Efficient Paradigms,Roblox,Partially Available,2025-07-24
+EMP0891,Mrs. Ashley Trujillo,Designer,CAD,Senior,20,2,2,2,2,3,2,2,1,0,1,2,2,3,2,2,3,Grow Web-Enabled Users,Epic Games,Unavailable,2025-06-18
+EMP0892,Alexandria Rodriguez,Tester,CAD,Senior,13,2,3,2,3,3,2,3,2,3,2,2,0,1,3,3,2,Repurpose Open-Source Niches,Dassault,Available,2025-05-30
+EMP0893,Carlos Dominguez,Developer,Game Testing,Junior,1,3,2,1,3,2,3,3,3,3,3,2,1,1,2,1,3,Cultivate Frictionless Functionalities,Epic Games,Partially Available,2025-08-10
+EMP0894,Ryan Morales,Designer,CAD,Senior,15,3,1,2,3,2,3,1,0,0,3,2,2,3,3,2,3,Iterate Magnetic Eyeballs,Dassault,Unavailable,2025-07-08
+EMP0895,Justin Long,Developer,CAD,Mid,2,2,3,3,3,3,3,3,3,3,3,1,2,2,3,3,1,Enable Ubiquitous E-Tailers,Autodesk,Available,2025-07-15
+EMP0896,William James,Tester,CAD,Junior,8,3,3,3,2,2,2,3,2,3,3,0,3,3,3,1,2,Deploy Clicks-And-Mortar Action-Items,Dassault,Partially Available,2025-07-10
+EMP0897,Christine Evans,Developer,BIM,Junior,16,1,0,2,0,3,2,2,1,3,3,3,1,3,1,3,3,E-Enable Frictionless Markets,Siemens,Available,2025-08-06
+EMP0898,Matthew Hale,Tester,CAD,Mid,17,3,0,1,2,1,1,1,3,3,3,0,3,3,1,3,0,Deliver Frictionless Partnerships,Siemens,Available,2025-08-13
+EMP0899,Jessica Wilson,Developer,BIM,Junior,16,1,3,3,2,3,1,3,2,3,3,1,2,2,1,0,1,Implement Bleeding-Edge Vortals,Roblox,Unavailable,2025-08-07
+EMP0900,Jacob Hernandez,Tester,Game Testing,Mid,4,2,2,3,2,3,3,2,3,2,2,3,2,3,3,2,0,Leverage Mission-Critical Portals,Autodesk,Partially Available,2025-06-20
+EMP0901,Virginia Moore,Designer,Game Testing,Junior,1,3,3,1,3,2,3,1,2,2,3,3,2,3,0,0,2,Synergize Killer Platforms,Autodesk,Available,2025-05-27
+EMP0902,Sandra Graham,Designer,BIM,Senior,7,3,2,2,3,3,2,2,2,2,0,2,3,2,2,2,3,Expedite Out-Of-The-Box E-Services,Epic Games,Partially Available,2025-07-30
+EMP0903,Christy Smith,Tester,CAD,Junior,8,0,1,3,3,3,1,0,2,3,2,2,3,3,3,2,2,Evolve Mission-Critical Supply-Chains,Epic Games,Available,2025-08-16
+EMP0904,Ariana Gordon,Tester,Game Testing,Mid,12,0,0,2,3,3,3,2,1,2,3,2,0,2,2,3,0,Target Extensible Experiences,Autodesk,Available,2025-06-01
+EMP0905,Ryan Larsen,Tester,CAD,Senior,9,1,3,3,1,0,0,1,2,3,1,1,3,0,2,3,1,Innovate World-Class Web-Readiness,Roblox,Unavailable,2025-07-25
+EMP0906,Christina Carter,Tester,BIM,Mid,9,3,2,3,2,3,3,1,3,2,3,3,1,3,1,3,3,Scale Front-End E-Tailers,Epic Games,Available,2025-08-22
+EMP0907,Chelsea Mason,Tester,BIM,Mid,3,3,1,1,3,2,1,1,2,1,3,3,3,0,2,2,1,Scale Leading-Edge Metrics,Dassault,Partially Available,2025-07-28
+EMP0908,Johnny Wood,Designer,BIM,Mid,14,2,1,3,3,0,2,0,3,1,1,0,2,2,2,2,3,Utilize Rich Communities,Epic Games,Unavailable,2025-06-30
+EMP0909,Troy Chambers,Designer,CAD,Senior,3,0,2,3,1,2,3,3,2,2,3,3,2,0,3,2,3,Envisioneer Integrated Users,Roblox,Partially Available,2025-06-30
+EMP0910,David Hunt,Designer,Game Testing,Mid,1,3,1,3,2,3,1,3,3,0,3,3,2,2,3,3,3,Optimize Bleeding-Edge Communities,Siemens,Partially Available,2025-08-23
+EMP0911,Stephanie Cross,Tester,CAD,Junior,7,3,1,2,1,3,1,2,3,3,0,3,0,2,1,3,3,Maximize Plug-And-Play Mindshare,Dassault,Available,2025-07-17
+EMP0912,Amanda Chung,Tester,Game Testing,Mid,13,3,2,2,2,3,3,2,3,2,3,1,3,2,2,2,3,Engineer Proactive Portals,Autodesk,Partially Available,2025-06-18
+EMP0913,Brandon Johnson,Designer,CAD,Junior,1,2,1,3,1,1,3,1,3,3,3,3,3,2,1,1,0,Benchmark Extensible Methodologies,Autodesk,Unavailable,2025-06-06
+EMP0914,Lisa Miller,Tester,BIM,Senior,1,2,1,3,3,2,3,1,1,3,3,1,1,3,2,0,2,Iterate Collaborative E-Markets,Roblox,Partially Available,2025-06-17
+EMP0915,Mary Ray,Developer,CAD,Senior,3,2,3,2,1,1,3,2,1,0,3,3,3,3,3,1,2,Drive Vertical Markets,Autodesk,Available,2025-06-28
+EMP0916,Katie Browning,Developer,BIM,Mid,17,3,3,3,2,2,1,2,3,3,3,3,3,0,2,2,3,Iterate Revolutionary Infrastructures,Dassault,Partially Available,2025-05-28
+EMP0917,Richard Huff,Developer,CAD,Junior,18,3,2,1,3,2,1,0,1,0,3,3,1,3,2,1,3,Synergize Wireless Niches,Autodesk,Partially Available,2025-06-26
+EMP0918,Emily Hobbs,Tester,CAD,Senior,3,2,2,0,2,1,3,1,2,1,3,3,1,0,0,1,3,Transition Front-End Metrics,Siemens,Unavailable,2025-08-22
+EMP0919,Crystal Chavez,Designer,CAD,Mid,18,3,3,2,1,3,1,3,2,3,3,2,1,0,3,3,1,Reinvent World-Class Experiences,Dassault,Unavailable,2025-08-14
+EMP0920,Eugene Caldwell,Designer,CAD,Senior,4,2,3,1,1,2,3,2,2,2,1,1,0,2,0,3,2,Incubate Magnetic Experiences,Autodesk,Unavailable,2025-06-23
+EMP0921,Alan Moss,Developer,Game Testing,Junior,4,2,3,2,3,0,3,3,0,3,0,2,0,3,1,0,2,Re-Contextualize Intuitive E-Business,Autodesk,Unavailable,2025-07-11
+EMP0922,Alexander Forbes,Tester,CAD,Mid,11,2,1,3,3,0,0,3,2,3,3,3,3,3,1,3,1,Synthesize Revolutionary Supply-Chains,Siemens,Partially Available,2025-05-28
+EMP0923,Alex Holland DDS,Tester,BIM,Senior,14,3,1,3,2,1,2,3,3,2,1,3,2,0,3,3,2,Utilize Wireless Relationships,Autodesk,Partially Available,2025-08-11
+EMP0924,Patrick Austin,Designer,CAD,Junior,8,3,2,0,1,3,0,2,2,2,2,3,2,2,3,3,3,Morph 24/7 Content,Dassault,Unavailable,2025-06-29
+EMP0925,Dr. Amber Burke,Tester,Game Testing,Mid,4,3,3,3,1,1,3,1,3,3,3,2,1,0,1,3,2,Orchestrate Strategic E-Markets,Epic Games,Partially Available,2025-07-01
+EMP0926,Tamara Alvarez,Tester,BIM,Senior,6,2,2,1,2,1,2,1,3,1,2,0,1,2,2,3,1,Evolve Distributed Content,Siemens,Partially Available,2025-07-15
+EMP0927,Stephen Smith,Tester,CAD,Senior,4,3,2,2,0,1,0,3,3,2,2,3,3,2,2,3,1,Engineer Ubiquitous Applications,Siemens,Available,2025-06-23
+EMP0928,Scott Coffey,Tester,BIM,Senior,8,3,1,2,1,1,3,1,1,2,0,3,2,1,3,3,3,Expedite Cutting-Edge Channels,Epic Games,Partially Available,2025-07-05
+EMP0929,Willie Robinson,Designer,BIM,Mid,4,0,3,0,1,2,2,3,3,0,0,2,3,3,3,1,3,Extend Turn-Key Paradigms,Epic Games,Unavailable,2025-08-13
+EMP0930,Dawn Castaneda,Developer,BIM,Junior,13,1,1,0,3,3,1,2,0,2,3,1,3,3,3,1,1,Transition Collaborative Architectures,Dassault,Unavailable,2025-07-21
+EMP0931,Heidi Hess,Developer,Game Testing,Junior,12,0,2,3,3,2,1,2,0,2,3,1,3,0,0,2,2,Engineer Cross-Media Interfaces,Roblox,Unavailable,2025-07-22
+EMP0932,April Wilson,Tester,CAD,Junior,19,0,3,0,2,3,1,3,2,1,3,3,1,2,1,1,3,Aggregate Viral Paradigms,Epic Games,Partially Available,2025-07-16
+EMP0933,Megan Maldonado DVM,Designer,Game Testing,Senior,6,3,3,2,0,3,2,1,3,2,3,2,3,3,2,3,3,Deliver B2C E-Markets,Autodesk,Unavailable,2025-08-04
+EMP0934,Sharon Hardin,Tester,Game Testing,Senior,18,3,3,3,2,1,0,1,3,3,0,2,3,3,1,1,2,Grow Granular Synergies,Siemens,Available,2025-07-11
+EMP0935,Vincent Moore,Tester,CAD,Mid,11,3,1,1,3,1,3,2,3,1,2,3,3,2,2,2,3,Redefine Viral E-Markets,Siemens,Available,2025-07-18
+EMP0936,Jessica Brown,Tester,CAD,Junior,15,1,1,2,3,3,3,1,3,1,3,3,1,3,0,1,2,Architect Killer Partnerships,Roblox,Partially Available,2025-06-11
+EMP0937,Amy Odonnell,Developer,Game Testing,Senior,9,3,3,3,3,3,1,1,3,3,2,2,3,1,3,3,3,Deploy Collaborative Channels,Roblox,Unavailable,2025-07-06
+EMP0938,Matthew Jackson,Tester,CAD,Mid,4,1,1,2,2,0,3,3,1,1,1,0,1,3,2,3,3,Integrate Cross-Platform Vortals,Epic Games,Available,2025-08-23
+EMP0939,Michelle Perkins,Tester,Game Testing,Senior,15,3,2,1,3,1,3,1,0,1,2,1,0,3,3,3,0,Leverage Real-Time Communities,Autodesk,Unavailable,2025-07-21
+EMP0940,Justin Dixon,Designer,BIM,Junior,11,1,1,3,3,2,3,3,3,3,3,3,1,0,3,0,3,Orchestrate Best-Of-Breed Channels,Siemens,Unavailable,2025-06-03
+EMP0941,Patrick Richard,Tester,Game Testing,Junior,1,2,2,3,0,2,0,1,3,3,3,2,3,1,3,0,3,Enhance Customized Metrics,Epic Games,Available,2025-07-25
+EMP0942,Duane Henry,Developer,BIM,Mid,16,3,3,2,1,2,3,2,3,2,2,3,3,3,3,2,2,Redefine Cross-Platform Functionalities,Dassault,Available,2025-06-21
+EMP0943,Francisco Mendoza,Developer,CAD,Mid,17,1,3,3,2,3,1,0,0,3,2,2,1,3,3,3,1,Deliver Granular Methodologies,Dassault,Available,2025-07-08
+EMP0944,Anna Vasquez,Tester,BIM,Senior,8,3,0,3,3,1,3,2,2,1,0,0,2,1,3,3,0,Engineer Visionary Markets,Dassault,Partially Available,2025-06-19
+EMP0945,James Sullivan,Designer,Game Testing,Senior,20,3,2,2,1,2,1,0,3,2,2,3,3,2,1,3,1,Scale Efficient Functionalities,Roblox,Unavailable,2025-06-10
+EMP0946,Autumn Smith,Designer,Game Testing,Senior,10,1,3,2,3,2,2,2,2,3,3,2,1,3,2,3,3,Re-Intermediate Visionary Paradigms,Dassault,Available,2025-05-31
+EMP0947,Jessica Miller,Designer,Game Testing,Junior,11,0,3,1,2,3,3,3,3,2,3,0,2,1,3,3,2,Transition Best-Of-Breed Networks,Dassault,Unavailable,2025-07-07
+EMP0948,Elizabeth Duffy,Developer,Game Testing,Senior,9,3,3,0,3,2,1,1,3,2,3,2,3,2,2,2,3,E-Enable Rich Relationships,Dassault,Partially Available,2025-06-24
+EMP0949,Anthony Curry,Developer,Game Testing,Senior,5,3,2,3,3,3,1,2,2,2,3,3,2,2,1,2,2,Transition Dynamic Niches,Dassault,Unavailable,2025-07-13
+EMP0950,James Bowen,Designer,Game Testing,Mid,16,0,3,1,2,2,3,0,1,1,3,2,3,2,3,0,2,Deliver Collaborative Bandwidth,Epic Games,Partially Available,2025-07-05
+EMP0951,Samantha Carpenter,Designer,BIM,Junior,5,3,3,3,1,3,2,3,2,3,3,3,2,1,2,2,2,Evolve Rich Interfaces,Siemens,Partially Available,2025-07-11
+EMP0952,Devin Phillips,Developer,BIM,Mid,14,3,1,2,3,2,3,0,2,3,3,2,0,3,2,3,2,Scale Magnetic Markets,Epic Games,Partially Available,2025-08-11
+EMP0953,Gary Lambert,Tester,BIM,Senior,5,1,3,0,3,2,0,3,2,2,3,2,0,3,1,0,2,Revolutionize Frictionless Synergies,Roblox,Partially Available,2025-06-22
+EMP0954,Jason Clark,Designer,CAD,Junior,11,2,2,0,1,3,2,2,3,1,3,3,2,2,2,3,2,Re-Contextualize Efficient E-Commerce,Roblox,Partially Available,2025-07-07
+EMP0955,James Jones,Developer,CAD,Junior,5,3,1,1,2,0,3,2,2,0,0,2,3,2,3,2,0,Innovate Bricks-And-Clicks Channels,Autodesk,Partially Available,2025-05-28
+EMP0956,Amy Lawson,Tester,Game Testing,Junior,10,3,3,2,0,0,3,1,1,2,2,3,2,2,2,2,0,Target Integrated Info-Mediaries,Roblox,Partially Available,2025-06-15
+EMP0957,Michelle Alvarez,Designer,CAD,Junior,4,1,2,3,1,2,0,3,2,3,3,3,3,3,3,1,1,Incentivize Synergistic E-Tailers,Autodesk,Unavailable,2025-08-10
+EMP0958,Mrs. Lisa Larsen,Designer,Game Testing,Junior,2,0,3,3,2,3,3,3,2,3,1,2,1,3,2,1,2,Seize Viral Partnerships,Siemens,Partially Available,2025-06-09
+EMP0959,Rodney Coffey,Developer,BIM,Senior,17,2,1,0,3,3,1,2,3,3,0,1,2,3,3,3,3,Re-Contextualize Extensible E-Markets,Autodesk,Unavailable,2025-07-21
+EMP0960,Sarah Morales,Developer,Game Testing,Junior,20,2,1,1,2,3,2,1,2,3,2,2,0,0,3,1,2,Incubate Web-Enabled Initiatives,Dassault,Partially Available,2025-06-16
+EMP0961,Maria Middleton,Tester,CAD,Mid,20,3,1,1,3,2,2,1,2,0,3,1,3,0,3,3,0,Visualize Compelling Systems,Roblox,Partially Available,2025-07-05
+EMP0962,Roberto Russell,Developer,Game Testing,Senior,9,3,1,2,3,2,1,2,2,2,2,3,3,2,3,3,1,Generate Web-Enabled Action-Items,Epic Games,Partially Available,2025-08-10
+EMP0963,Jeffrey Wagner,Tester,BIM,Junior,16,3,3,3,1,2,1,0,3,1,3,1,3,1,1,2,3,Seize Killer Architectures,Roblox,Partially Available,2025-08-10
+EMP0964,Jeffrey Hernandez,Designer,Game Testing,Senior,7,3,3,3,2,2,2,1,2,2,3,1,3,3,3,3,1,Architect Granular Communities,Siemens,Unavailable,2025-08-07
+EMP0965,Kimberly Snyder,Designer,Game Testing,Senior,1,3,3,1,3,2,0,3,3,3,2,2,3,3,3,3,3,Integrate Virtual E-Markets,Roblox,Unavailable,2025-07-30
+EMP0966,Ernest Knight,Designer,BIM,Mid,2,3,0,3,3,1,1,1,1,2,2,1,3,1,3,2,2,Embrace Extensible Web Services,Epic Games,Available,2025-08-22
+EMP0967,Diane Moore,Developer,CAD,Senior,6,2,3,2,1,2,2,3,0,1,2,3,1,2,2,1,1,Harness Clicks-And-Mortar Action-Items,Autodesk,Partially Available,2025-08-01
+EMP0968,Kenneth Arellano,Tester,CAD,Mid,4,2,3,3,1,3,1,2,1,1,2,2,2,2,0,3,0,Generate 24/365 Content,Dassault,Unavailable,2025-06-19
+EMP0969,Patrick Combs,Developer,BIM,Senior,12,2,1,2,3,1,2,2,0,1,3,2,1,0,2,3,3,Reinvent World-Class E-Markets,Siemens,Partially Available,2025-06-24
+EMP0970,Steven Hopkins,Tester,BIM,Junior,5,0,2,1,1,2,2,3,3,0,3,3,3,2,3,2,1,Deliver Revolutionary Portals,Epic Games,Partially Available,2025-07-02
+EMP0971,William Compton,Tester,BIM,Mid,18,1,1,1,0,1,3,1,1,0,2,3,1,2,3,3,1,Iterate Magnetic Niches,Dassault,Partially Available,2025-08-13
+EMP0972,Matthew Winters,Developer,BIM,Junior,19,2,3,3,1,2,0,3,3,3,3,3,2,2,0,2,1,Orchestrate Vertical Metrics,Roblox,Available,2025-05-30
+EMP0973,Tracy Hernandez,Developer,Game Testing,Mid,20,0,3,3,0,3,3,1,3,3,0,2,0,3,0,2,1,Orchestrate Next-Generation Architectures,Roblox,Available,2025-08-05
+EMP0974,Robert Russell,Designer,BIM,Junior,15,3,0,3,3,3,3,2,0,1,1,0,3,1,0,3,1,Enable Cross-Media E-Business,Dassault,Available,2025-08-03
+EMP0975,Christopher Kerr,Designer,BIM,Mid,8,3,0,0,2,2,0,2,3,3,1,3,2,3,1,1,2,Matrix End-To-End Applications,Dassault,Available,2025-06-21
+EMP0976,Jamie Reynolds,Designer,Game Testing,Mid,4,3,2,1,1,3,2,0,3,2,1,1,3,2,2,1,3,Seize Clicks-And-Mortar E-Markets,Roblox,Unavailable,2025-06-07
+EMP0977,Carla Stark,Developer,CAD,Senior,13,1,1,3,1,3,2,2,3,0,0,0,2,2,2,3,3,Embrace Revolutionary Architectures,Epic Games,Unavailable,2025-07-08
+EMP0978,Janet Smith,Developer,CAD,Junior,18,3,1,2,3,1,3,3,1,3,2,1,3,2,2,3,2,Streamline Impactful Functionalities,Roblox,Unavailable,2025-05-29
+EMP0979,Austin Bentley,Developer,BIM,Mid,16,2,2,1,2,1,3,2,2,3,1,3,1,1,1,3,2,Revolutionize Dot-Com Schemas,Autodesk,Unavailable,2025-07-10
+EMP0980,Carl Mahoney,Tester,CAD,Junior,17,2,0,1,0,1,3,1,2,2,2,3,0,3,3,1,0,Deliver Real-Time Channels,Siemens,Available,2025-06-14
+EMP0981,Christina Ford,Designer,Game Testing,Senior,8,0,0,2,3,0,1,0,3,3,2,3,0,2,2,3,3,Seize Ubiquitous Experiences,Epic Games,Unavailable,2025-06-12
+EMP0982,Maria Jenkins,Tester,Game Testing,Mid,1,2,2,1,1,3,3,3,1,3,3,1,2,1,1,3,3,Strategize One-To-One Paradigms,Siemens,Unavailable,2025-07-17
+EMP0983,William Wilcox,Developer,BIM,Senior,6,1,1,3,3,0,3,3,3,1,3,1,1,2,2,2,3,Repurpose Visionary Content,Autodesk,Unavailable,2025-07-26
+EMP0984,Leslie Vance,Designer,BIM,Junior,15,2,3,0,2,2,3,1,0,1,3,3,1,1,1,2,1,Unleash B2B Technologies,Autodesk,Unavailable,2025-08-04
+EMP0985,Dorothy Daniel,Developer,BIM,Senior,4,3,3,3,2,3,1,1,2,2,1,1,2,1,1,1,1,Incentivize Viral Action-Items,Epic Games,Available,2025-07-28
+EMP0986,Debbie Owens,Developer,Game Testing,Junior,19,2,1,3,0,2,3,3,1,3,2,1,2,1,2,3,2,Engineer Back-End E-Services,Dassault,Partially Available,2025-06-09
+EMP0987,Heather Nguyen,Tester,Game Testing,Mid,1,3,3,3,3,2,2,2,1,0,3,2,3,1,1,3,3,Evolve Sticky Portals,Autodesk,Unavailable,2025-08-06
+EMP0988,Laura Lopez,Developer,BIM,Mid,11,3,3,1,3,3,3,2,2,2,3,3,3,0,3,1,3,Orchestrate Collaborative Architectures,Dassault,Available,2025-05-28
+EMP0989,Sherry Hebert,Tester,CAD,Senior,16,2,2,2,3,3,0,2,2,3,1,3,2,2,3,3,1,Engage Enterprise Synergies,Epic Games,Partially Available,2025-08-04
+EMP0990,Amy White,Tester,BIM,Senior,5,0,0,3,1,2,2,2,2,1,0,0,1,3,0,1,2,Extend Innovative Convergence,Autodesk,Available,2025-07-18
+EMP0991,Timothy Martinez,Tester,Game Testing,Mid,14,2,0,2,3,2,3,1,1,3,2,3,3,2,0,1,1,Maximize Robust Methodologies,Dassault,Partially Available,2025-08-11
+EMP0992,Judy Henderson,Developer,Game Testing,Junior,14,1,3,3,1,2,1,3,3,3,2,2,1,0,1,2,3,Evolve Out-Of-The-Box Paradigms,Roblox,Unavailable,2025-06-24
+EMP0993,Brooke Allen,Tester,CAD,Mid,9,3,2,3,2,3,0,1,3,2,3,3,3,2,0,3,2,Envisioneer Proactive Solutions,Roblox,Partially Available,2025-06-03
+EMP0994,Lisa Zimmerman,Developer,CAD,Junior,17,3,3,2,3,0,1,1,2,2,1,3,3,1,2,2,3,Whiteboard Dynamic E-Markets,Roblox,Available,2025-07-10
+EMP0995,Kathy Booker,Designer,BIM,Mid,6,2,3,3,1,3,3,3,3,1,3,2,2,3,3,3,2,Aggregate World-Class Eyeballs,Siemens,Partially Available,2025-07-23
+EMP0996,Amber Welch,Developer,Game Testing,Junior,8,3,3,3,3,1,2,3,2,1,2,1,3,2,1,1,2,Disintermediate Innovative Functionalities,Epic Games,Available,2025-07-29
+EMP0997,John Harvey,Designer,BIM,Junior,5,3,3,2,3,1,2,3,1,1,3,2,3,3,0,1,0,Drive B2B Portals,Siemens,Unavailable,2025-08-22
+EMP0998,Barbara Obrien,Tester,CAD,Mid,10,3,2,2,3,3,3,3,3,2,1,3,3,2,0,3,2,Target Wireless Niches,Autodesk,Unavailable,2025-08-18
+EMP0999,Mr. John Johnson Jr.,Tester,CAD,Senior,13,1,2,3,2,1,2,3,0,3,3,2,3,2,2,2,3,Maximize Seamless Infrastructures,Epic Games,Unavailable,2025-08-07
+EMP1000,Patrick Williamson,Designer,BIM,Junior,10,1,2,3,2,0,3,1,2,1,3,0,0,0,2,0,3,Re-Contextualize Cutting-Edge Technologies,Autodesk,Available,2025-08-19
